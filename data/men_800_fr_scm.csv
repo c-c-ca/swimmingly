@@ -1,0 +1,1136 @@
+result_rank	full_name	distance	time_id	event_desc	swimmer_age	swim_time_formatted	alt_adj_swim_time_formatted	standard_name	meet_name	swim_date	club_name	lsc_id	foreign_yesno	hytek_power_points	event_id	gender
+1	McBroom, Michael	800	81307331	800 FR SCM	22	7:33.99	7:33.99	AAAA	2013 Duel in the Pool	12/20/2013	Unattached	GU		1060	32	m
+2	Mellouli, Ous	800	91606132	800 FR SCM	30	7:36.84	7:36.84	AAAA	2014 SCM World Champs 	12/3/2014	Unattached	CA	Yes	1043	32	m
+3	Klueh, Michael	800	61028804	800 FR SCM	24	7:39.90	7:39.90	AAAA	2011 Duel In The Pool 	12/16/2011	Unattached	CA		1025	32	m
+4	Agnel, Yannick	800	81307272	800 FR SCM	21	7:42.07	7:42.07	AAAA	2013 Duel in the Pool	12/20/2013	Unattached	MD	Yes	1012	32	m
+5	Glaesner, Mads	800	61028789	800 FR SCM	23	7:42.27	7:42.27	AAAA	2011 Duel In The Pool 	12/16/2011	Unattached	CA	Yes	1011	32	m
+6	Wilimovsky, Jordan	800	123219409	800 FR SCM	23	7:44.40	7:44.40	2019 Winter US Open (LCM)	2017 Hancock Prospecting Short	10/27/2017	Team Santa Monica	CA		998	32	m
+7	Sweetser, True	800	113845398	800 FR SCM	19	7:44.91	7:44.91	2019 Winter US Open (LCM)	2016 SCM World Champs 	12/6/2016	Gator Swim Club	FL		995	32	m
+8	Ipsen, Anton	800	113845475	800 FR SCM	22	7:45.36	7:45.36	2019 Winter US Open (LCM)	2016 SCM World Champs 	12/6/2016	NC State University	NC	Yes	992	32	m
+9	Sawrymowicz, Mateusz	800	71149777	800 FR SCM	25	7:46.45	7:46.45	AAAA	2012 SCM World Champs	12/12/2012	Trojan Swim Club	CA	Yes	986	32	m
+10	Ransford, Pj	800	113845386	800 FR SCM	20	7:48.35	7:48.35	2019 Winter US Open (LCM)	2016 SCM World Champs 	12/6/2016	Univ. Of Michigan Swim Team	MI		975	32	m
+11	Vanderkaay, Peter	800	61028838	800 FR SCM	27	7:48.48	7:48.48	AAAA	2011 Duel In The Pool 	12/16/2011	Unattached	MI		974	32	m
+12	Graudins, Alexander	800	90363853	800 FR SCM	24	7:49.04	7:49.04	AAAA	2014 Australian Short Course Championships	11/5/2014	Pine Crest Swimming	FG	Yes	971	32	m
+13	Auboeck, Felix	800	113845327	800 FR SCM	19	7:49.33	7:49.33	2019 Winter US Open (LCM)	2016 SCM World Champs 	12/6/2016	Univ. Of Michigan Swim Team	MI	Yes	969	32	m
+14	Feeley, Ryan	800	71149622	800 FR SCM	21	7:49.84	7:49.84	AAAA	2012 SCM World Champs	12/12/2012	Univ. Of Michigan Swim Team	MI		966	32	m
+15	Hirai, Yasu	800	110623781	800 FR SCM	26	7:51.66	7:51.66	2019 Winter US Open (LCM)	2016 World Cup - Berlin	8/30/2016	Tennessee Aquatics	SE	Yes	956	32	m
+16	Grieshop, Sean	800	89885041	800 FR SCM	15	7:53.15	7:53.15	AAAA	2014 World Cup - Singapore	11/1/2014	Nitro Swimming	ST		1021	32	m
+17	Arapiraca, Luis Rogerio	800	117711021	800 FR SCM	28	7:55.14	7:55.14	2019 Winter US Open (LCM)	Jose Finkel Trophy	9/14/2016	Unattached	FG	Yes	936	32	m
+18	Abruzzo, Andrew	800	111785835	800 FR SCM	16	7:57.60	7:57.60	2019 Winter US Open (LCM)	2016 World Cup - Tokyo	10/25/2016	Plymouth Whitemarsh Aquatics	MA		930	32	m
+19	Acosta, Marcelo	800	91606057	800 FR SCM	18	7:57.85	7:57.85	AAAA	2014 SCM World Champs 	12/3/2014	Azura Florida Aquatics	FG	Yes	920	32	m
+20	El Kamash, Marwan	800	134859242	800 FR SCM	24	7:58.57	7:58.57	AAAA	2019 World Cup -Beijing	11/2/2018	Unattached	AZ	Yes	916	32	m
+21	Meichtry, Dominik	800	71149723	800 FR SCM	28	7:59.09	7:59.09	AAAA	2012 SCM World Champs	12/12/2012	Trojan Swim Club	CA	Yes	913	32	m
+22	Enderica, Esteban	800	71149618	800 FR SCM	22	7:59.25	7:59.25	AAAA	2012 SCM World Champs	12/12/2012	Davie Nadadores Swim Team	FG	Yes	912	32	m
+23	Yildirimer, Ediz	800	71149839	800 FR SCM	19	7:59.39	7:59.39	AAAA	2012 SCM World Champs	12/12/2012	The Woodlands Swim Team	GU	Yes	911	32	m
+24	Grodzki, Martin	800	69992805	800 FR SCM	21	7:59.56	7:59.56	AAAA	2012 European SCM Champs	11/22/2012	Unattached	GA	Yes	910	32	m
+25	Randall, Mark	800	69420978	800 FR SCM	26	8:00.76	8:00.76	AAAA	2012 World Cup - Singapore 	11/10/2012	Crimson Tide Aquatics	SE	Yes	904	32	m
+26	Nakaya, Shingo	800	77704659	800 FR SCM	16	8:01.08	8:01.08	AAAA	35th JOC Junior Olympic Cup Swimming Competition-S	3/28/2013	Mission Viejo Nadadores	CA	Yes	910	32	m
+27	Rogan, Markus	800	59711205	800 FR SCM	29	8:01.92	8:01.92	AAAA	2011 World Cup - Tokyo	11/13/2011	Unattached	US	Yes	897	32	m
+28	McCay, Noah	800	87452417	800 FR SCM	14	8:02.22	7:47.22	AAAA	2014 CO Ouray Swim Meet	6/14/2014	Four Corners Aquatic Team	NM		1035	32	m
+29	Karap, Nezir	800	91606108	800 FR SCM	20	8:03.05	8:03.05	AAAA	2014 SCM World Champs 	12/3/2014	North Baltimore Aquatic Club	MD	Yes	891	32	m
+30	Arakelian, Nick	800	105303501	800 FR SCM	19	8:05.24	8:05.24	2019 Winter Juniors (SCY)	2016 Royal Open	2/20/2016	Unattached	NC		878	32	m
+31	Prenot, Josh	800	59002595	800 FR SCM	18	8:05.84	8:05.84	2019 Winter US Open (LCM)	2011 World Cup - Moscow	10/19/2011	Santa Maria Swim Club	CA		875	32	m
+32	Bunch, Dylan	800	79083218	800 FR SCM	19	8:06.40	8:06.40	AAAA	Arizona State vs. Denver	10/25/2013	Unattached	CA		872	32	m
+33	Bis, Daniel	800	114104927	800 FR SCM	21	8:07.86	8:07.86	2019 Winter Juniors (SCY)	Polish Winter Championships 2016	12/17/2016	Unattached	FL		864	32	m
+34	Roe, Matt	800	55740071	800 FR SCM	18	8:10.83	8:10.83	Summer Nationals (LCM)	2011 PN Spring Thunderbird	5/13/2011	Cascade Swim Club	PN		847	32	m
+35	Stitt, Cameron	800	60234312	800 FR SCM	16	8:12.71	8:12.71	AAAA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		845	32	m
+36	Liske, Cody	800	133594381	800 FR SCM	19	8:21.84	8:21.84	AAAA	Queens v UIndy v Wingate	10/13/2018	Unattached	CA		788	32	m
+37	Palumbo, Alex	800	79083265	800 FR SCM	21	8:24.83	8:24.83	AAAA	Arizona State vs. Denver	10/25/2013	Unattached	PN		772	32	m
+38	Zgliczynski, Jeremiah	800	79083292	800 FR SCM	19	8:24.96	8:24.96	AAAA	Arizona State vs. Denver	10/25/2013	Unattached	CO		771	32	m
+39	Stahl, Keven	800	122831939	800 FR SCM	19	8:28.97	8:28.97	AAA	2017 SU vs. York	10/28/2017	Unattached	PV		750	32	m
+40	Absher, Matt	800	79083206	800 FR SCM	21	8:30.19	8:30.19	AAA	Arizona State vs. Denver	10/25/2013	Unattached	CO		743	32	m
+41	Leland, Trevor	800	51900860	800 FR SCM	17	8:30.36	8:30.36	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	New Jersey Wave	NJ		743	32	m
+42	Dibley, Nicholas	800	144460292	800 FR SCM	18	8:32.38	8:32.38	AAA	IUPUI - UINDY	10/3/2019	Unattached	IN		732	32	m
+43	Hughes, Kevin	800	51901090	800 FR SCM	17	8:33.09	8:33.09	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Unattached	MR	Yes	728	32	m
+44	Kananowicz, Bryce	800	55373007	800 FR SCM	15	8:33.60	8:33.60	AAAA	2011 Speedo Western Canadian Champs	2/17/2011	Coeur D'alene Area Swim Team	IE	Yes	798	32	m
+45	Angerhofer, Chris	800	62008281	800 FR SCM	16	8:33.63	8:33.63	AAAA	2012 SCM Prairie Winter International 	12/1/2011	Sioux Falls Snowfox	SD		734	32	m
+46	Loveless, Jack	800	103207237	800 FR SCM	15	8:37.07	8:37.07	AAA	Canada 2015 December Invitational Dev-A-AA-A	12/4/2015	Badger Swim Club,Inc.	MR		780	32	m
+47	Martinez, Trent	800	135381263	800 FR SCM	17	8:37.26	8:37.26	AAA	2018 Bennett Cup	11/9/2018	Tualatin Hills Swim Club	OR		707	32	m
+48	Smit, Michael	800	51901295	800 FR SCM	24	8:37.71	8:37.71	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Unattached	MR		705	32	m
+49	Tortola, Cristian	800	144463154	800 FR SCM	17	8:38.35	8:38.35	AAA	IUPUI - UINDY	10/3/2019	Unattached	FG	Yes	701	32	m
+50	Anderson, Matthew	800	145163262	800 FR SCM	22	8:39.29	8:39.29	AAA	Iona at Providence	11/1/2019	Unattached	CT		697	32	m
+51	Boyle, Patrick	800	135002253	800 FR SCM	18	8:40.01	8:40.01	AAA	Fairfield vs. Marist	11/17/2018	Unattached	MR		693	32	m
+52	Zoucha, Jonathan	800	50895083	800 FR SCM	14	8:40.21	8:40.21	AAAA	Island Pacific Cup	11/12/2010	Tualatin Hills Swim Club	OR		828	32	m
+53	Young, Nalex	800	135381655	800 FR SCM	18	8:40.68	8:40.68	AAA	2018 Bennett Cup	11/9/2018	Tualatin Hills Swim Club	OR		689	32	m
+54	Crist, Brandon	800	120816430	800 FR SCM	16	8:40.70	8:40.70	AAA	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		698	32	m
+55	Viotto, Justin	800	133790204	800 FR SCM	19	8:41.06	8:41.06	AAA	Bryant at Providence	10/19/2018	Unattached	NJ		688	32	m
+56	Varela, Juan	800	145181186	800 FR SCM	19	8:41.14	8:41.14	AAA	SFU vs. Seattle University	11/2/2019	Unattached	PC		687	32	m
+57	Shabb, Conrad	800	55740292	800 FR SCM	17	8:41.52	8:41.52	AAA	2011 PN Spring Thunderbird	5/13/2011	Cascade Swim Club	PN		685	32	m
+58	Pidde, Tyler	800	144392099	800 FR SCM	20	8:41.92	8:41.92	AAA	Fairfield Vs. UMASS	10/12/2019	Unattached	IL		683	32	m
+59	Stobbe, Eric	800	51901323	800 FR SCM	15	8:42.14	8:42.14	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Scarlet Aquatic Club	NJ		754	32	m
+60	Nosack, Marco	800	135381359	800 FR SCM	16	8:42.98	8:42.98	AAA	2018 Bennett Cup	11/9/2018	Tualatin Hills Swim Club	OR		686	32	m
+61	Chesno, Maxwell	800	145180126	800 FR SCM	19	8:43.11	8:43.11	AAA	SFU vs. Seattle University	11/2/2019	Unattached	AZ		677	32	m
+62	McGowan, Danny	800	126294880	800 FR SCM	18	8:43.19	8:43.19	AAA	Fairfield vs. Fordham	11/10/2017	Unattached	IL		677	32	m
+63	Wisner, Kai	800	142860037	800 FR SCM	20	8:44.82	8:44.82	AAA	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		669	32	m
+64	Heisey, Grant	800	75430512	800 FR SCM	15	8:44.97	8:44.97	AAA	2013 PN Spring Thunderbird	5/17/2013	Cascade Swim Club	PN		739	32	m
+65	Brunetti, Darian	800	79083216	800 FR SCM	21	8:45.40	8:45.40	AAA	Arizona State vs. Denver	10/25/2013	Unattached	CO		666	32	m
+66	Perron, Connor	800	123202856	800 FR SCM	18	8:45.56	8:45.56	AAA	Fairfield at Providence	11/4/2017	Unattached	ME		665	32	m
+67	Faber, Hendrik	800	133593130	800 FR SCM	19	8:46.07	8:46.07	AAA	Queens v UIndy v Wingate	10/13/2018	Unattached	NC	Yes	662	32	m
+68	Cavanaugh, Jeff	800	123150853	800 FR SCM	21	8:46.28	8:46.28	AAA	Jewell vs. Truman	11/4/2017	Unattached	MW		661	32	m
+69	Sibley, Danny	800	148013281	800 FR SCM	16	8:46.92	8:46.92	AAA	2020 OK SwimTulsa New Years Invite	1/10/2020	SwimTulsa	OK		666	32	m
+70	McGee, Eien	800	97232701	800 FR SCM	15	8:47.09	8:47.09	AAA	2015 MS State Games of MS	6/5/2015	Performance Elite Aquatics	MS		728	32	m
+71	Taylor, Cody	800	55813997	800 FR SCM	15	8:47.32	8:47.32	AAA	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		727	32	m
+72	Limm, Henry	800	85886924	800 FR SCM	16	8:47.47	8:47.47	AAA	2014 PN Spring Thunderbird	5/16/2014	South Snohomish Co. Dolphins	PN		664	32	m
+73	Jamison, Noah	800	144461112	800 FR SCM	18	8:47.59	8:47.59	AAA	IUPUI - UINDY	10/3/2019	Unattached	IN		655	32	m
+74	Arrieche, Alfredo	800	137164293	800 FR SCM	20	8:48.07	8:48.07	AA	Oklahoma Baptist Vs Ouachita B	1/19/2019	Unattached	OK	Yes	652	32	m
+75	Hojnacki, Sky	800	115119488	800 FR SCM	17	8:48.13	8:48.13	AA	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		652	32	m
+76	Figueiredo, Marcelo	800	123230466	800 FR SCM	20	8:48.74	8:48.74	AA	Home vs. Mars Hill vs.-Finals	11/4/2017	Unattached	SE	Yes	649	32	m
+77	Cervone, Ryan	800	51900807	800 FR SCM	15	8:49.25	8:49.25	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	New Jersey Wave	NJ		718	32	m
+78	Tepper, Joey	800	148669095	800 FR SCM	17	8:49.30	8:49.30	AA	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		646	32	m
+79	Buchalski, Benjamin	800	60233836	800 FR SCM	15	8:49.97	8:49.97	AAA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		714	32	m
+80	Edge, Dylan	800	144903839	800 FR SCM	18	8:50.90	8:50.90	AA	2019 Fairfield Vs. Monmouth 	10/26/2019	Unattached	AZ		638	32	m
+81	Williamson, Anthony	800	133596637	800 FR SCM	18	8:51.32	8:51.32	AA	Queens v UIndy v Wingate	10/13/2018	Unattached	IN		636	32	m
+82	Guilfoyle, Joe	800	51901062	800 FR SCM	17	8:51.44	8:51.44	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Berkeley Aquatic Club	NJ		636	32	m
+83	Volin, Alex	800	141768795	800 FR SCM	17	8:51.57	8:51.57	AA	2019 MA SJAC SCM Challenge	6/9/2019	South Jersey Aquatic Club	MA		635	32	m
+84	Aly, Ali	800	86493867	800 FR SCM	15	8:52.33	8:52.33	AAA	2014 MR LIAC Short Course Meter Madness	6/12/2014	Unattached	MR		702	32	m
+84	Beil, Conor	800	86493868	800 FR SCM	16	8:52.33	8:52.33	AAA	2014 MR LIAC Short Course Meter Madness	6/12/2014	Long Island Aquatic Club	MR		640	32	m
+86	Wisniewski, Robert	800	145163553	800 FR SCM	20	8:53.00	8:53.00	AA	Iona at Providence	11/1/2019	Unattached	MR		628	32	m
+87	Murphy, Brayden	800	131644993	800 FR SCM	16	8:53.03	8:53.03	AA	2018 NI - Keith Shields Invitational	6/30/2018	Victor Swim Club	NI		636	32	m
+88	Hojnacki, Hunter	800	82069301	800 FR SCM	17	8:53.61	8:53.61	AA	2014 AZ HSST Ride the Wave 8th Annual Havas	1/10/2014	Arizona Aquatic Club	AZ		625	32	m
+89	Schawe, Joel	800	123151419	800 FR SCM	21	8:55.10	8:55.10	AA	Jewell vs. Truman	11/4/2017	Unattached	ST		618	32	m
+90	Koltenuk, Noah	800	145162168	800 FR SCM	20	8:55.75	8:55.75	AA	Alfred vs. Nazareth	11/1/2019	Unattached	MA		615	32	m
+91	Huang, Scott	800	51901084	800 FR SCM	15	8:55.80	8:55.80	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Scarlet Aquatic Club	NJ		685	32	m
+92	Jablonski, Daniel	800	144911345	800 FR SCM	18	8:55.95	8:55.95	AA	NJIT at Providence	10/25/2019	Unattached	MA		614	32	m
+93	Russell, Conor	800	86228516	800 FR SCM	17	8:56.00	8:56.00	AA	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	614	32	m
+94	Mirzazadeh, Sia	800	144911742	800 FR SCM	18	8:56.71	8:56.71	AA	NJIT at Providence	10/25/2019	Unattached	CA		610	32	m
+95	Vieira, Colby	800	144392394	800 FR SCM	18	8:56.73	8:56.73	AA	Fairfield Vs. UMASS	10/12/2019	Unattached	NE		610	32	m
+96	Miao, Luke	800	137165081	800 FR SCM	19	8:56.85	8:56.85	AA	Oklahoma Baptist Vs Ouachita B	1/19/2019	Unattached	NT		609	32	m
+97	Rodriguez, Daniel	800	123144246	800 FR SCM	19	8:57.08	8:57.08	AA	Oswego at Clarkson	11/4/2017	Unattached	US		608	32	m
+98	Papangelakis, Panos	800	86228388	800 FR SCM	15	8:58.47	8:58.47	AA	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	672	32	m
+99	Rice, Brendan	800	135002725	800 FR SCM	18	8:58.69	8:58.69	AA	Fairfield vs. Marist	11/17/2018	Unattached	MD		601	32	m
+100	Dewitt, Dylan	800	148669043	800 FR SCM	14	8:58.87	8:58.87	AAA	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		734	32	m
+101	Grisbaum, Douglas	800	145862769	800 FR SCM	19	8:59.04	8:59.04	AA	Fairfield vs. Fordham	11/13/2019	Unattached	MA		599	32	m
+102	Olson, Riley	800	123151317	800 FR SCM	19	8:59.28	8:59.28	AA	Jewell vs. Truman	11/4/2017	Unattached	MW		598	32	m
+103	Zitz, Jz	800	120816766	800 FR SCM	21	8:59.38	8:59.38	AA	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		597	32	m
+104	Potter, Nicholas	800	87002318	800 FR SCM	17	8:59.54	8:59.54	AA	2014 WI MSS Summer Meet	6/21/2014	Unattached	WI		597	32	m
+105	Weitzel, Jacob	800	60234360	800 FR SCM	16	8:59.62	8:59.62	AA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		604	32	m
+106	Noll, Josh	800	79732172	800 FR SCM	18	8:59.71	8:59.71	AA	Island Pacific Cup 2013	11/8/2013	Tualatin Hills Swim Club	OR		596	32	m
+107	Cope, Calob	800	144990677	800 FR SCM	18	8:59.97	8:59.97	AA	Wilmington vs ONU 2019	10/25/2019	Unattached	IN		595	32	m
+108	Robertson, Gordon	800	115119906	800 FR SCM	16	9:00.54	9:00.54	AA	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		600	32	m
+109	Omdal, Beau	800	141188165	800 FR SCM	17	9:00.61	9:00.61	AA	2019 PN TAC 43rd Annual Spring	5/17/2019	Thunderbird Aquatic Club	PN		591	32	m
+110	Palmer, Noah	800	120482449	800 FR SCM	16	9:01.01	9:01.01	AA	2017 AK Midnight Sun Invitational 	6/25/2017	Midnight Sun Swim Team	AK		598	32	m
+110	Stewart, Jacob	800	115120071	800 FR SCM	18	9:01.01	9:01.01	AA	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		590	32	m
+112	Miller-Radest, Brendan	800	51901164	800 FR SCM	16	9:01.05	9:01.05	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Cougar Aquatic Team	NJ		597	32	m
+113	Cline, Anderson	800	91508935	800 FR SCM	15	9:01.43	9:01.43	AA	2014 AZ Short Course Meter Showdown	11/21/2014	Anthem Dolphins	AZ		658	32	m
+114	Pomroy, Mason	800	141505729	800 FR SCM	17	9:01.60	9:01.60	AA	2019 NE PHX Distance & Special	5/31/2019	Phoenix Swimming	NE		587	32	m
+115	Garick, Nathan	800	97232541	800 FR SCM	14	9:01.69	9:01.69	AAA	2015 MS State Games of MS	6/5/2015	Laurel Swim Association	MS		720	32	m
+116	Hodgin, Danny	800	73161357	800 FR SCM	18	9:02.48	9:02.48	AA	2013 SD Season Finale	2/16/2013	Aberdeen Swim Club	SD		583	32	m
+117	Weinstein, Cole	800	65342187	800 FR SCM	16	9:02.56	9:02.56	AA	2012 PN Spring Thunderbird	5/18/2012	North Whidbey Aquatic Club	PN		590	32	m
+118	Posniack, Zach	800	123151376	800 FR SCM	21	9:02.76	9:02.76	AA	Jewell vs. Truman	11/4/2017	Unattached	AZ		581	32	m
+119	Vizzard, Sean	800	141768784	800 FR SCM	16	9:02.85	9:02.85	AA	2019 MA SJAC SCM Challenge	6/9/2019	Unattached	MA		589	32	m
+120	Rohde, Cal	800	51901250	800 FR SCM	17	9:02.86	9:02.86	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Unattached	NJ		581	32	m
+121	Xia, Peter	800	141768847	800 FR SCM	15	9:03.17	9:03.17	AA	2019 MA SJAC SCM Challenge	6/9/2019	Unattached	MA		649	32	m
+122	Pou, Sovijja	800	60234228	800 FR SCM	16	9:03.77	9:03.77	AA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		584	32	m
+123	Schimanski, Max	800	56804792	800 FR SCM	17	9:03.79	9:03.79	AA	2011 WI MSS Summer Splash	6/25/2011	McFarland Spartan Sharks	WI		576	32	m
+124	Brames, Heath	800	144391391	800 FR SCM	19	9:03.85	9:03.85	AA	Fairfield Vs. UMASS	10/12/2019	Unattached	FG		576	32	m
+125	Pusateri, Luke	800	119094850	800 FR SCM	15	9:04.33	9:04.33	AA	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Unattached	PN		644	32	m
+126	Shanley, Jeff	800	51901275	800 FR SCM	16	9:04.46	9:04.46	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Cougar Aquatic Team	NJ		581	32	m
+127	Muldowney, Thomas	800	122101777	800 FR SCM	18	9:04.89	9:04.89	AA	VMI at MSMU	10/6/2017	Unattached	PV		571	32	m
+128	Goodwin, Ian	800	66820303	800 FR SCM	16	9:04.95	8:59.95	AA	2012 OR Jay Rowan Invitational -	7/6/2012	Madras Swim Team	OR		579	32	m
+129	Wolff, Nick	800	122923115	800 FR SCM	18	9:05.20	9:05.20	AA	LFC-Carthage 10-28-17	10/28/2017	Unattached	IL		570	32	m
+130	Cusack-Mcpartlin, Timothy	800	134362012	800 FR SCM	18	9:05.56	9:05.56	AA	Fairfield vs. Prov	11/3/2018	Unattached	MR		568	32	m
+131	Jepsen, Josh	800	55738210	800 FR SCM	15	9:05.75	9:05.75	AA	2011 PN Spring Thunderbird	5/13/2011	North Whidbey Aquatic Club	PN		637	32	m
+132	Canney, Nick	800	145594580	800 FR SCM	18	9:06.05	9:06.05	AA	Hartwick vs. Nazareth	11/9/2019	Unattached	AZ		566	32	m
+133	Sebastian, Ryan	800	51901269	800 FR SCM	14	9:06.16	9:06.16	AAA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Elite Swim Club	NJ		698	32	m
+134	Jepsen, Jacob	800	55738192	800 FR SCM	17	9:06.21	9:06.21	AA	2011 PN Spring Thunderbird	5/13/2011	North Whidbey Aquatic Club	PN		565	32	m
+135	Durner, Grant	800	126294809	800 FR SCM	21	9:06.26	9:06.26	AA	Fairfield vs. Fordham	11/10/2017	Unattached	MA		565	32	m
+135	Wang, Michael	800	103207495	800 FR SCM	12	9:06.26	9:06.26	AAAA	Canada 2015 December Invitational Dev-A-AA-A	12/4/2015	Unattached	NI	Yes	925	32	m
+137	Smith, Merik	800	93327832	800 FR SCM	18	9:06.39	9:06.39	AA	2015 AZ Ride the Wave 9th Annual Havas	1/9/2015	Arizona Aquatic Club	AZ		564	32	m
+138	Parker, Sam	800	55813901	800 FR SCM	16	9:06.47	9:06.47	AA	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		572	32	m
+139	Mona, Hunter	800	134476831	800 FR SCM	18	9:06.71	9:06.71	AA	Juniata vs Scranton, Goucher	11/3/2018	Unattached	MA		563	32	m
+140	Franz, Gunnar	800	103562342	800 FR SCM	15	9:06.79	9:06.79	AA	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Arizona Aquatic Club	AZ		632	32	m
+141	Holloway, Eastman	800	114492672	800 FR SCM	23	9:06.90	9:06.90	AA	2017 OK SwimTulsa New Years Invite	1/6/2017	SwimTulsa	OK		562	32	m
+142	Heiser, Brian	800	48105186	800 FR SCM	18	9:07.09	9:07.09	AA	2010 WI MSS Summer Splash	6/25/2010	McFarland Spartan Sharks	WI		561	32	m
+143	Patrick, Ryan	800	62008479	800 FR SCM	16	9:07.50	9:07.50	AA	2012 SCM Prairie Winter International 	12/1/2011	Sioux Falls Snowfox	SD		567	32	m
+144	Bryant, Max	800	69230069	800 FR SCM	16	9:07.74	8:57.74	AA	2012 CO Montrose Fall Open	11/3/2012	Aspen Swim Club	CO		566	32	m
+145	Zamorano, Robert	800	134673577	800 FR SCM	21	9:08.01	9:08.01	AA	H-SC hosting R-MC, Barton, Hol	11/9/2018	Unattached	GA		557	32	m
+146	Walling, Nathan	800	55814093	800 FR SCM	17	9:08.05	9:08.05	AA	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		556	32	m
+147	Peeples, Blake	800	97232779	800 FR SCM	13	9:08.64	9:08.64	AAA	2015 MS State Games of MS	6/5/2015	Performance Elite Aquatics	MS		780	32	m
+148	Winn, Josh	800	123230579	800 FR SCM	20	9:08.81	9:08.81	AA	Home vs. Mars Hill vs.-Finals	11/4/2017	Unattached	ST		553	32	m
+149	Gates, Matthew	800	75430389	800 FR SCM	16	9:09.10	9:09.10	AA	2013 PN Spring Thunderbird	5/17/2013	Cascade Swim Club	PN		559	32	m
+150	Biebel, Brody	800	144903572	800 FR SCM	18	9:09.33	9:09.33	AA	2019 Fairfield Vs. Monmouth 	10/26/2019	Unattached	CT		551	32	m
+151	McClain, Dylan	800	114492949	800 FR SCM	16	9:09.42	9:09.42	AA	2017 OK SwimTulsa New Years Invite	1/6/2017	Trident Aquatics Club	OK		558	32	m
+152	Dixon, Trevor	800	148827272	800 FR SCM	16	9:09.92	9:09.92	AA	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		556	32	m
+153	Martinez-Calvo, Jaume	800	79732104	800 FR SCM	14	9:09.99	9:09.99	AAA	Island Pacific Cup 2013	11/8/2013	Tualatin Hills Swim Club	OR	Yes	680	32	m
+153	Parsons, Woody	800	134673417	800 FR SCM	18	9:09.99	9:09.99	AA	H-SC hosting R-MC, Barton, Hol	11/9/2018	Unattached	VA		547	32	m
+155	Brinegar, Kevin	800	46922558	800 FR SCM	16	9:10.02	9:10.02	AA	2010 IN DON Early Bird Invitat	5/15/2010	Donner Swim Club	IN		555	32	m
+156	Mandel, Seth	800	133594524	800 FR SCM	20	9:10.16	9:10.16	AA	Queens v UIndy v Wingate	10/13/2018	Unattached	GU		547	32	m
+157	Torres, Matthew	800	145863444	800 FR SCM	18	9:10.28	9:10.28	AA	Fairfield vs. Fordham	11/13/2019	Unattached	CT		546	32	m
+158	Davis, Bergen	800	115768462	800 FR SCM	16	9:10.42	9:10.42	AA	The Battle of the Glacier Bears	1/21/2017	Glacier Swim Club	AK		553	32	m
+159	Waide, Isaac	800	123173045	800 FR SCM	20	9:10.44	9:10.44	AA	Hartwick vs. Nazareth	11/4/2017	Unattached	US		545	32	m
+160	Twyman, Cristian	800	144912390	800 FR SCM	18	9:10.82	9:10.82	AA	NJIT at Providence	10/25/2019	Unattached	PC		544	32	m
+161	Ritz, Jared	800	86228494	800 FR SCM	15	9:10.84	9:10.84	AA	2014 NI - Victor Meter Mania	5/31/2014	Victor Swim Club	NI		613	32	m
+162	King, Ryan	800	101586588	800 FR SCM	14	9:11.45	9:01.45	AAA	2015 CO Montrose Marlin Fall O	11/8/2015	Montrose Marlins Swim Club	CO		673	32	m
+163	Peterson, Ean	800	115119848	800 FR SCM	15	9:11.52	9:11.52	AA	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		609	32	m
+164	Walker, Matt	800	148205652	800 FR SCM	18	9:11.69	9:11.69	AA	Nazareth - Utica - Alfred Stat	1/18/2020	Unattached	NI		540	32	m
+165	Davis, Jorden	800	82365619	800 FR SCM	16	9:12.11	9:12.11	AA	2014 AK Great Alaska Open	1/24/2014	Glacier Swim Club	AK		546	32	m
+166	McAllister, Patrick	800	134371131	800 FR SCM	19	9:12.35	9:12.35	A	Howard and Monmouth at MSMU	11/3/2018	Unattached	MA		537	32	m
+167	Callan, Patrick	800	82098721	800 FR SCM	14	9:12.42	9:12.42	AAA	2014 OK SwimTulsa New Years Invite	1/17/2014	SwimTulsa	OK		668	32	m
+168	Grebert, Zachary	800	103562408	800 FR SCM	17	9:12.52	9:12.52	AA	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Arizona Aquatic Club	AZ		536	32	m
+169	Brito, Ian	800	133331728	800 FR SCM	16	9:12.96	9:12.96	AA	2018 PC LAMV 800SCM Invitational	9/30/2018	Los Altos & Mountain View A.C.	PC		542	32	m
+170	Latto, Reese	800	103562613	800 FR SCM	14	9:12.97	9:12.97	AAA	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Arizona Aquatic Club	AZ		666	32	m
+171	Wang, Nicholas	800	46938297	800 FR SCM	16	9:13.11	9:13.11	AA	2010 IN DON Early Bird Invitat	5/15/2010	Donner Swim Club	IN		541	32	m
+172	Tsigas, Nicholas	800	126294924	800 FR SCM	19	9:13.23	9:13.23	A	Fairfield vs. Fordham	11/10/2017	Unattached	NT		533	32	m
+173	Kincaid, Alejandro	800	130025975	800 FR SCM	13	9:13.52	9:13.52	AA	2018 IN PPSC Spring Splash Invite	5/5/2018	Duneland Swim Club	IN		756	32	m
+174	Holt, Evan	800	97284985	800 FR SCM	14	9:13.84	9:13.84	AA	2015 MV BWST Inaugural Platte	5/29/2015	Club North Swimming	MV		661	32	m
+175	Bozzi, Frank	800	51900016	800 FR SCM	16	9:14.13	9:14.13	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Cougar Aquatic Team	NJ		536	32	m
+175	Poppen-Eagan, Ro	800	123172807	800 FR SCM	18	9:14.13	9:14.13	A	Hartwick vs. Nazareth	11/4/2017	Unattached	PN		528	32	m
+177	Johnston, Andrew	800	123172496	800 FR SCM	19	9:14.18	9:14.18	A	Hartwick vs. Nazareth	11/4/2017	Unattached	NE		528	32	m
+178	Stankiewicz, Mike	800	51901307	800 FR SCM	18	9:14.46	9:14.46	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Scarlet Aquatic Club	NJ		527	32	m
+179	Dehaven, Aaron	800	58037541	800 FR SCM	16	9:14.94	9:14.94	AA	2011 MI CSW Summer Shorts	7/30/2011	Unattached	MI		533	32	m
+180	Vasser, Zachary	800	148669099	800 FR SCM	14	9:15.13	9:15.13	AA	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		655	32	m
+181	Verby, James	800	122595074	800 FR SCM	18	9:15.40	9:15.40	A	2017 SU vs. CUA	10/21/2017	Unattached	MD		523	32	m
+182	Wolf, Carson	800	130043441	800 FR SCM	14	9:15.92	9:15.92	AA	2018 MI AP AQUA Summer Sprint	5/12/2018	Liquid Lightning	MI		652	32	m
+183	Henson, Dj	800	137164752	800 FR SCM	18	9:16.01	9:16.01	A	Oklahoma Baptist Vs Ouachita B	1/19/2019	Unattached	OK		520	32	m
+184	Casey-Minnick, Liam	800	145163310	800 FR SCM	18	9:16.65	9:16.65	A	Iona at Providence	11/1/2019	Unattached	PN		517	32	m
+185	Rupp, John	800	55813951	800 FR SCM	15	9:16.84	9:16.84	AA	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		585	32	m
+186	Rohrer, Josh	800	146645897	800 FR SCM	21	9:16.86	9:16.86	A	William Jewell vs. Lewis	12/8/2019	Unattached	MV		516	32	m
+187	Kalibat, Peter	800	51901114	800 FR SCM	15	9:17.24	9:17.24	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Eastern Express Swim Team	NJ		583	32	m
+188	Hu, Price	800	55738078	800 FR SCM	18	9:17.30	9:17.30	A	2011 PN Spring Thunderbird	5/13/2011	North Whidbey Aquatic Club	PN		514	32	m
+189	Johnson, Bobby	800	115119546	800 FR SCM	17	9:17.41	9:17.41	A	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		514	32	m
+190	Enyeart, Alec	800	130076052	800 FR SCM	14	9:17.52	9:17.52	AA	2018 MV BWST 4th Annual Platte	5/6/2018	KC Blue Wave Swim Team	MV		644	32	m
+191	Rumrill, Christopher	800	84230997	800 FR SCM	18	9:17.57	9:12.57	A	2014 SD Short Course State Cha	2/28/2014	Pierre Swim Team	SD		513	32	m
+192	Nelson, Noah	800	103347201	800 FR SCM	16	9:17.76	9:17.76	AA	2016 OK SwimTulsa New Years Invite	1/8/2016	SwimTulsa	OK		520	32	m
+193	Warner, David	800	82099869	800 FR SCM	14	9:17.77	9:17.77	AA	2014 OK SwimTulsa New Years Invite	1/17/2014	SwimTulsa	OK		643	32	m
+194	White, Devin	800	135002862	800 FR SCM	18	9:17.85	9:17.85	A	Fairfield vs. Marist	11/17/2018	Unattached	MR		512	32	m
+195	Imbergamo, Nate	800	134675818	800 FR SCM	18	9:18.34	9:18.34	A	St Mikes at Clarkson	11/10/2018	Unattached	CT		509	32	m
+195	Ramirez, Antonio	800	53326975	800 FR SCM	13	9:18.34	9:18.34	AAA	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Swim Neptune	AZ		733	32	m
+197	Long, Derek	800	142986250	800 FR SCM	13	9:18.38	9:18.38	AA	2019 MV BWST 5th Annual Platte	5/5/2019	Kansas City Blazers	MV		733	32	m
+198	Shihabi, Khaled	800	125711738	800 FR SCM	16	9:18.47	9:18.47	A	2018 OK SwimTulsa New Years Invite	1/5/2018	SwimTulsa	OK		517	32	m
+199	Watkins, Connor	800	144087961	800 FR SCM	14	9:18.67	9:18.67	AA	2019 AZ AD FL#1 Anthem Ride 	9/14/2019	Unattached	AZ		639	32	m
+200	Iverson, Isaac	800	84230315	800 FR SCM	17	9:18.74	9:13.74	A	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Snowfox	SD		508	32	m
+201	Salvatore, Marco	800	134685086	800 FR SCM	18	9:18.93	9:18.93	A	Rochester vs. Nazareth	11/9/2018	Unattached	NJ		507	32	m
+202	Duda, Sam	800	136701608	800 FR SCM	15	9:19.11	9:19.11	A	2019 OK SwimTulsa New Years Invite	1/4/2019	SwimTulsa	OK		574	32	m
+203	Loescher, Samuel	800	55813778	800 FR SCM	15	9:19.13	9:19.13	AA	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		574	32	m
+204	Bott, Sam	800	101228349	800 FR SCM	18	9:19.21	9:19.21	A	WC-Witt-Transy 2015	11/7/2015	Unattached	IA		506	32	m
+205	Layzer, Bailey	800	55738670	800 FR SCM	16	9:19.26	9:19.26	AA	2011 PN Spring Thunderbird	5/13/2011	Cascade Swim Club	PN		513	32	m
+206	Starvaggi, Nicholas	800	122101805	800 FR SCM	18	9:19.32	9:19.32	A	VMI at MSMU	10/6/2017	Unattached	US		505	32	m
+207	Russell, Tanner	800	145470958	800 FR SCM	18	9:19.44	9:19.44	A	Frostburg vs York	11/8/2019	Unattached	MA		505	32	m
+208	Douberly, Jake	800	120088776	800 FR SCM	14	9:19.45	9:19.45	AA	2017 WI MSS Summer Splash	6/24/2017	Unattached	FL		635	32	m
+209	Wilkins, Dominic	800	53644821	800 FR SCM	14	9:19.67	9:19.67	AA	2010 MD CATS-CBAC Dual Meet	9/25/2010	Chesapeake Bay Aquatic Club	MD		634	32	m
+210	Arnold, Matt	800	69496922	800 FR SCM	14	9:19.79	9:19.79	AA	Island Pacific Cup	11/9/2012	Tualatin Hills Swim Club	OR		633	32	m
+211	Riepe, Nicholas	800	51901244	800 FR SCM	15	9:21.03	9:21.03	AA	2010 NJ Peddie SCM Fall Invite	11/6/2010	Scarlet Aquatic Club	NJ		565	32	m
+212	Nicholson, Luke	800	122594680	800 FR SCM	19	9:21.26	9:21.26	A	2017 SU vs. CUA	10/21/2017	Unattached	GU		496	32	m
+213	Plese, Andrew	800	126521924	800 FR SCM	19	9:21.32	9:21.32	A	Maine at Providence	1/27/2018	Unattached	NT		496	32	m
+214	Charles, Ian	800	120088715	800 FR SCM	17	9:21.60	9:21.60	A	2017 WI MSS Summer Splash	6/24/2017	Unattached	WI		495	32	m
+215	Hoxie, Jacob	800	130178246	800 FR SCM	16	9:21.72	9:21.72	A	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Thunderbird Aquatic Club	PN		502	32	m
+216	Regovich, Brian	800	133805414	800 FR SCM	18	9:21.75	9:21.75	A	Hiram vs Mount Union	10/20/2018	Unattached	LE		494	32	m
+217	Knox, Carson	800	123230496	800 FR SCM	20	9:21.77	9:21.77	A	Home vs. Mars Hill vs.-Finals	11/4/2017	Unattached	FL		494	32	m
+218	Schreiner, Charles	800	148669089	800 FR SCM	14	9:21.79	9:21.79	AA	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		624	32	m
+219	McElroy, Marlan	800	97232680	800 FR SCM	19	9:22.20	9:22.20	A	2015 MS State Games of MS	6/5/2015	Sunkist Swim Team	MS		492	32	m
+220	Busken, Hunter	800	101228352	800 FR SCM	18	9:22.23	9:22.23	A	WC-Witt-Transy 2015	11/7/2015	Unattached	OH		492	32	m
+221	Nicholas, Noah	800	135347632	800 FR SCM	20	9:22.39	9:22.39	A	Howard and Monmouth at MSMU	11/3/2018	Unattached	GA		491	32	m
+222	Jones, Trevor	800	82365826	800 FR SCM	16	9:22.80	9:22.80	A	2014 AK Great Alaska Open	1/24/2014	Glacier Swim Club	AK		497	32	m
+223	Flood, Kevin	800	53639325	800 FR SCM	17	9:23.05	9:23.05	A	2010 MD CATS-CBAC Dual Meet	9/25/2010	Chesapeake Bay Aquatic Club	MD		489	32	m
+224	Immink, Ben	800	53640204	800 FR SCM	17	9:23.25	9:23.25	A	2010 MD CATS-CBAC Dual Meet	9/25/2010	Carroll Aquatics Tiger Sharks	MD		488	32	m
+225	Stahlmann, Jonathan	800	146002116	800 FR SCM	16	9:23.29	9:23.29	A	2019 ISC Bennett Cup	11/8/2019	Tualatin Hills Swim Club	OR	Yes	495	32	m
+226	Fuhrman, Scott	800	119094225	800 FR SCM	16	9:23.40	9:23.40	A	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Bellingham Bay Swim Team	PN		495	32	m
+227	Hughes, Brandon	800	44650016	800 FR SCM	15	9:23.46	9:23.46	AA	2010 AZ Ride the Wave Havas	1/30/2010	Swim Neptune	AZ		554	32	m
+228	Bierschbach, Will	800	82260465	800 FR SCM	15	9:23.50	9:23.50	A	2014 SD Optimist Swim Meet	1/17/2014	Watertown Area Swim Club	SD		554	32	m
+228	Lam, Jonathan	800	144598006	800 FR SCM	16	9:23.50	9:23.50	A	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		494	32	m
+230	Rice, Keaton	800	136702269	800 FR SCM	13	9:23.67	9:23.67	AA	2019 OK SwimTulsa New Years Invite	1/4/2019	King Marlin Swim Club	OK		708	32	m
+231	Young, Joe	800	55566111	800 FR SCM	14	9:23.72	9:23.72	AA	2011 IN SSC Spring Kickoff Sup	5/7/2011	Southeastern Swim Club	IN		615	32	m
+232	Hammond, Wes	800	123136986	800 FR SCM	19	9:23.83	9:23.83	A	Hiram vs Malone	11/3/2017	Unattached	OH		485	32	m
+233	Cremer, Andrew	800	47713095	800 FR SCM	16	9:23.90	9:23.90	A	2010 MR ESG SCM Trials	6/18/2010	Islip Aquatics	MR		492	32	m
+234	Cassidy, Jack	800	69230113	800 FR SCM	16	9:24.15	9:14.15	A	2012 CO Montrose Fall Open	11/3/2012	Team Sopris Swimming	CO		491	32	m
+235	Johnson, Ben	800	85886763	800 FR SCM	15	9:24.37	9:24.37	A	2014 PN Spring Thunderbird	5/16/2014	Thunderbird Aquatic Club	PN		550	32	m
+236	Newell, Michael	800	47713142	800 FR SCM	16	9:24.55	9:24.55	A	2010 MR ESG SCM Trials	6/18/2010	North Shore Swimming Inc.	MR		490	32	m
+237	Coleman, Gregory	800	47713090	800 FR SCM	15	9:24.56	9:24.56	A	2010 MR ESG SCM Trials	6/18/2010	Islip Aquatics	MR		550	32	m
+238	Good, Henry	800	137879651	800 FR SCM	16	9:25.14	9:25.14	A	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		487	32	m
+239	Blomso, Anders	800	55736309	800 FR SCM	15	9:25.30	9:25.30	A	2011 PN Spring Thunderbird	5/13/2011	Cascade Swim Club	PN		546	32	m
+240	McBurney, Nate	800	123144130	800 FR SCM	19	9:25.63	9:25.63	A	Oswego at Clarkson	11/4/2017	Unattached	FL		477	32	m
+241	Becker, Aaron	800	137879396	800 FR SCM	17	9:25.68	9:25.68	A	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		477	32	m
+242	Helwig, Alex	800	126843240	800 FR SCM	14	9:25.77	9:25.77	AA	2018 AZ HSST Winter Challenge	1/19/2018	Anthem Dolphins	AZ		606	32	m
+243	Casas, Paolo	800	60233864	800 FR SCM	13	9:25.82	9:25.82	AA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		698	32	m
+244	Johnsen, Michael	800	126843282	800 FR SCM	17	9:25.90	9:25.90	A	2018 AZ HSST Winter Challenge	1/19/2018	Havasu Stingrays Swim Team	AZ		476	32	m
+245	Simmons, Jake	800	87280860	800 FR SCM	14	9:25.97	9:25.97	AA	2014 AK Midnight Sun Invitational	6/27/2014	Wasilla Waves Swim Club	AK		605	32	m
+246	Kaiser, Ryan	800	148827603	800 FR SCM	16	9:26.17	9:26.17	A	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		483	32	m
+247	Dunnuck, John	800	65354325	800 FR SCM	17	9:26.28	9:26.28	A	2012 MI CSW Memorial Open SCM	5/18/2012	Bulldog Aquatic Club	MI		474	32	m
+248	Tarala, Piotr	800	85366292	800 FR SCM	14	9:26.94	9:26.94	AA	2014 NC GYW Meters To Medals	4/26/2014	Alamance County Community Y/BAC	NC		601	32	m
+249	Prince, Dedon	800	144598024	800 FR SCM	14	9:26.99	9:26.99	AA	2019 PC LAMV 800scm	9/29/2019	Mavericks	PC		600	32	m
+250	McCabe, Connor	800	122839766	800 FR SCM	19	9:27.38	9:27.38	A	Alfred vs. Nazareth	10/27/2017	Unattached	NI		470	32	m
+251	Addis, Aaron	800	55813458	800 FR SCM	17	9:28.46	9:28.46	A	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		465	32	m
+252	Bocaj, Gabe	800	141767700	800 FR SCM	16	9:28.78	9:28.78	A	2019 MA SJAC SCM Challenge	6/9/2019	South Jersey Aquatic Club	MA		471	32	m
+253	Litzenberger, Connor	800	86228186	800 FR SCM	17	9:28.81	9:28.81	A	2014 NI - Victor Meter Mania	5/31/2014	Greece Marlins Swim Club	NI		463	32	m
+254	Scharbrough, Mickey	800	72800799	800 FR SCM	17	9:29.03	9:29.03	A	2013 AZ Ride the Wave 7th Annual Havas	1/25/2013	Havasu Stingrays Swim Team	AZ		462	32	m
+255	Bartolomucci, Andrew	800	141505396	800 FR SCM	16	9:29.21	9:29.21	A	2019 NE PHX Distance & Special	5/31/2019	Phoenix Swimming	NE		469	32	m
+256	Hill, Jonathan	800	107112166	800 FR SCM	14	9:29.84	9:29.84	AA	2016 MV BWST 2nd Annual Platte	4/24/2016	Northland United Swim Team	MV		587	32	m
+257	Nickerson, Joshua	800	65355063	800 FR SCM	13	9:29.99	9:29.99	AA	2012 MI CSW Memorial Open SCM	5/18/2012	Hartland Hurricanes Swim Club	MI		678	32	m
+258	Hiltbrand, Ryan	800	134684115	800 FR SCM	19	9:30.26	9:30.26	A	Rochester vs. Nazareth	11/9/2018	Unattached	NI		457	32	m
+259	Woo, Stephen	800	144598040	800 FR SCM	16	9:30.76	9:30.76	A	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		463	32	m
+260	Ross, Andrew	800	118213734	800 FR SCM	14	9:30.87	9:30.87	AA	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		583	32	m
+261	Penn, Gabriel	800	122831737	800 FR SCM	18	9:30.91	9:30.91	A	2017 SU vs. York	10/28/2017	Unattached	PV		454	32	m
+262	Leong, Ernest	800	144598012	800 FR SCM	15	9:31.21	9:31.21	A	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		520	32	m
+263	DeLeone, Joseph	800	66820116	800 FR SCM	21	9:31.42	9:26.42	A	2012 OR Jay Rowan Invitational -	7/6/2012	Redmond Aquatic Club	OR		452	32	m
+264	Borzych, Nick	800	47621042	800 FR SCM	16	9:31.64	9:31.64	A	2010 IN PPSC Father's Day Spla	6/11/2010	Duneland Swim Club	IN		459	32	m
+265	Sexson, Michael	800	103562947	800 FR SCM	13	9:32.06	9:32.06	AA	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Arizona Aquatic Club	AZ		669	32	m
+266	Moran, Smith	800	133594875	800 FR SCM	19	9:32.34	9:32.34	A	Queens v UIndy v Wingate	10/13/2018	Unattached	NC		448	32	m
+267	Vorthmann, Ben	800	130077407	800 FR SCM	13	9:32.44	9:32.44	AA	2018 MV BWST 4th Annual Platte	5/6/2018	Lawrence Aquahawks	MV		667	32	m
+268	Nebel, Jeff	800	134373534	800 FR SCM	18	9:32.46	9:32.46	A	LFC vs Carroll 11-3-2018	11/3/2018	Unattached	WI		448	32	m
+269	Vaughn, Jack	800	135005924	800 FR SCM	18	9:32.59	9:32.59	A	E&H, Roanoke, and Hollins Doub	11/17/2018	Unattached	VA		447	32	m
+270	Penteck, Christopher	800	47713158	800 FR SCM	14	9:32.83	9:32.83	AA	2010 MR ESG SCM Trials	6/18/2010	Islip Aquatics	MR		574	32	m
+271	Carlson, Evan	800	79731846	800 FR SCM	13	9:32.88	9:32.88	AA	Island Pacific Cup 2013	11/8/2013	Tualatin Hills Swim Club	OR		665	32	m
+272	Hansen, Kristian	800	87001794	800 FR SCM	16	9:32.93	9:32.93	A	2014 WI MSS Summer Meet	6/21/2014	DFAC Swimming	WI		453	32	m
+273	Williams, Bryce	800	66822146	800 FR SCM	15	9:33.89	9:28.89	A	2012 OR Jay Rowan Invitational -	7/6/2012	Madras Swim Team	OR	Yes	508	32	m
+274	Calkins, Sean	800	60233850	800 FR SCM	13	9:33.93	9:33.93	AA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		660	32	m
+275	Hailey, Rhet	800	86404643	800 FR SCM	16	9:34.13	9:34.13	A	2014 MS State Games of MS	6/6/2014	Meridian Swimming Assoc.	MS		448	32	m
+276	Goetschel, Peyton	800	108322017	800 FR SCM	17	9:34.24	9:34.24	A	2016 IN PPSC School's Out for Summer 	6/3/2016	Portage Porpoise Swim Club	IN		440	32	m
+277	Carver, Caden	800	82068963	800 FR SCM	15	9:34.31	9:34.31	A	2014 AZ HSST Ride the Wave 8th Annual Havas	1/10/2014	Havasu Stingrays Swim Team	AZ		506	32	m
+278	Sobkowski, Pat	800	122923098	800 FR SCM	22	9:34.32	9:34.32	A	LFC-Carthage 10-28-17	10/28/2017	Unattached	WI		440	32	m
+279	Tarte, Daniel	800	48105515	800 FR SCM	15	9:34.38	9:34.38	A	2010 WI MSS Summer Splash	6/25/2010	DeForest Aquatic Club	WI		506	32	m
+280	Pappas, Noah	800	97232764	800 FR SCM	13	9:34.65	9:34.65	AA	2015 MS State Games of MS	6/5/2015	Laurel Swim Association	MS		657	32	m
+281	Nelson, Kirk	800	124145758	800 FR SCM	47	9:34.82	9:34.82	A	2017 PN OB USMS PSM SCM Champs Meet	11/18/2017	Unattached	PN		438	32	m
+282	Stankus, Thomas	800	141768660	800 FR SCM	14	9:34.86	9:34.86	AA	2019 MA SJAC SCM Challenge	6/9/2019	South Jersey Aquatic Club	MA		565	32	m
+283	Chancellor, Trevor	800	97232503	800 FR SCM	14	9:34.89	9:34.89	AA	2015 MS State Games of MS	6/5/2015	Laurel Swim Association	MS		565	32	m
+284	Leiferman, RJ	800	48105257	800 FR SCM	16	9:34.98	9:34.98	A	2010 WI MSS Summer Splash	6/25/2010	Verona Aquatic Club	WI		445	32	m
+285	Mandli, Jake	800	48105293	800 FR SCM	16	9:35.12	9:35.12	A	2010 WI MSS Summer Splash	6/25/2010	McFarland Spartan Sharks	WI		444	32	m
+286	Matthews, Carlos	800	57676111	800 FR SCM	15	9:35.44	9:25.44	A	2011 CO Montrose Open	7/15/2011	Unattached	CO		501	32	m
+287	Chain, Ladd	800	97232484	800 FR SCM	17	9:35.67	9:35.67	A	2015 MS State Games of MS	6/5/2015	Swim Columbus	MS		434	32	m
+288	Hutson, Matthew	800	135010234	800 FR SCM	19	9:35.77	9:35.77	BB	William Jewel v IC v BCC v USM	11/17/2018	Unattached	OK		434	32	m
+289	Jesclard, Riggs	800	137879755	800 FR SCM	17	9:35.82	9:35.82	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		434	32	m
+290	Rubenstein, Jesse	800	48727748	800 FR SCM	14	9:36.08	9:26.08	AA	2010 CO Montrose Summer Open	7/16/2010	Durango Swim Club	CO		559	32	m
+291	Sorbe, Kyle	800	84231205	800 FR SCM	13	9:36.32	9:31.32	AA	2014 SD Short Course State Cha	2/28/2014	Brookings Swim Club	SD		649	32	m
+292	Kilstrom, Parker	800	66820717	800 FR SCM	15	9:36.93	9:31.93	A	2012 OR Jay Rowan Invitational -	7/6/2012	Oregon City Swim Team	OR		495	32	m
+293	Pokley, Dalton	800	65355192	800 FR SCM	14	9:36.96	9:36.96	AA	2012 MI CSW Memorial Open SCM	5/18/2012	Clarkston Sea Wolves	MI		556	32	m
+294	Hofferth, Elliott	800	107807008	800 FR SCM	18	9:37.09	9:37.09	A	2016 PN TAC 40th Annual Spring Thunderbird	5/20/2016	Thunderbird Aquatic Club	PN		428	32	m
+294	Johnston, Nathaniel	800	130594600	800 FR SCM	14	9:37.09	9:37.09	A	2018 MI AP AQUA vs LTF	6/2/2018	AquaSwimClub	MI		555	32	m
+296	Hill, Robbie	800	107112171	800 FR SCM	13	9:37.11	9:37.11	AA	2016 MV BWST 2nd Annual Platte	4/24/2016	Northland United Swim Team	MV		646	32	m
+297	Tanaskovic, Stefan	800	86228667	800 FR SCM	14	9:37.22	9:37.22	AA	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	554	32	m
+298	Wooding, Keegan	800	131645474	800 FR SCM	14	9:37.47	9:37.47	A	2018 NI - Keith Shields Invitational	6/30/2018	Victor Swim Club	NI		553	32	m
+299	Tindell, Nathan	800	145171505	800 FR SCM	18	9:37.58	9:37.58	BB	Frostburg vs Elizabethtown	11/2/2019	Unattached	MA		426	32	m
+300	Truong, Erik	800	110092712	800 FR SCM	15	9:37.89	9:37.89	A	2016 MA BGH We're Going the Distance!	6/4/2016	Brigantine Green Heads	MA		491	32	m
+301	Tebbe, Aaron	800	134673523	800 FR SCM	18	9:37.91	9:37.91	BB	H-SC hosting R-MC, Barton, Hol	11/9/2018	Unattached	AM		425	32	m
+302	Yin, Justin	800	110092715	800 FR SCM	16	9:37.94	9:37.94	A	2016 MA BGH We're Going the Distance!	6/4/2016	Brigantine Green Heads	MA		432	32	m
+303	Sauer-Newell, Brendan	800	103562867	800 FR SCM	16	9:38.60	9:38.60	A	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Anthem Dolphins	AZ		429	32	m
+304	Buchalski, Albert	800	60233822	800 FR SCM	12	9:38.69	9:38.69	AAAA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		783	32	m
+305	Perkowski, Evan	800	124386719	800 FR SCM	21	9:38.71	9:38.71	BB	2017 SU vs. Widener	12/2/2017	Unattached	MA		421	32	m
+306	Yadao, Josh	800	60234399	800 FR SCM	12	9:39.18	9:39.18	AAAA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		781	32	m
+307	Lause, Matt	800	44650866	800 FR SCM	13	9:39.24	9:39.24	AA	2010 AZ Ride the Wave Havas	1/30/2010	Swim Neptune	AZ		636	32	m
+308	Shelley, Sam	800	69497525	800 FR SCM	14	9:39.63	9:39.63	A	Island Pacific Cup	11/9/2012	Tualatin Hills Swim Club	OR		544	32	m
+308	Zimet, Michael	800	48728035	800 FR SCM	15	9:39.63	9:29.63	A	2010 CO Montrose Summer Open	7/16/2010	Aspen Swim Club	CO		483	32	m
+310	Lemos, Easton	800	55738732	800 FR SCM	15	9:39.78	9:39.78	A	2011 PN Spring Thunderbird	5/13/2011	StingRay Swim Club	PN		483	32	m
+311	Green, Charlie	800	145137385	800 FR SCM	18	9:39.87	9:39.87	BB	2019 SU vs. York	10/26/2019	Unattached	MA		417	32	m
+311	McLaughlin, Scott	800	57663453	800 FR SCM	17	9:39.87	9:39.87	A	2011 NI STSL East Distance Meet	7/13/2011	Cortland YMCA Swim Team	NI		417	32	m
+313	Piccoli, Jack	800	144968875	800 FR SCM	18	9:39.98	9:39.98	BB	LFC - Carthage 	10/26/2019	Unattached	IL		416	32	m
+314	Wilson, Timothy	800	47713215	800 FR SCM	15	9:40.16	9:40.16	A	2010 MR ESG SCM Trials	6/18/2010	Islip Aquatics	MR		481	32	m
+315	Vannevel, Josh	800	47621775	800 FR SCM	13	9:40.39	9:40.39	AA	2010 IN PPSC Father's Day Spla	6/11/2010	Duneland Swim Club	IN		631	32	m
+316	Mangino, Domonic	800	148827714	800 FR SCM	17	9:40.56	9:40.56	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		414	32	m
+317	Dovolani, Bexhet	800	126294802	800 FR SCM	18	9:40.69	9:40.69	BB	Fairfield vs. Fordham	11/10/2017	Unattached	US		413	32	m
+318	King, Connor	800	79520596	800 FR SCM	16	9:40.71	9:30.71	A	2013 CO MM Fall Open	11/2/2013	Montrose Marlins Swim Club	CO		421	32	m
+319	Robinson, Michael	800	119586245	800 FR SCM	11	9:41.03	9:41.03	AAA	2017 MS State Games of MS	6/9/2017	Mississippi Makos Swim Team	MS		937	32	m
+320	Young, Logan	800	48728018	800 FR SCM	15	9:41.06	9:31.06	A	2010 CO Montrose Summer Open	7/16/2010	Grand Junction Dolphins	CO		477	32	m
+321	Nelson, Will	800	97836246	800 FR SCM	16	9:41.13	9:41.13	A	2015 WI MSS Summer Splash	6/20/2015	DFAC Swimming	WI		419	32	m
+322	Velasquez, Christian	800	133869111	800 FR SCM	19	9:41.18	9:41.18	BB	Wilmington College vs BW 2018	10/20/2018	Unattached	GU		411	32	m
+323	Lace, Travis	800	115119717	800 FR SCM	13	9:41.45	9:41.45	A	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Swim Neptune	AZ		626	32	m
+324	Montgomery, Taylor	800	133594872	800 FR SCM	18	9:41.47	9:41.47	BB	Queens v UIndy v Wingate	10/13/2018	Unattached	SC		410	32	m
+325	Zentmeyer, Clay	800	69231020	800 FR SCM	16	9:41.48	9:31.48	A	2012 CO Montrose Fall Open	11/3/2012	Montrose Marlins Swim Club	CO		417	32	m
+326	Johnston, Conor	800	124386419	800 FR SCM	21	9:41.49	9:41.49	BB	2017 SU vs. Widener	12/2/2017	Unattached	MD		410	32	m
+327	Rogers, Jonah	800	82365988	800 FR SCM	16	9:41.52	9:41.52	A	2014 AK Great Alaska Open	1/24/2014	Northern Lights Swim Club	AK		417	32	m
+328	Connally, Austin	800	115119234	800 FR SCM	16	9:41.53	9:41.53	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		417	32	m
+329	Petitt, Colin	800	50894828	800 FR SCM	15	9:41.65	9:41.65	A	Island Pacific Cup	11/12/2010	Tualatin Hills Swim Club	OR		475	32	m
+330	Reyes, Luke	800	133331763	800 FR SCM	13	9:41.98	9:41.98	A	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		624	32	m
+331	Tanzosh, Kevin	800	144908469	800 FR SCM	18	9:42.36	9:42.36	BB	2019 SU vs. York	10/26/2019	Unattached	MA		406	32	m
+332	Mathes, Nathan	800	107807274	800 FR SCM	16	9:42.57	9:42.57	A	2016 PN TAC 40th Annual Spring Thunderbird	5/20/2016	Thunderbird Aquatic Club	PN		413	32	m
+333	Watkins, Hunter	800	109778985	800 FR SCM	15	9:42.88	9:37.88	A	2016 OR RACE Jay Rowan Open	7/10/2016	Albany Aquatic Association	OR		470	32	m
+334	Woodside, Matthew	800	148669104	800 FR SCM	14	9:42.99	9:42.99	A	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		529	32	m
+335	Grantham, Jacob	800	148827403	800 FR SCM	16	9:43.32	9:43.32	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		410	32	m
+336	Holloway, Landon	800	58037719	800 FR SCM	16	9:43.33	9:43.33	A	2011 MI CSW Summer Shorts	7/30/2011	Clarkston Sea Wolves	MI		410	32	m
+337	Russell, Kyle	800	135961196	800 FR SCM	19	9:43.37	9:43.37	BB	SU vs. Va.Wesleyan	12/8/2018	Unattached	MA		402	32	m
+338	Rumrill, Wyatt	800	84231011	800 FR SCM	16	9:43.44	9:38.44	BB	2014 SD Short Course State Cha	2/28/2014	Pierre Swim Team	SD		409	32	m
+339	Kline, Tony	800	141768132	800 FR SCM	16	9:43.47	9:43.47	BB	2019 MA SJAC SCM Challenge	6/9/2019	South Jersey Aquatic Club	MA		409	32	m
+340	Wine, Jared	800	56055164	800 FR SCM	16	9:43.53	9:43.53	A	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		409	32	m
+341	Medins, Brandon	800	123148684	800 FR SCM	19	9:43.54	9:43.54	BB	H-SC hosting Greensboro and Wi	11/4/2017	Unattached	NC		402	32	m
+342	Baker, Troy	800	120816373	800 FR SCM	17	9:43.93	9:43.93	BB	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		400	32	m
+343	Brown, Lenny	800	133809286	800 FR SCM	18	9:43.96	9:43.96	BB	2018 SU vs. CUA	10/20/2018	Unattached	NJ		400	32	m
+344	Kirkland, Garrett	800	147831713	800 FR SCM	18	9:44.11	9:44.11	BB	CU-BC-SAU	1/10/2020	Unattached	IL		399	32	m
+345	Santiago, Alex	800	55740169	800 FR SCM	18	9:44.12	9:44.12	BB	2011 PN Spring Thunderbird	5/13/2011	StingRay Swim Club	PN		399	32	m
+346	Pizzo, Nick	800	58037946	800 FR SCM	16	9:44.13	9:44.13	A	2011 MI CSW Summer Shorts	7/30/2011	Utica Shelby Swim Club	MI		407	32	m
+347	Vinson, Anthony	800	122921389	800 FR SCM	19	9:44.31	9:44.31	BB	SBC Hosting Gallaudet and HSC	10/28/2017	Unattached	VA	Yes	398	32	m
+348	Zisa, Jack	800	141768911	800 FR SCM	16	9:44.83	9:44.83	BB	2019 MA SJAC SCM Challenge	6/9/2019	Pennsbury Aquatic Club	MA		404	32	m
+349	Tankersley, Cameron	800	115120105	800 FR SCM	15	9:45.17	9:45.17	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		460	32	m
+350	Cusson, Braden	800	115119274	800 FR SCM	15	9:45.30	9:45.30	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		459	32	m
+350	Walz, William	800	133331769	800 FR SCM	12	9:45.30	9:45.30	AAA	2018 PC LAMV 800SCM Invitational	9/30/2018	South San Francisco Aquatics	PC		755	32	m
+352	Kratzer, Gavin	800	115119683	800 FR SCM	15	9:45.40	9:45.40	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		459	32	m
+353	Dietrich, Hagen	800	49392917	800 FR SCM	13	9:45.56	9:45.56	A	2010 NC Triangle Distance Seri	9/11/2010	Watauga County Swim Team	NC		610	32	m
+354	Heinonen, Mike	800	69913543	800 FR SCM	15	9:45.63	9:45.63	BB	2012 AZ Anthem November Invite	11/17/2012	Red Peaks Aquatic Club	AZ		458	32	m
+355	Noble, Connor	800	86228354	800 FR SCM	14	9:45.67	9:45.67	A	2014 NI - Victor Meter Mania	5/31/2014	Sharks & Eagles Aquatic Sports	NI		518	32	m
+356	Cancino, Christian	800	69913394	800 FR SCM	17	9:45.79	9:45.79	BB	2012 AZ Anthem November Invite	11/17/2012	Flagstaff Snow Sharks Inc	AZ		392	32	m
+357	Coniglio, Nino	800	142983642	800 FR SCM	14	9:45.83	9:45.83	A	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		517	32	m
+358	Cole, Nate	800	66517651	800 FR SCM	17	9:46.10	9:46.10	BB	SRS 2012 Elko High Altiude	6/23/2012	Elko Swim Team	SR		391	32	m
+359	Teas, Keaton	800	55740706	800 FR SCM	14	9:46.13	9:46.13	A	2011 PN Spring Thunderbird	5/13/2011	Thunderbird Aquatic Club	PN		516	32	m
+360	Goszkowicz, Nick	800	85091916	800 FR SCM	16	9:46.29	9:46.29	BB	2014 MS MSA Spring Invitational	3/28/2014	Meridian Swimming Assoc.	MS		398	32	m
+361	Badalamenti, Nick	800	44646764	800 FR SCM	18	9:46.40	9:46.40	BB	2010 AZ Ride the Wave Havas	1/30/2010	Anthem Dolphins	AZ	Yes	390	32	m
+362	Walton, Chris	800	144994924	800 FR SCM	20	9:46.44	9:46.44	BB	Wilmington vs ONU 2019	10/25/2019	Unattached	IN		390	32	m
+363	Coleman, Gabe	800	131418977	800 FR SCM	14	9:46.53	9:46.53	A	2018 IA VAC 57th Annual Vinton	6/24/2018	MACR Sharks	IA		514	32	m
+364	Smith, Connor	800	142859904	800 FR SCM	15	9:46.68	9:46.68	BB	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		454	32	m
+365	Beck, Elijah	800	76667415	800 FR SCM	14	9:46.97	9:36.97	A	2013 SR Elko High Altitude In	6/29/2013	Nampa Swim Team	SR		512	32	m
+366	Frank, Nicholas	800	130076101	800 FR SCM	12	9:47.33	9:47.33	AAA	2018 MV BWST 4th Annual Platte	5/6/2018	Kansas City Blazers	MV		747	32	m
+367	Krell, Carl	800	102993788	800 FR SCM	16	9:47.38	9:32.38	BB	2015 WY Kemmerer St. Nick Splash	12/19/2015	Kemmerer Swim Club	WY		393	32	m
+368	Acosta, Jeremy	800	130075594	800 FR SCM	16	9:47.98	9:47.98	BB	2018 MV BWST 4th Annual Platte	5/6/2018	Northland United Swim Team	MV		391	32	m
+369	Heinrich, Ethan	800	86404667	800 FR SCM	13	9:48.10	9:48.10	A	2014 MS State Games of MS	6/6/2014	Laurel Swim Association	MS		597	32	m
+370	Idoux, Grant	800	130076343	800 FR SCM	14	9:48.12	9:48.12	A	2018 MV BWST 4th Annual Platte	5/6/2018	Riptide Aquatics	MV		507	32	m
+371	Verdier, Riley	800	85887457	800 FR SCM	15	9:48.16	9:48.16	BB	2014 PN Spring Thunderbird	5/16/2014	Gold's Aquatics Club	PN		448	32	m
+372	Uerling, Eric	800	103347616	800 FR SCM	13	9:48.20	9:48.20	A	2016 OK SwimTulsa New Years Invite	1/8/2016	SwimTulsa	OK		596	32	m
+373	Qie, York	800	86228450	800 FR SCM	15	9:48.39	9:48.39	BB	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	447	32	m
+374	Gorman, Joe	800	85886601	800 FR SCM	15	9:48.45	9:48.45	BB	2014 PN Spring Thunderbird	5/16/2014	North Whidbey Aquatic Club	PN		446	32	m
+375	Stroud, Trey	800	137507962	800 FR SCM	18	9:48.46	9:48.46	BB	E&H vs LG vs WP	1/26/2019	Unattached	NC		382	32	m
+376	Bastille, Louis	800	87280097	800 FR SCM	14	9:48.57	9:48.57	A	2014 AK Midnight Sun Invitational	6/27/2014	Midnight Sun Swim Team	AK		505	32	m
+377	Henderson, Myles	800	145171055	800 FR SCM	18	9:49.11	9:49.11	BB	Frostburg vs Elizabethtown	11/2/2019	Unattached	MD		379	32	m
+378	Williams, Isaiah	800	53327206	800 FR SCM	13	9:49.12	9:49.12	A	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Swim Neptune	AZ		592	32	m
+379	Barrett, Stephen	800	135008977	800 FR SCM	20	9:49.17	9:49.17	BB	UMD at ELms	11/17/2018	Unattached	NE		379	32	m
+380	Apuron, Evan	800	148826960	800 FR SCM	16	9:49.30	9:49.30	BB	2020 AZ HSST Ride the Wave 	1/24/2020	San Manuel Sea Lions	AZ		386	32	m
+381	Fountain, Jp	800	85886520	800 FR SCM	16	9:49.35	9:49.35	BB	2014 PN Spring Thunderbird	5/16/2014	Gold's Aquatics Club	PN		386	32	m
+382	McKinnon, Gavin	800	137879962	800 FR SCM	16	9:49.56	9:49.56	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		385	32	m
+382	Teare, Davin	800	103563070	800 FR SCM	16	9:49.56	9:49.56	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Mesa Aquatics Club	AZ		385	32	m
+384	Noble, Logan	800	109778393	800 FR SCM	17	9:49.60	9:44.60	BB	2016 OR RACE Jay Rowan Open	7/10/2016	Redmond Aquatic Club	OR		377	32	m
+385	Sawyer, Samuel	800	61220880	800 FR SCM	14	9:49.89	9:49.89	A	2011 NI TTSC Winter Break meet 2011	12/26/2011	Town of Tonawanda Titans Swim Club	NI		500	32	m
+386	Camareno, Rey	800	135009824	800 FR SCM	20	9:50.21	9:50.21	BB	William Jewel v IC v BCC v USM	11/17/2018	Unattached	MV		375	32	m
+387	Schmidt, Evan	800	131504587	800 FR SCM	13	9:50.28	9:50.28	A	2018 WI MSS Summer Splash	6/24/2018	Stoughton Aqua Racers	WI		587	32	m
+388	Magdas, Radu	800	145163419	800 FR SCM	19	9:50.41	9:50.41	BB	EHC King Milligan	11/1/2019	Unattached	PN		374	32	m
+389	Vassilakos, Drew	800	75835693	800 FR SCM	15	9:50.45	9:50.45	BB	2013 MI Aloha Shorts SCM ABC M	6/7/2013	Clarkston Sea Wolves	MI		438	32	m
+390	Robinson, Matthew	800	109618547	800 FR SCM	12	9:50.57	9:50.57	AAA	2016 MS State Games of Mississippi	7/8/2016	Performance Elite Aquatics	MS		734	32	m
+391	Putnam, Ryan	800	87840749	800 FR SCM	14	9:50.69	9:50.69	A	2014 NI - Keith Shields Invitational	7/19/2014	Victor Swim Club	NI		496	32	m
+392	Prendergast, Patrick	800	51901230	800 FR SCM	16	9:50.72	9:50.72	BB	2010 NJ Peddie SCM Fall Invite	11/6/2010	Eastern Express Swim Team	NJ		380	32	m
+393	Racanelli, Jack	800	144968899	800 FR SCM	18	9:50.90	9:50.90	BB	LFC - Carthage 	10/26/2019	Unattached	IL		372	32	m
+394	Eckstein, Adam	800	130261832	800 FR SCM	16	9:51.08	9:51.08	BB	2018 MS  State Games of MS	5/18/2018	Vicksburg Swim Association Inc	MS		379	32	m
+395	Carlson, Elias	800	90623467	800 FR SCM	16	9:51.21	9:41.21	BB	2014 CO Montrose Marlins Fall	11/1/2014	Unattached	CO		378	32	m
+396	Brodesser, Patrick	800	58037455	800 FR SCM	17	9:51.22	9:51.22	BB	2011 MI CSW Summer Shorts	7/30/2011	South Lyon Aquatics	MI		371	32	m
+397	Stluka, Spencer	800	138830994	800 FR SCM	13	9:51.50	9:51.50	A	2019 WI OCSC Community Club Wi	1/18/2019	Oregon Community Swim Club	WI		582	32	m
+398	Koehler, Connor	800	123144049	800 FR SCM	20	9:51.61	9:51.61	BB	Oswego at Clarkson	11/4/2017	Unattached	NE		369	32	m
+399	Vanveen, Jon	800	97838590	800 FR SCM	17	9:51.81	9:51.81	BB	2015 WI MSS Summer Splash	6/20/2015	McFarland Spartan Sharks	WI		369	32	m
+400	Bainco, Bon Jarik	800	55736014	800 FR SCM	15	9:52.15	9:52.15	BB	2011 PN Spring Thunderbird	5/13/2011	North Whidbey Aquatic Club	PN		431	32	m
+401	Kowalczyk, Matt	800	123230499	800 FR SCM	18	9:52.18	9:52.18	BB	Home vs. Mars Hill vs.-Finals	11/4/2017	Unattached	SE		367	32	m
+402	Hamilton, Dave	800	86228012	800 FR SCM	15	9:52.40	9:52.40	BB	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	430	32	m
+403	Tuter, Jordan	800	137880291	800 FR SCM	17	9:52.51	9:52.51	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		366	32	m
+404	McMillan, Evan	800	148827774	800 FR SCM	16	9:52.58	9:52.58	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Havasu Stingrays Swim Team	AZ		373	32	m
+405	Caloian, Eduard	800	86227752	800 FR SCM	14	9:52.78	9:52.78	A	2014 NI - Victor Meter Mania	5/31/2014	Unattached	NI	Yes	488	32	m
+406	Anderson, Thomas	800	103562111	800 FR SCM	17	9:52.88	9:52.88	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Mesa Aquatics Club	AZ		364	32	m
+407	Barreda, Edy	800	148012660	800 FR SCM	15	9:53.00	9:53.00	BB	2020 OK SwimTulsa New Years Invite	1/10/2020	SwimTulsa	OK		428	32	m
+408	McLean, Angus	800	123144144	800 FR SCM	19	9:53.05	9:53.05	BB	Oswego at Clarkson	11/4/2017	Unattached	ME		364	32	m
+409	Pankratz, Sam	800	130076933	800 FR SCM	15	9:53.09	9:53.09	BB	2018 MV BWST 4th Annual Platte	5/6/2018	Kansas City Blazers	MV		427	32	m
+410	Dooyema, Austin	800	134373352	800 FR SCM	19	9:53.55	9:53.55	BB	LFC vs Carroll 11-3-2018	11/3/2018	Unattached	GU		362	32	m
+411	Huang, Kyle	800	133331743	800 FR SCM	13	9:53.80	9:53.80	A	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		572	32	m
+412	Giles, Jack	800	137879635	800 FR SCM	15	9:53.85	9:53.85	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		424	32	m
+413	Zeigler, Zachary	800	55814141	800 FR SCM	14	9:54.16	9:54.16	A	2011 IN DON Early Bird Invitat	5/14/2011	Donner Swim Club	IN		482	32	m
+414	Dentlinger, Kendall	800	84229839	800 FR SCM	17	9:54.31	9:49.31	BB	2014 SD Short Course State Cha	2/28/2014	Brookings Swim Club	SD		359	32	m
+414	King, James	800	102993783	800 FR SCM	13	9:54.31	9:39.31	A	2015 WY Kemmerer St. Nick Splash	12/19/2015	Unattached	WY		570	32	m
+416	Leone, Aiden	800	133331750	800 FR SCM	13	9:54.51	9:54.51	A	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		569	32	m
+417	Moore, Emmett	800	119094667	800 FR SCM	16	9:54.57	9:54.57	BB	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Thunderbird Aquatic Club	PN		365	32	m
+418	Frese, Alexander	800	103214579	800 FR SCM	13	9:54.77	9:54.77	A	2016 IN PPSC Distance Extravag	1/2/2016	Three Rivers Aquatic Club	IN		568	32	m
+419	Waqainabete, Zion	800	147038785	800 FR SCM	13	9:55.19	9:55.19	A	SC Age Group Nationals 2019	10/10/2019	Unattached	HI		566	32	m
+420	Warriner, Chance	800	115120168	800 FR SCM	13	9:55.31	9:55.31	A	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		565	32	m
+421	Eudey, Taylor	800	148012835	800 FR SCM	18	9:55.49	9:55.49	BB	2020 OK SwimTulsa New Years Invite	1/10/2020	SwimTulsa	OK		354	32	m
+421	Handeland, Joshua	800	82365732	800 FR SCM	16	9:55.49	9:55.49	BB	2014 AK Great Alaska Open	1/24/2014	North Pole Aquatic Club	AK		361	32	m
+423	Faulkner, Colin	800	136701665	800 FR SCM	14	9:55.59	9:55.59	A	2019 OK SwimTulsa New Years Invite	1/4/2019	SwimTulsa	OK		476	32	m
+424	Bierschbach, Thomas	800	116550568	800 FR SCM	16	9:55.71	9:55.71	BB	2017 SD Qualifying Swim Meet	2/18/2017	Watertown Area Swim Club	SD		360	32	m
+425	Anderson, Ethan	800	118213592	800 FR SCM	14	9:55.86	9:55.86	A	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		475	32	m
+426	Mendelson, Jacob	800	57663468	800 FR SCM	17	9:55.92	9:55.92	BB	2011 NI STSL East Distance Meet	7/13/2011	Greater Owego Swim Team	NI		352	32	m
+427	Giardino, Michael	800	148669059	800 FR SCM	13	9:55.98	9:55.98	A	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		563	32	m
+428	Chandra, Kumar	800	133331730	800 FR SCM	13	9:56.00	9:56.00	A	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		562	32	m
+429	Bizeau, Ben	800	142501723	800 FR SCM	15	9:56.51	9:56.51	BB	2019 OR CST Summer Invitational	6/28/2019	Chehalem Swim Team	OR		413	32	m
+430	James, Evan	800	86228068	800 FR SCM	15	9:56.59	9:56.59	BB	2014 NI - Victor Meter Mania	5/31/2014	Oswego Laker Swim Club	NI		413	32	m
+431	Bierschbach, Jacob	800	44691448	800 FR SCM	16	9:56.79	9:56.79	BB	2010 SD Optimist's Big Apple	1/23/2010	Watertown Area Swim Club	SD		356	32	m
+432	Robertson, Austin	800	82069927	800 FR SCM	15	9:57.04	9:57.04	BB	2014 AZ HSST Ride the Wave 8th Annual Havas	1/10/2014	Anthem Dolphins	AZ		411	32	m
+433	Penado, Clark	800	69913693	800 FR SCM	14	9:57.09	9:57.09	A	2012 AZ Anthem November Invite	11/17/2012	Red Peaks Aquatic Club	AZ		470	32	m
+434	Finnerty, Ian	800	57097281	800 FR SCM	14	9:57.20	9:57.20	A	2011 IN ACST Summer Trials	6/25/2011	Avon Community Swim Team	IN		469	32	m
+435	Mink, Mason	800	136702104	800 FR SCM	14	9:57.52	9:57.52	A	2019 OK SwimTulsa New Years Invite	1/4/2019	SwimTulsa	OK		468	32	m
+436	Keith, Johnathon	800	103346928	800 FR SCM	13	9:58.03	9:58.03	A	2016 OK SwimTulsa New Years Invite	1/8/2016	Jenks Trojan Swim Club	OK		554	32	m
+437	Ponce De Leon, Cody	800	47621565	800 FR SCM	13	9:58.12	9:58.12	A	2010 IN PPSC Father's Day Spla	6/11/2010	Hobart Tiger Sharks	IN		553	32	m
+438	Slone, Derek	800	48727778	800 FR SCM	16	9:58.56	9:48.56	BB	2010 CO Montrose Summer Open	7/16/2010	Montrose Marlins Swim Club	CO		349	32	m
+439	Liu, Ty	800	133331754	800 FR SCM	11	9:58.60	9:58.60	AAA	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		863	32	m
+440	Monteith, Canaan	800	144992733	800 FR SCM	19	9:58.69	9:58.69	BB	Lynchburg vs EHC	10/26/2019	Unattached	NC		342	32	m
+441	Caldwell, Gabe	800	57097242	800 FR SCM	13	9:58.73	9:58.73	A	2011 IN ACST Summer Trials	6/25/2011	Avon Community Swim Team	IN		551	32	m
+442	Bengtson, Noah	800	145163282	800 FR SCM	18	9:58.94	9:58.94	BB	EHC King Milligan	11/1/2019	Unattached	IL		341	32	m
+443	Meldrum, Dylan	800	115119792	800 FR SCM	15	9:59.63	9:59.63	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		401	32	m
+444	Gleaves, Gavin	800	69497187	800 FR SCM	13	9:59.64	9:59.64	A	Island Pacific Cup	11/9/2012	Tualatin Hills Swim Club	OR		547	32	m
+445	Hall, Huddy	800	120816517	800 FR SCM	13	9:59.82	9:59.82	A	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		546	32	m
+446	Dacosta, Rafael	800	115913761	800 FR SCM	15	9:59.99	9:59.99	BB	2017 WI ApprovedNLAC - CWSC Ch	2/5/2017	Unattached	WI		400	32	m
+447	Webb, Patrick	800	44654666	800 FR SCM	13	10:00.02	10:00.02	A	2010 AZ Ride the Wave Havas	1/30/2010	Unattached	AZ		545	32	m
+448	Harvey, Tait	800	97284866	800 FR SCM	13	10:00.24	10:00.24	A	2015 MV BWST Inaugural Platte	5/29/2015	Club North Swimming	MV		544	32	m
+449	Bourgeois, Tommy	800	59202965	800 FR SCM	16	10:00.29	10:00.29	BB	2011 SE  BSC Pumpkin Patch Mix	10/29/2011	Barracuda Swim Club of Northeast Tennessee	SE		343	32	m
+450	Graham, Jared	800	59882121	800 FR SCM	12	10:00.32	10:00.32	AAA	2011 Fall into Finals - Canada	11/12/2011	Penguin Aquatics	PN		694	32	m
+451	Cho, Justin	800	144597979	800 FR SCM	14	10:00.46	10:00.46	A	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		456	32	m
+452	Ramminger, Ben	800	97836999	800 FR SCM	13	10:00.63	10:00.63	A	2015 WI MSS Summer Splash	6/20/2015	DFAC Swimming	WI		543	32	m
+453	McDowell, Patrick	800	85886999	800 FR SCM	16	10:00.75	10:00.75	BB	2014 PN Spring Thunderbird	5/16/2014	StingRay Swim Team	PN		341	32	m
+454	Clark, Evan	800	142983550	800 FR SCM	15	10:00.86	10:00.86	BB	2019 MV BWST 5th Annual Platte	5/5/2019	Kansas City Blazers	MV		396	32	m
+454	Grunder, Kurt	800	57663147	800 FR SCM	16	10:00.86	10:00.86	BB	2011 NI STSL East Distance Meet	7/13/2011	Chenango Valley Swim Club	NI		341	32	m
+456	Henderson, Dustin	800	48777738	800 FR SCM	15	10:01.40	9:56.40	BB	2010 OR Jay Rowan Invitational -	7/16/2010	Madras Swim Team	OR		394	32	m
+457	Fisk, Jared	800	48085999	800 FR SCM	17	10:01.57	9:51.57	BB	2010 SR Elko High Altitude	6/26/2010	Elko Swim Team	SR		331	32	m
+458	Snowman, Spencer	800	119094985	800 FR SCM	16	10:01.86	10:01.86	BB	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Thunderbird Aquatic Club	PN		337	32	m
+459	Schiefelbein, Colin	800	84231063	800 FR SCM	17	10:01.97	9:56.97	BB	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Seals	SD		329	32	m
+460	Summers, Nick	800	120089526	800 FR SCM	17	10:02.26	10:02.26	BB	2017 WI MSS Summer Splash	6/24/2017	DFAC Swimming	WI		328	32	m
+461	Crossman, Nick	800	47915929	800 FR SCM	16	10:02.36	10:02.36	BB	2010 NE PST Distance Meet	6/26/2010	Cape Cod YMCA Mako Swim Team	NE		335	32	m
+462	Tan, Tony	800	136702452	800 FR SCM	15	10:02.64	10:02.64	BB	2019 OK SwimTulsa New Years Invite	1/4/2019	SwimTulsa	OK		389	32	m
+463	Potts, Adam	800	48086214	800 FR SCM	16	10:02.88	9:52.88	BB	2010 SR Elko High Altitude	6/26/2010	Sun Valley 5 B - Y	SR		333	32	m
+464	Logue, Brenden	800	66518126	800 FR SCM	14	10:03.35	10:03.35	A	SRS 2012 Elko High Altiude	6/23/2012	Caldwell Swim Club	SR		444	32	m
+465	Law, Sebastian	800	133331749	800 FR SCM	15	10:03.36	10:03.36	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	South San Francisco Aquatics	PC		386	32	m
+466	Gardner, Ross	800	86227969	800 FR SCM	18	10:03.54	10:03.54	BB	2014 NI - Victor Meter Mania	5/31/2014	Oswego Laker Swim Club	NI		324	32	m
+467	North, Toshi	800	133331761	800 FR SCM	12	10:03.76	10:03.76	AA	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		680	32	m
+468	Moreno, Dan	800	53682540	800 FR SCM	15	10:04.04	10:04.04	BB	2010 MD CATS-HUHU Dual Meet	11/13/2010	Carroll Aquatics Tiger Sharks	MD		384	32	m
+469	Steiner, Christian	800	107405350	800 FR SCM	15	10:04.08	10:04.08	BB	2016 NI - Keith Shields Invitational	5/1/2016	Nickel City Race Club	NI		384	32	m
+470	Kolberg, Karson	800	132092249	800 FR SCM	13	10:04.11	10:04.11	BB	2018 AK Midnight Sun Invitational	6/17/2018	Northern Lights Swim Club	AK		528	32	m
+471	Gross, Jack	800	87280298	800 FR SCM	16	10:04.23	10:04.23	BB	2014 AK Midnight Sun Invitational	6/27/2014	Midnight Sun Swim Team	AK		328	32	m
+472	Sands, Benjamin	800	82366010	800 FR SCM	16	10:04.35	10:04.35	BB	2014 AK Great Alaska Open	1/24/2014	Northern Lights Swim Club	AK		327	32	m
+473	McDonald, Aden	800	142502078	800 FR SCM	14	10:04.36	10:04.36	BB	2019 OR CST Summer Invitational	6/28/2019	Forest Grove Swim Club	OR		440	32	m
+474	Smith, Greyson	800	141505815	800 FR SCM	13	10:04.97	10:04.97	BB	2019 NE PHX Distance & Special	5/31/2019	Phoenix Swimming	NE		525	32	m
+475	Thompson, Jack	800	134373657	800 FR SCM	18	10:05.03	10:05.03	BB	LFC vs Carroll 11-3-2018	11/3/2018	Unattached	IL		318	32	m
+476	Bartlow, Joseph	800	130177860	800 FR SCM	16	10:05.04	10:05.04	BB	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Gold's Aquatics Club	PN		325	32	m
+477	Wunderlich, Camden	800	46980749	800 FR SCM	13	10:05.09	10:05.09	A	2010 PN Spring Thunderbird	5/14/2010	Gold's Aquatics Club	PN		524	32	m
+478	Hunt, Paul	800	114492739	800 FR SCM	14	10:05.11	10:05.11	BB	2017 OK SwimTulsa New Years Invite	1/6/2017	Trident Aquatics Club	OK		437	32	m
+479	Mischio, Sam	800	51080283	800 FR SCM	14	10:05.13	10:05.13	A	2010 WI MSS Fall Splash	11/20/2010	McFarland Spartan Sharks	WI		437	32	m
+480	Gilbert, Rodney	800	57378044	800 FR SCM	17	10:05.14	10:00.14	BB	2011 OR Jay Rowan Invitational -	7/8/2011	Oregon City Swim Team	OR		318	32	m
+480	Shanes, Samuel	800	123507057	800 FR SCM	17	10:05.14	10:05.14	BB	Hiram vs Wilmington	11/11/2017	Unattached	NT		318	32	m
+482	Clark, Alex	800	96597480	800 FR SCM	16	10:05.86	10:05.86	BB	2015 PN Spring Thunderbird	5/15/2015	Unattached	PN		322	32	m
+483	Masten, Noah	800	141188084	800 FR SCM	15	10:06.07	10:06.07	BB	2019 PN TAC 43rd Annual Spring	5/17/2019	Thunderbird Aquatic Club	PN		376	32	m
+484	Thompson, Tyler	800	123807378	800 FR SCM	21	10:06.41	10:06.41	BB	Hiram vs BW	11/17/2017	Unattached	LE		313	32	m
+485	Johnson, Mason	800	88062953	800 FR SCM	14	10:06.43	9:56.43	BB	2014 SRS Elko High Altitude	6/28/2014	Sun Valley 5 B - Y	SR		432	32	m
+486	McCall, Quincy	800	137879951	800 FR SCM	17	10:06.70	10:06.70	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		312	32	m
+487	Crossing, Alex	800	120816434	800 FR SCM	13	10:07.24	10:07.24	BB	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		515	32	m
+488	Jacob, Conor	800	141768023	800 FR SCM	14	10:07.53	10:07.53	BB	2019 MA SJAC SCM Challenge	6/9/2019	Medford Wave	MA		427	32	m
+489	Fox, Logan	800	132092212	800 FR SCM	15	10:07.62	10:07.62	BB	2018 AK Midnight Sun Invitational	6/17/2018	Stingray Swim Team	AK		370	32	m
+490	Ross, Robert	800	118213739	800 FR SCM	17	10:07.65	10:07.65	BB	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		308	32	m
+491	Porter, Carson	800	118213723	800 FR SCM	14	10:07.70	10:07.70	BB	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		427	32	m
+492	Olsen, Eric	800	65341044	800 FR SCM	13	10:07.74	10:07.74	A	2012 PN Spring Thunderbird	5/18/2012	Thunderbird Aquatic Club	PN		513	32	m
+493	Maggiora, Daniel	800	120716601	800 FR SCM	17	10:08.09	10:03.09	BB	2017 OR RACE Jay Rowan Open	7/9/2017	Redmond Aquatic Club	OR		307	32	m
+494	Lorson, Connor	800	49843116	800 FR SCM	13	10:08.31	10:08.31	A	2010 AZ Ingrid Kaleta Invite	10/16/2010	Anthem Dolphins	AZ		511	32	m
+495	Little, Jordan	800	84230574	800 FR SCM	17	10:08.36	10:03.36	BB	2014 SD Short Course State Cha	2/28/2014	Watertown Area Swim Club	SD		306	32	m
+496	Zolnierczyk, Adrian	800	144087995	800 FR SCM	12	10:08.41	10:08.41	AA	2019 AZ AD FL#1 Anthem Ride 	9/14/2019	Anthem Dolphins	AZ		662	32	m
+497	Sahu, Shreeyans	800	133331764	800 FR SCM	12	10:08.42	10:08.42	AA	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		662	32	m
+498	Vu, Ian	800	144598032	800 FR SCM	12	10:08.50	10:08.50	AA	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		662	32	m
+499	Dong, Ryan	800	133331735	800 FR SCM	13	10:08.96	10:08.96	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		508	32	m
+500	James, Noah	800	82099117	800 FR SCM	14	10:09.14	10:09.14	BB	2014 OK SwimTulsa New Years Invite	1/17/2014	SwimTulsa	OK		421	32	m
+501	Iverson, Seth	800	84230320	800 FR SCM	15	10:09.20	10:04.20	BB	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Snowfox	SD		364	32	m
+502	Stevenson, David	800	126276665	800 FR SCM	14	10:09.29	10:09.29	BB	2018 WI OCSC Winter Hexathlon	1/19/2018	Oregon Community Swim Club	WI		420	32	m
+503	McClelland, Caleb	800	99293676	800 FR SCM	15	10:09.54	10:09.54	BB	2015 NI - STSL East Distance 7-22	7/22/2015	Waverly Aquatic Club	NI		363	32	m
+504	Vanderzee, Mark	800	84231492	800 FR SCM	14	10:09.65	10:04.65	BB	2014 SD Short Course State Cha	2/28/2014	Brookings Swim Club	SD		419	32	m
+505	Kata, Nick	800	93327397	800 FR SCM	15	10:09.67	10:09.67	BB	2015 AZ Ride the Wave 9th Annual Havas	1/9/2015	Havasu Stingrays Swim Team	AZ		362	32	m
+506	Conley, Kameron	800	144598081	800 FR SCM	18	10:09.68	10:09.68	BB	SU vs. Marymount	10/16/2019	Unattached	MD		301	32	m
+507	D'Andrea, Nick	800	122108189	800 FR SCM	18	10:10.07	10:10.07	BB	Jewell vs. Barton & Midland	10/7/2017	Unattached	NE		300	32	m
+508	Losardo, Mike	800	137497476	800 FR SCM	19	10:10.23	10:10.23	BB	UNE at Elms 	1/26/2019	Unattached	NE		299	32	m
+509	Tang, Waylon	800	133331768	800 FR SCM	15	10:10.27	10:10.27	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	South San Francisco Aquatics	PC		360	32	m
+510	Miller, Randy	800	107807303	800 FR SCM	13	10:10.31	10:10.31	BB	2016 PN TAC 40th Annual Spring Thunderbird	5/20/2016	Fife Area Swim Team	PN		503	32	m
+511	Ring, Caleb	800	55380233	800 FR SCM	14	10:10.34	9:55.34	BB	2011 AZ Kickn' in the Pines	4/15/2011	Red Peaks Aquatic Club	AZ		416	32	m
+512	Shoaf, Trevor	800	55814216	800 FR SCM	15	10:10.96	10:10.96	BB	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		357	32	m
+513	Osborne, Scott	800	55814204	800 FR SCM	17	10:10.99	10:10.99	BB	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		296	32	m
+514	Hart, Cam	800	148827462	800 FR SCM	13	10:11.10	10:11.10	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Havasu Stingrays Swim Team	AZ		499	32	m
+514	Shearer, Conner	800	85092128	800 FR SCM	14	10:11.10	10:11.10	BB	2014 MS MSA Spring Invitational	3/28/2014	Sunkist Swim Team	MS		413	32	m
+516	Fish, Austin	800	66373694	800 FR SCM	14	10:11.16	10:11.16	BB	2012 WI MSS Summer Splash	6/23/2012	DeForest Aquatic Club	WI		413	32	m
+517	Roy, Kartavya	800	146002078	800 FR SCM	13	10:11.30	10:11.30	BB	2019 ISC Bennett Cup	11/8/2019	Tualatin Hills Swim Club	OR		499	32	m
+518	Kim, Elliot	800	133331745	800 FR SCM	13	10:11.33	10:11.33	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		498	32	m
+519	Shivadevuni, Sridhanvi	800	141768617	800 FR SCM	16	10:11.46	10:11.46	BB	2019 MA SJAC SCM Challenge	6/9/2019	Pennsbury Aquatic Club	MA		301	32	m
+520	Waligorski, Sho	800	134783807	800 FR SCM	18	10:11.64	10:11.64	BB	2018 SU vs. Altoona	11/10/2018	Unattached	MD		294	32	m
+521	Conard, Eli	800	143104017	800 FR SCM	13	10:11.65	10:11.65	BB	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		497	32	m
+522	Martin, Zach	800	46931253	800 FR SCM	16	10:11.72	10:11.72	BB	2010 IN DON Early Bird Invitat	5/15/2010	Shelby County Aquatic Club	IN		300	32	m
+523	Christianson, Cayden	800	101586348	800 FR SCM	14	10:12.07	10:02.07	BB	2015 CO Montrose Marlin Fall O	11/8/2015	Montrose Marlins Swim Club	CO		410	32	m
+524	Thorman, Carter	800	84231380	800 FR SCM	14	10:12.24	10:07.24	BB	2014 SD Short Course State Cha	2/28/2014	Black Hills Gold Swimming	SD		409	32	m
+525	Walker, John	800	148828126	800 FR SCM	18	10:12.98	10:12.98	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		289	32	m
+526	Berkey, Dustin	800	122593839	800 FR SCM	18	10:13.10	10:13.10	BB	2017 SU vs. CUA	10/21/2017	Unattached	MD		289	32	m
+527	Jesclard, Asher	800	148827562	800 FR SCM	16	10:13.23	10:13.23	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		295	32	m
+527	Santoro, Jack	800	118213754	800 FR SCM	14	10:13.23	10:13.23	BB	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		405	32	m
+529	Wolke, Christian	800	98460029	800 FR SCM	11	10:13.26	10:13.26	AA	2015 LE Makos Summer Splash	7/12/2015	Lake Erie Silver Dolphins	LE		804	32	m
+530	Bukoski, Cole	800	130042915	800 FR SCM	14	10:13.34	10:13.34	BB	2018 MI AP AQUA Summer Sprint	5/12/2018	AquaSwimClub	MI		405	32	m
+531	Fossum, Christian	800	54472846	800 FR SCM	13	10:13.64	10:13.64	BB	2011 SD B/C Championship	2/25/2011	Mitchell Aquatic Club	SD		489	32	m
+532	Wilson, Gavin	800	137880332	800 FR SCM	15	10:13.88	10:13.88	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Havasu Stingrays Swim Team	AZ		346	32	m
+533	Tejeda, Uriel	800	60234336	800 FR SCM	12	10:13.92	10:13.92	AA	2011 Island Pacific Cup & Jamboree	11/11/2011	Tualatin Hills Swim Club	OR		640	32	m
+534	Huslig, Matt	800	143104692	800 FR SCM	16	10:13.99	10:13.99	BB	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		292	32	m
+535	Hamilton, Peyton	800	123136984	800 FR SCM	19	10:14.33	10:14.33	BB	Hiram vs Malone	11/3/2017	Unattached	OH		284	32	m
+536	Gorkov, Danila	800	144597992	800 FR SCM	15	10:14.38	10:14.38	BB	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		344	32	m
+537	Gonzalez, Victor	800	44691975	800 FR SCM	17	10:14.50	10:14.50	BB	2010 SD Black Hills Gold Invit	1/30/2010	Unattached	SD	Yes	284	32	m
+538	Balmores, Koa	800	115119136	800 FR SCM	14	10:14.55	10:14.55	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Arizona Aquatic Club	AZ		400	32	m
+538	Hoyt, Riley	800	125711247	800 FR SCM	16	10:14.55	10:14.55	BB	2018 OK SwimTulsa New Years Invite	1/5/2018	SwimTulsa	OK		290	32	m
+540	Hunt, Brandon	800	66820571	800 FR SCM	14	10:14.72	10:09.72	BB	2012 OR Jay Rowan Invitational -	7/6/2012	Madras Swim Team	OR		399	32	m
+541	Konop, Ryan	800	142700963	800 FR SCM	15	10:15.03	10:10.03	BB	2019 OR RACE Jay Rowan Open	7/7/2019	Redmond Aquatic Club	OR		342	32	m
+542	Madaris, Blake	800	135005575	800 FR SCM	18	10:15.13	10:15.13	BB	E&H, Roanoke, and Hollins Doub	11/17/2018	Unattached	GA		281	32	m
+543	Erickson, Jacob	800	141187867	800 FR SCM	17	10:15.23	10:15.23	BB	2019 PN TAC 43rd Annual Spring	5/17/2019	Thunderbird Aquatic Club	PN		281	32	m
+544	Liu, Tysen	800	133331758	800 FR SCM	13	10:15.24	10:15.24	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		483	32	m
+545	Semchenko, Alex	800	135230668	800 FR SCM	18	10:15.31	10:15.31	BB	Baruch vs. CSI	11/16/2018	Unattached	NI		281	32	m
+546	Carroll, Mark	800	57077474	800 FR SCM	15	10:15.54	10:05.54	BB	2011 SR Elko High Altiude	6/25/2011	Elko Swim Team	SR		340	32	m
+547	Shaw, Nate	800	142988111	800 FR SCM	16	10:15.95	10:15.95	BB	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		285	32	m
+548	Dobrinsky, Hunter	800	126275995	800 FR SCM	12	10:16.17	10:16.17	AA	2018 WI OCSC Winter Hexathlon	1/19/2018	Oregon Community Swim Club	WI		632	32	m
+549	Farinas, Tico	800	137987536	800 FR SCM	13	10:16.21	10:16.21	BB	2019 PN BC February Distance Meet	2/3/2019	Bellevue Club Swim Team	PN		479	32	m
+550	McCourt, Iain	800	109319910	800 FR SCM	16	10:16.73	10:01.73	BB	2016 CO Durango Summer Invite	6/18/2016	Durango Swim Club	CO		283	32	m
+551	Wright, Spencer	800	47621835	800 FR SCM	14	10:17.46	10:17.46	BB	2010 IN PPSC Father's Day Spla	6/11/2010	Duneland Swim Club	IN		389	32	m
+552	Gradillas, Antony	800	72800118	800 FR SCM	16	10:17.57	10:17.57	BB	2013 AZ Ride the Wave 7th Annual Havas	1/25/2013	Anthem Dolphins	AZ		280	32	m
+553	Bohon, Ellis	800	82068866	800 FR SCM	11	10:17.76	10:17.76	AA	2014 AZ HSST Ride the Wave 8th Annual Havas	1/10/2014	Swim Neptune	AZ		786	32	m
+554	Armstrong, Nick	800	148826970	800 FR SCM	17	10:17.88	10:17.88	BB	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		272	32	m
+555	Stohler, Grant	800	55814219	800 FR SCM	15	10:18.03	10:18.03	BB	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		331	32	m
+556	Hammond, Hayden	800	131504417	800 FR SCM	16	10:18.22	10:18.22	BB	2018 WI MSS Summer Splash	6/24/2018	Stoughton Aqua Racers	WI		277	32	m
+557	De Sousa, Rafael	800	131676867	800 FR SCM	13	10:18.53	10:18.53	BB	TORNEIO CENTRO-OESTE INFANTIL A SÊNIOR	4/26/2018	Unattached	AZ	Yes	469	32	m
+558	Pech, Matt	800	123137296	800 FR SCM	22	10:18.82	10:18.82	BB	Hiram vs Wooster	11/4/2017	Unattached	LE		269	32	m
+559	Kemp, Dylan	800	87692938	800 FR SCM	15	10:19.11	10:19.11	BB	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		327	32	m
+560	Goss, Brodie	800	86174411	800 FR SCM	13	10:19.47	10:19.47	BB	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		466	32	m
+561	Palmatier, Brandon	800	48086188	800 FR SCM	12	10:19.71	10:09.71	AA	2010 SR Elko High Altitude	6/26/2010	Boise YMCA Swim Team	SR		618	32	m
+562	Hales, Porter	800	137879673	800 FR SCM	15	10:19.79	10:19.79	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		324	32	m
+563	Gomes, Lucas	800	135380976	800 FR SCM	14	10:20.02	10:20.02	BB	2018 Bennett Cup	11/9/2018	Tualatin Hills Swim Club	OR		379	32	m
+564	Morokutti, Ryan	800	144598017	800 FR SCM	16	10:20.10	10:20.10	BB	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		271	32	m
+565	Fuhrman, Alex	800	119094219	800 FR SCM	14	10:20.18	10:20.18	BB	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Bellingham Bay Swim Team	PN		378	32	m
+566	Drew, James	800	119094122	800 FR SCM	15	10:20.25	10:20.25	BB	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Thunderbird Aquatic Club	PN		323	32	m
+567	King, Grant	800	75720881	800 FR SCM	15	10:20.40	10:20.40	BB	2013 IL SBD Invitational	6/1/2013	Sullivan Blue Dolphins	IL		322	32	m
+568	Doddaballapur, Pramath	800	133331734	800 FR SCM	13	10:20.46	10:20.46	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		462	32	m
+569	Johnson, Derick	800	109304307	800 FR SCM	14	10:20.61	10:20.61	BB	2016 AK Midnight Sun Invitational 2016	6/24/2016	North Pole Aquatic Club	AK		377	32	m
+570	Bassich, Eli	800	142501691	800 FR SCM	17	10:20.71	10:20.71	BB	2019 OR CST Summer Invitational	6/28/2019	Sherwood Y Dragons	OR		262	32	m
+571	Judd, Jacob	800	118213668	800 FR SCM	17	10:21.16	10:21.16	BB	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		261	32	m
+572	Hudson, Brandt	800	50115298	800 FR SCM	13	10:21.22	10:21.22	BB	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Greene County Swim	SE		459	32	m
+573	Paliscak, Zack	800	72800593	800 FR SCM	12	10:21.36	10:21.36	AA	2013 AZ Ride the Wave 7th Annual Havas	1/25/2013	Swim Neptune	AZ		612	32	m
+574	McKinnon, Mason	800	103562717	800 FR SCM	16	10:21.62	10:21.62	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Mesa Aquatics Club	AZ		266	32	m
+575	Bondar, Maxim	800	107806458	800 FR SCM	15	10:21.63	10:21.63	BB	2016 PN TAC 40th Annual Spring Thunderbird	5/20/2016	Thunderbird Aquatic Club	PN		318	32	m
+576	Nishikokura, Ai	800	133374520	800 FR SCM	12	10:21.88	10:21.88	AA	2018 PC LAMV 800SCM Invitational	9/30/2018	South San Francisco Aquatics	PC		610	32	m
+577	Preece, Sean	800	87280772	800 FR SCM	17	10:21.98	10:21.98	BB	2014 AK Midnight Sun Invitational	6/27/2014	North Pole Aquatic Club	AK	Yes	258	32	m
+578	Richardson, Austin	800	87840775	800 FR SCM	15	10:22.01	10:22.01	BB	2014 NI - Keith Shields Invitational	7/19/2014	Oswego Laker Swim Club	NI		316	32	m
+579	Filbrun, Indy	800	137879618	800 FR SCM	15	10:22.09	10:22.09	BB	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		316	32	m
+580	Thompson, Ryan	800	141505843	800 FR SCM	15	10:22.27	10:22.27	BB	2019 NE PHX Distance & Special	5/31/2019	Phoenix Swimming	NE		315	32	m
+581	Hesser, Trey	800	109304270	800 FR SCM	11	10:22.35	10:22.35	AA	2016 AK Midnight Sun Invitational 2016	6/24/2016	Northern Lights Swim Club	AK		768	32	m
+582	Twiss, Matt	800	57078068	800 FR SCM	13	10:22.49	10:12.49	BB	2011 SR Elko High Altiude	6/25/2011	Magic Valley Marlins	SR		454	32	m
+583	Sande, Austin	800	103830706	800 FR SCM	14	10:22.54	10:22.54	BB	2016 WI Approved NLAC Meet @ R	1/16/2016	Eau Claire YMCA Marlins	WI		370	32	m
+584	Heieie, Colton	800	88062914	800 FR SCM	16	10:22.80	10:12.80	BB	2014 SRS Elko High Altitude	6/28/2014	Elko Swim Team	SR		261	32	m
+585	Elm, Cory	800	65902623	800 FR SCM	18	10:22.85	10:12.85	BB	2012 WY Casper Challenge Summer Swim Open	6/8/2012	Casper Swim Club	WY		255	32	m
+586	Niessner, Ethan	800	141188147	800 FR SCM	15	10:22.86	10:22.86	BB	2019 PN TAC 43rd Annual Spring	5/17/2019	Thunderbird Aquatic Club	PN		313	32	m
+587	Thompson, Josh	800	53327123	800 FR SCM	12	10:23.03	10:23.03	AA	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Swim Neptune	AZ		605	32	m
+588	Gossett, Zak	800	55737602	800 FR SCM	16	10:23.12	10:23.12	BB	2011 PN Spring Thunderbird	5/13/2011	StingRay Swim Club	PN		260	32	m
+589	Willix, George	800	86228759	800 FR SCM	13	10:23.20	10:23.20	BB	2014 NI - Victor Meter Mania	5/31/2014	Victor Swim Club	NI		451	32	m
+590	Vinz, Nathan	800	84231522	800 FR SCM	13	10:23.29	10:18.29	BB	2014 SD Short Course State Cha	2/28/2014	Unattached	SD		451	32	m
+591	Kajarekar, Saahil	800	133331744	800 FR SCM	12	10:23.44	10:23.44	AA	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		604	32	m
+592	Kodajima, Kentaro	800	146001824	800 FR SCM	12	10:23.68	10:23.68	AA	2019 ISC Bennett Cup	11/8/2019	Tualatin Hills Swim Club	OR	Yes	603	32	m
+593	Doyle, J	800	87001565	800 FR SCM	15	10:23.79	10:23.79	BB	2014 WI MSS Summer Meet	6/21/2014	DFAC Swimming	WI		310	32	m
+594	Griffin, Jayden	800	148827424	800 FR SCM	17	10:23.83	10:23.83	B	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		251	32	m
+595	White, Nicolas	800	125711971	800 FR SCM	17	10:24.21	10:24.21	B	2018 OK SwimTulsa New Years Invite	1/5/2018	Jenks Trojan Swim Club	OK		250	32	m
+596	Thompson, Daniel	800	103563076	800 FR SCM	13	10:24.52	10:24.52	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Swim Neptune	AZ		446	32	m
+597	Dusek, Ayden	800	137879586	800 FR SCM	15	10:24.55	10:24.55	BB	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		307	32	m
+598	Arredondo, Reece	800	134368888	800 FR SCM	18	10:24.86	10:24.86	B	Wilmington vs Wittenberg vs Tr	11/3/2018	Unattached	KY		248	32	m
+599	Scott, Josiah	800	134371312	800 FR SCM	18	10:24.88	10:24.88	B	Howard and Monmouth at MSMU	11/3/2018	Unattached	ST		248	32	m
+600	Smith, Josh	800	130178652	800 FR SCM	14	10:25.34	10:25.34	BB	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Bellingham Bay Swim Team	PN		359	32	m
+601	Smith, Daniel	800	131646081	800 FR SCM	15	10:25.42	10:15.42	BB	2018 SRS Elko High Altitude	6/24/2018	Elko Swim Team	SR		304	32	m
+602	Mathes, Kent	800	96597967	800 FR SCM	17	10:25.55	10:25.55	BB	2015 PN Spring Thunderbird	5/15/2015	Thunderbird Aquatic Club	PN		246	32	m
+603	Miller, Daniel	800	76288651	800 FR SCM	12	10:25.73	10:25.73	AA	2013 AK Midnight Sun Invitational	6/14/2013	Midnight Sun Swim Team	AK		595	32	m
+604	Huber, Ethan	800	84230269	800 FR SCM	13	10:26.06	10:21.06	BB	2014 SD Short Course State Cha	2/28/2014	Mitchell Aquatic Club	SD		440	32	m
+605	Stoner, Simon	800	118213797	800 FR SCM	18	10:26.51	10:26.51	B	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		242	32	m
+606	Howard, AJ	800	123148602	800 FR SCM	18	10:26.53	10:26.53	B	H-SC hosting Greensboro and Wi	11/4/2017	Unattached	NC		242	32	m
+607	Severson, Teague	800	87280843	800 FR SCM	14	10:27.16	10:27.16	BB	2014 AK Midnight Sun Invitational	6/27/2014	Chugiak Aquatic Club	AK		352	32	m
+608	Schultheis, Mikey	800	86228578	800 FR SCM	16	10:27.49	10:27.49	BB	2014 NI - Victor Meter Mania	5/31/2014	Victor Swim Club	NI		246	32	m
+609	Flinn, Alex	800	47916008	800 FR SCM	14	10:27.79	10:27.79	BB	2010 NE PST Distance Meet	6/26/2010	Rockingham Area Youth Swim	NE		350	32	m
+610	Garcia-Osorio, Jose	800	144597989	800 FR SCM	13	10:27.80	10:27.80	BB	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		433	32	m
+611	Wilson, Peyton	800	50117050	800 FR SCM	12	10:28.02	10:28.02	AA	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Barracuda Swim Club of Northeast Tennessee	SE		587	32	m
+612	Beshears, Crieghton	800	109303936	800 FR SCM	14	10:28.42	10:28.42	BB	2016 AK Midnight Sun Invitational 2016	6/24/2016	Stingray Swim Team	AK		348	32	m
+613	Donchi, Sam	800	79731966	800 FR SCM	11	10:28.47	10:28.47	A	Island Pacific Cup 2013	11/8/2013	Tualatin Hills Swim Club	OR		744	32	m
+614	Chain, Thomas	800	97232493	800 FR SCM	14	10:28.61	10:28.61	BB	2015 MS State Games of MS	6/5/2015	Swim Columbus	MS		347	32	m
+615	Hopp, Zach	800	103830579	800 FR SCM	13	10:28.62	10:28.62	BB	2016 WI Approved NLAC Meet @ R	1/16/2016	Eau Claire YMCA Marlins	WI		430	32	m
+616	Hess, Andrew	800	76288487	800 FR SCM	14	10:28.94	10:28.94	BB	2013 AK Midnight Sun Invitational	6/14/2013	Midnight Sun Swim Team	AK		346	32	m
+617	Fowler, Cameron	800	111645484	800 FR SCM	14	10:28.96	10:28.96	BB	2016 MS  MSA Trick or Treat Invitationa	10/21/2016	Sunkist Swim Team	MS		346	32	m
+618	Fields, Tony	800	141172401	800 FR SCM	12	10:29.03	10:29.03	A	2019 MS State Games of MS	5/17/2019	Sunkist Swim Team	MS		583	32	m
+619	Chen, Frank	800	57662822	800 FR SCM	15	10:29.34	10:29.34	BB	2011 NI STSL East Distance Meet	7/13/2011	Waverly Aquatic Club	NI		290	32	m
+620	Fickenscher, Jacob	800	130076082	800 FR SCM	15	10:29.47	10:29.47	B	2018 MV BWST 4th Annual Platte	5/6/2018	Northland United Swim Team	MV		290	32	m
+621	Sullivan, Bryan	800	97232867	800 FR SCM	17	10:29.48	10:29.48	B	2015 MS State Games of MS	6/5/2015	Sunkist Swim Team	MS		233	32	m
+622	Meharg, Zach	800	75835291	800 FR SCM	14	10:29.69	10:29.69	BB	2013 MI Aloha Shorts SCM ABC M	6/7/2013	Great Lakes Tritons	MI		343	32	m
+623	Brand, Mattias	800	130177907	800 FR SCM	13	10:30.00	10:30.00	BB	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Bellingham Bay Swim Team	PN		425	32	m
+624	McCall, Alex	800	103562706	800 FR SCM	16	10:30.01	10:30.01	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Mesa Aquatics Club	AZ		237	32	m
+624	Savino, George	800	133790185	800 FR SCM	18	10:30.01	10:30.01	B	Bryant at Providence	10/19/2018	Unattached	NE		231	32	m
+626	Wallace, Nathan	800	114493651	800 FR SCM	14	10:30.21	10:30.21	BB	2017 OK SwimTulsa New Years Invite	1/6/2017	SwimTulsa	OK		341	32	m
+627	Marcellino, Nolan	800	98459792	800 FR SCM	15	10:30.50	10:30.50	BB	2015 LE Makos Summer Splash	7/12/2015	Medina Recreation Swim Team	LE		286	32	m
+628	Rotter, Carson	800	146002064	800 FR SCM	12	10:31.16	10:31.16	A	2019 ISC Bennett Cup	11/8/2019	Tualatin Hills Swim Club	OR		575	32	m
+629	Van Briesen, Tanner	800	115120134	800 FR SCM	15	10:31.24	10:31.24	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		284	32	m
+630	El Ghissassi, Awab	800	131644445	800 FR SCM	11	10:31.27	10:31.27	A	2018 NI - Keith Shields Invitational	6/30/2018	Vestal Area Swim Team	NI		734	32	m
+631	Sandstrom, Jackson	800	48609527	800 FR SCM	14	10:31.35	10:31.35	BB	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		337	32	m
+632	Dwyer, Stephen	800	115119334	800 FR SCM	18	10:31.44	10:31.44	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		226	32	m
+633	Petersen, Cole	800	90623984	800 FR SCM	13	10:31.59	10:21.59	BB	2014 CO Montrose Marlins Fall	11/1/2014	Aspen Swim Club	CO		419	32	m
+634	Driscoll, Tanner	800	110092667	800 FR SCM	14	10:31.79	10:31.79	BB	2016 MA BGH We're Going the Distance!	6/4/2016	Pleasantville Aquatics	MA		336	32	m
+635	Nikolic, Evan	800	126008866	800 FR SCM	18	10:32.00	10:32.00	B	Baruch vs. Manhattan	1/15/2018	Unattached	MR		225	32	m
+636	Doan, Dylan	800	137987424	800 FR SCM	12	10:32.07	10:32.07	A	2019 PN BC February Distance Meet	2/3/2019	Bellevue Club Swim Team	PN		571	32	m
+637	Venner, Damon	800	84231499	800 FR SCM	13	10:32.20	10:27.20	BB	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Snowfox	SD		416	32	m
+638	Jaessing, Dj	800	123786873	800 FR SCM	18	10:32.38	10:32.38	B	LFC - Carroll 11-4-2017	11/4/2017	Unattached	WI		223	32	m
+639	Derrick, Noah	800	111645409	800 FR SCM	13	10:32.50	10:32.50	BB	2016 MS  MSA Trick or Treat Invitationa	10/21/2016	Sunkist Swim Team	MS		415	32	m
+640	Fouras, Jackson	800	103346587	800 FR SCM	12	10:32.63	10:32.63	A	2016 OK SwimTulsa New Years Invite	1/8/2016	Jenks Trojan Swim Club	OK		569	32	m
+641	Ritter, Ross	800	113881482	800 FR SCM	14	10:32.93	10:32.93	BB	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		331	32	m
+642	Moeslinger, Erich	800	135962453	800 FR SCM	17	10:33.00	10:33.00	B	Baruch vs. QCC vs. St. Joseph'	12/7/2018	Unattached	MR		221	32	m
+643	Lighthall, Tate	800	76988004	800 FR SCM	14	10:33.28	10:28.28	BB	2013 OR Jay Rowan Invitational 	7/5/2013	Redmond Aquatic Club	OR		330	32	m
+644	Kraft, Ricky	800	46977296	800 FR SCM	16	10:34.35	10:34.35	BB	2010 PN Spring Thunderbird	5/14/2010	Tigersharks Swimming	PN		223	32	m
+645	Treleaven, Aaron	800	120816724	800 FR SCM	12	10:34.47	10:34.47	A	2017 NI - Keith Shields Invitational	6/10/2017	Clarence Swim Club	NI		563	32	m
+646	Bosley, Brett	800	48085827	800 FR SCM	16	10:34.81	10:24.81	BB	2010 SR Elko High Altitude	6/26/2010	Sun Valley 5 B - Y	SR		222	32	m
+647	Larkin, Aaron	800	137879876	800 FR SCM	17	10:34.89	10:34.89	B	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		215	32	m
+648	Depner, Nic	800	103562294	800 FR SCM	13	10:34.95	10:34.95	BB	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Swim Neptune	AZ		406	32	m
+649	Curry, Brock	800	69230220	800 FR SCM	15	10:35.07	10:25.07	B	2012 CO Montrose Fall Open	11/3/2012	Maverick Aquatics	CO		271	32	m
+650	Landolt, Truitt	800	97835626	800 FR SCM	13	10:35.14	10:35.14	BB	2015 WI MSS Summer Splash	6/20/2015	McFarland Spartan Sharks	WI		405	32	m
+651	Kuhlman, Justin	800	67056331	800 FR SCM	16	10:35.61	10:35.61	BB	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		219	32	m
+652	Dane, Sam	800	142859489	800 FR SCM	14	10:35.63	10:35.63	BB	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		322	32	m
+653	Trettel, Cj	800	118213812	800 FR SCM	12	10:35.65	10:35.65	A	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		558	32	m
+654	Chang, Daniel	800	50114415	800 FR SCM	12	10:35.97	10:35.97	AA	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Barracuda Swim Club of Northeast Tennessee	SE		557	32	m
+655	Farnham, Max	800	133331737	800 FR SCM	13	10:36.03	10:36.03	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		402	32	m
+656	Wise, Jacob	800	136702569	800 FR SCM	14	10:36.19	10:36.19	BB	2019 OK SwimTulsa New Years Invite	1/4/2019	SwimTulsa	OK		320	32	m
+657	Knutson, Lars	800	69230623	800 FR SCM	16	10:36.52	10:26.52	B	2012 CO Montrose Fall Open	11/3/2012	Montrose Marlins Swim Club	CO		216	32	m
+658	Russell, Connor	800	86174544	800 FR SCM	17	10:37.05	10:37.05	B	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		208	32	m
+659	Schimanski, Noah	800	76354385	800 FR SCM	14	10:37.29	10:37.29	BB	2013 WI MSS  Summer Splash	6/22/2013	McFarland Spartan Sharks	WI		316	32	m
+660	May, Nolan	800	130594634	800 FR SCM	14	10:37.43	10:37.43	BB	2018 MI AP AQUA vs LTF	6/2/2018	AquaSwimClub	MI		316	32	m
+661	Welch, Eric	800	75431577	800 FR SCM	14	10:37.45	10:37.45	BB	2013 PN Spring Thunderbird	5/17/2013	Thunderbird Aquatic Club	PN		315	32	m
+662	Chappel, Devin	800	143103911	800 FR SCM	13	10:37.52	10:37.52	BB	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		396	32	m
+663	Stark, John	800	97884627	800 FR SCM	16	10:37.98	10:27.98	B	2015 WY Casper Dolphin Summer Challenge	6/6/2015	Scottsbluff Swim Club	WY		212	32	m
+664	Conrad, Sam	800	148012744	800 FR SCM	13	10:38.23	10:38.23	BB	2020 OK SwimTulsa New Years Invite	1/10/2020	Splash Club, Inc.	OK		394	32	m
+665	Lay, Cody	800	148013003	800 FR SCM	13	10:38.24	10:38.24	BB	2020 OK SwimTulsa New Years Invite	1/12/2020	Splash Club, Inc.	OK		394	32	m
+666	Heit, Henry	800	144597996	800 FR SCM	12	10:38.29	10:38.29	A	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		549	32	m
+667	Phan, Ashton	800	144598021	800 FR SCM	13	10:38.62	10:38.62	BB	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		392	32	m
+668	Goering, Tate	800	115768468	800 FR SCM	16	10:38.83	10:38.83	B	The Battle of the Glacier Bears	1/21/2017	Glacier Swim Club	AK		209	32	m
+669	Jordan, Samuel	800	57675951	800 FR SCM	13	10:39.19	10:29.19	BB	2011 CO Montrose Open	7/15/2011	Unattached	CO		390	32	m
+670	Sanders, Dylan	800	86174552	800 FR SCM	13	10:39.24	10:39.24	BB	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		390	32	m
+671	Tack, Harrison	800	55740638	800 FR SCM	13	10:39.60	10:39.60	BB	2011 PN Spring Thunderbird	5/13/2011	North Whidbey Aquatic Club	PN		389	32	m
+672	Ho, Daniel	800	144120925	800 FR SCM	19	10:39.64	10:39.64	B	Fairfield Invite	9/28/2019	Unattached	FL		200	32	m
+673	Nielson, Justin	800	84230793	800 FR SCM	15	10:39.83	10:34.83	B	2014 SD Short Course State Cha	2/28/2014	Brookings Swim Club	SD		255	32	m
+674	Batta, Sam	800	84229624	800 FR SCM	13	10:39.99	10:34.99	BB	2014 SD Short Course State Cha	2/28/2014	Watertown Area Swim Club	SD		387	32	m
+675	Walz, Scout	800	50116939	800 FR SCM	15	10:40.34	10:40.34	B	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Barracuda Swim Club of Northeast Tennessee	SE		253	32	m
+676	Stice, Colton	800	87471101	800 FR SCM	13	10:40.40	10:25.40	BB	2014 CO Durango Summer Invite	6/21/2014	Gunnison Stingrays	CO		386	32	m
+677	Swindler, Kyle	800	93327885	800 FR SCM	13	10:40.41	10:40.41	BB	2015 AZ Ride the Wave 9th Annual Havas	1/9/2015	Arizona Aquatic Club	AZ		386	32	m
+678	Herold, Andrew	800	93301578	800 FR SCM	14	10:40.74	10:40.74	BB	2015 SD Optimist Swim Meet	1/16/2015	Watertown Area Swim Club	SD		304	32	m
+679	Smulders, Matt	800	143105978	800 FR SCM	12	10:41.30	10:41.30	A	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		538	32	m
+680	Law, Caleb	800	87280545	800 FR SCM	13	10:41.72	10:41.72	BB	2014 AK Midnight Sun Invitational	6/27/2014	Northern Lights Swim Club	AK		381	32	m
+681	Kessler, Hayden	800	67056203	800 FR SCM	13	10:42.08	10:42.08	BB	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		379	32	m
+682	D'Alessandro, Kai	800	96967679	800 FR SCM	12	10:42.41	10:42.41	A	2015 NI - Keith Shields Invitational	5/23/2015	Victor Swim Club	NI		534	32	m
+683	Berlin, Jackson	800	82365515	800 FR SCM	17	10:42.43	10:42.43	B	2014 AK Great Alaska Open	1/24/2014	Northern Lights Swim Club	AK		192	32	m
+684	Ta, Justin	800	133331766	800 FR SCM	13	10:42.63	10:42.63	BB	2018 PC LAMV 800SCM Invitational	9/30/2018	South San Francisco Aquatics	PC		377	32	m
+685	Petruzzi, Anthony	800	134431976	800 FR SCM	19	10:42.86	10:42.86	B	Wilmington vs Wittenberg vs Tr	11/3/2018	Unattached	LE		191	32	m
+686	Kaley, Matthew	800	130043095	800 FR SCM	14	10:43.03	10:43.03	BB	2018 MI AP AQUA Summer Sprint	5/12/2018	Neptune Aquatic Club	MI		296	32	m
+687	Sanchez, Jacob	800	49843304	800 FR SCM	12	10:43.12	10:43.12	A	2010 AZ Ingrid Kaleta Invite	10/16/2010	Swim Neptune	AZ		531	32	m
+688	Bosch, Richard	800	142755548	800 FR SCM	13	10:43.23	10:33.23	BB	2019 SR Elko High Altitude	6/30/2019	Elko Swim Team	SR		375	32	m
+689	Ehni, John	800	46975684	800 FR SCM	14	10:43.35	10:43.35	BB	2010 PN Spring Thunderbird	5/14/2010	Cascade Swim Club	PN		295	32	m
+690	Ortega, Jonus	800	101586822	800 FR SCM	14	10:43.76	10:33.76	BB	2015 CO Montrose Marlin Fall O	11/8/2015	Team Sopris Swimming	CO		294	32	m
+691	Bush, James	800	109185084	800 FR SCM	14	10:43.99	10:43.99	BB	2016 NI - STSL East Distance Meet	6/8/2016	Chenango Aquatic Swim Club	NI		293	32	m
+692	Brey, Nathan	800	113880928	800 FR SCM	12	10:44.21	10:44.21	A	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		527	32	m
+693	Sloan, Brandon	800	69222968	800 FR SCM	16	10:44.43	10:44.43	B	2012 SE  BSC Pumpkin Patch Mix	10/27/2012	Barracuda Swim Club of Northeast Tennessee	SE		192	32	m
+694	Bakke, Hudson	800	142501681	800 FR SCM	13	10:44.52	10:44.52	BB	2019 OR CST Summer Invitational	6/28/2019	Forest Grove Swim Club	OR		371	32	m
+695	Langerock, Lucas	800	113881254	800 FR SCM	14	10:45.13	10:45.13	BB	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		289	32	m
+696	Thompson, Nathan	800	47916460	800 FR SCM	17	10:45.15	10:45.15	B	2010 NE PST Distance Meet	6/26/2010	Rockingham Area Youth Swim	NE		184	32	m
+697	French, Nolan	800	82069221	800 FR SCM	16	10:45.51	10:45.51	B	2014 AZ HSST Ride the Wave 8th Annual Havas	1/10/2014	Havasu Stingrays Swim Team	AZ		189	32	m
+698	Devine, Owen	800	50114685	800 FR SCM	11	10:45.86	10:45.86	A	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Barracuda Swim Club of Northeast Tennessee	SE	Yes	678	32	m
+699	Schaetzle, Zen	800	143354111	800 FR SCM	11	10:46.04	10:46.04	A	2019 AK Midnight Sun Invitational	6/21/2019	Midnight Sun Swim Team	AK		678	32	m
+700	Diamond, Zack	800	137879546	800 FR SCM	16	10:46.07	10:46.07	B	2019 AZ HSST Ride the Wave 	1/25/2019	Mesa Aquatics Club	AZ		187	32	m
+701	Hoskins, Chris	800	49214583	800 FR SCM	16	10:46.15	10:46.15	B	2010 NI STSL East Distance Meet	7/14/2010	Vestal Area Swim Team	NI		187	32	m
+702	Otero, Kobe	800	143105416	800 FR SCM	14	10:46.64	10:46.64	BB	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		284	32	m
+703	Lawler, Rudy	800	84230554	800 FR SCM	14	10:47.41	10:42.41	BB	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Snowfox	SD		281	32	m
+704	Conrad, Adam	800	142983661	800 FR SCM	13	10:47.47	10:47.47	BB	2019 MV BWST 5th Annual Platte	5/5/2019	Northland United Swim Team	MV		360	32	m
+705	Yeung, Alex	800	56811845	800 FR SCM	13	10:47.74	10:47.74	BB	2011 WI MSS Summer Splash	6/25/2011	DeForest Aquatic Club	WI		359	32	m
+706	Reid, Zach	800	57381015	800 FR SCM	13	10:48.11	10:43.11	BB	2011 OR Jay Rowan Invitational -	7/8/2011	Oregon City Swim Team	OR		358	32	m
+707	Brady, Dylan	800	50894502	800 FR SCM	12	10:48.25	10:48.25	A	Island Pacific Cup	11/12/2010	Tualatin Hills Swim Club	OR		513	32	m
+708	Hsieh, Morris	800	145471583	800 FR SCM	18	10:48.62	10:48.62	B	JC vs. Penn State Altoona vs.	11/8/2019	Unattached	AM		174	32	m
+709	Dyer, Sean	800	141187841	800 FR SCM	13	10:49.66	10:49.66	BB	2019 PN TAC 43rd Annual Spring	5/17/2019	Thunderbird Aquatic Club	PN		352	32	m
+709	Headrick, Sam	800	137987757	800 FR SCM	11	10:49.66	10:49.66	A	2019 PN BC February Distance Meet	2/3/2019	Bellevue Club Swim Team	PN		664	32	m
+711	Johnson, Brett	800	96597844	800 FR SCM	17	10:49.72	10:49.72	B	2015 PN Spring Thunderbird	5/15/2015	Thunderbird Aquatic Club	PN		170	32	m
+712	Leclercq, Davis	800	137988236	800 FR SCM	12	10:49.78	10:49.78	A	2019 PN BC February Distance Meet	2/3/2019	Bellevue Club Swim Team	PN		507	32	m
+713	Cummings, Cade	800	71883786	800 FR SCM	13	10:49.84	10:49.84	BB	2013 SD Optimist's Big Apple Swim	1/19/2013	Watertown Area Swim Club	SD		352	32	m
+714	Kellam, Ethan	800	148827610	800 FR SCM	13	10:49.94	10:49.94	BB	2020 AZ HSST Ride the Wave 	1/24/2020	San Manuel Sea Lions	AZ		351	32	m
+715	Dutenhoffer, Brent	800	63303899	800 FR SCM	18	10:49.98	10:49.98	B	2012 Optimist Big Apple Swim M	1/21/2012	Watertown Area Swim Club	SD		170	32	m
+716	Lessenich, Chris	800	76987974	800 FR SCM	13	10:50.14	10:45.14	BB	2013 OR Jay Rowan Invitational 	7/5/2013	YMCA Grants Pass Swimming	OR		351	32	m
+717	Walter, Hayden	800	75483165	800 FR SCM	13	10:50.18	10:50.18	BB	2013 LE Beachwood/Shaker 	5/17/2013	North East Ohio Nemesis	LE		350	32	m
+718	Cuevas, Ruben	800	99293440	800 FR SCM	14	10:50.39	10:50.39	BB	2015 NI - STSL East Distance 7-22	7/22/2015	Union Aquatic Club	NI		271	32	m
+719	Rasco, Charlie	800	107807613	800 FR SCM	14	10:50.59	10:50.59	BB	2016 PN TAC 40th Annual Spring Thunderbird	5/20/2016	Thunderbird Aquatic Club	PN		271	32	m
+720	White, Hayden	800	113881653	800 FR SCM	15	10:50.92	10:50.92	B	2016 SD Watertown Candy Cane	12/9/2016	Huron Park & Rec Wobbegongs	SD		219	32	m
+721	Crane (Smalley), Lucas	800	145161780	800 FR SCM	19	10:51.07	10:51.07	B	Alfred vs. Nazareth	11/1/2019	Unattached	AD		167	32	m
+722	Leone, Landen	800	133331751	800 FR SCM	11	10:51.32	10:51.32	A	2018 PC LAMV 800SCM Invitational	9/30/2018	SUNN Swimming	PC		658	32	m
+723	Mestad, Ezekiel	800	84230668	800 FR SCM	13	10:51.36	10:46.36	BB	2014 SD Short Course State Cha	2/28/2014	Rapid City Racers	SD		346	32	m
+724	Determan, Gray	800	45516829	800 FR SCM	12	10:51.44	10:51.44	A	2010 SD Mitchell Aquatic Club Winter 	2/5/2010	Mitchell Aquatic Club	SD		501	32	m
+725	De Koning, Ethan	800	125710955	800 FR SCM	14	10:51.66	10:51.66	B	2018 OK SwimTulsa New Years Invite	1/5/2018	Jenks Trojan Swim Club	OK		267	32	m
+726	Hardart, Max	800	103207104	800 FR SCM	12	10:51.85	10:51.85	A	Canada 2015 December Invitational Dev-A-AA-A	12/4/2015	Badger Swim Club,Inc.	MR		500	32	m
+727	Macdonald, Dimas	800	55814189	800 FR SCM	16	10:52.15	10:52.15	B	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		169	32	m
+728	Perkins, Christian	800	115119843	800 FR SCM	16	10:52.21	10:52.21	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		169	32	m
+729	Porter, Alexander	800	57663629	800 FR SCM	17	10:52.27	10:52.27	B	2011 NI STSL East Distance Meet	7/13/2011	Waverly Aquatic Club	NI		163	32	m
+730	Rhea, Nathan	800	126843511	800 FR SCM	13	10:52.40	10:52.40	B	2018 AZ HSST Winter Challenge	1/19/2018	Tucson Ford Dealers Aquatics	AZ		343	32	m
+731	Smith, Anthony	800	109618619	800 FR SCM	12	10:52.98	10:52.98	A	2016 MS State Games of Mississippi	7/8/2016	Biloxi Elite Swim Team	MS		496	32	m
+732	Applegate, Xaiver	800	136701343	800 FR SCM	14	10:53.01	10:53.01	B	2019 OK SwimTulsa New Years Invite	1/4/2019	King Marlin Swim Club	OK		263	32	m
+733	Schurz, Jack	800	69913808	800 FR SCM	15	10:53.08	10:53.08	B	2012 AZ Anthem November Invite	11/17/2012	Flagstaff Snow Sharks Inc	AZ		213	32	m
+734	Hohensee, Jacob	800	69913559	800 FR SCM	18	10:53.12	10:53.12	B	2012 AZ Anthem November Invite	11/17/2012	Anthem Dolphins	AZ		161	32	m
+735	Blessman, Eric	800	102484028	800 FR SCM	16	10:53.77	10:53.77	B	CYPS Fall Invitational	10/24/2015	Neptune Aquatic Club	MI		165	32	m
+736	Horr, Ryan	800	119094384	800 FR SCM	13	10:53.84	10:53.84	B	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Thunderbird Aquatic Club	PN		338	32	m
+737	Taylor, Jordan	800	76667985	800 FR SCM	14	10:53.91	10:43.91	BB	2013 SR Elko High Altitude In	6/29/2013	Elko Swim Team	SR		260	32	m
+738	West, Joey	800	84231631	800 FR SCM	15	10:54.22	10:49.22	B	2014 SD Short Course State Cha	2/28/2014	Black Hills Gold Swimming	SD		209	32	m
+739	Lewandowski, Eric	800	56261335	800 FR SCM	13	10:54.89	10:54.89	BB	2011 MW HG Quicksilver Start o	6/4/2011	Grand Island YMCA Quicksilver	MW		334	32	m
+740	McDonald, Camden	800	148013063	800 FR SCM	13	10:55.45	10:55.45	B	2020 OK SwimTulsa New Years Invite	1/10/2020	Splash Club, Inc.	OK		332	32	m
+741	Kelley, John	800	118481726	800 FR SCM	13	10:55.46	10:55.46	B	2017 MV BWST 3rd Annual Platte	4/30/2017	Lawrence Aquahawks	MV		332	32	m
+742	Angeli, Nick	800	56524636	800 FR SCM	13	10:55.49	10:55.49	BB	2011 MT Havre Great Northern 	6/18/2011	Helena Lions Swim Team	MT		332	32	m
+743	Smith, Brandon	800	97519746	800 FR SCM	16	10:55.55	10:40.55	B	2015 WY Kemmerer School's Out Splash	5/30/2015	Kemmerer Swim Club	WY		160	32	m
+744	Shteynberg, Samuel	800	124207457	800 FR SCM	18	10:56.54	10:56.54	B	Baruch vs. The College of New	11/20/2017	Unattached	MR		151	32	m
+745	Edwards, Ben	800	115119341	800 FR SCM	15	10:56.71	10:56.71	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		202	32	m
+746	Mitchell, Clay	800	69221286	800 FR SCM	14	10:56.90	10:56.90	B	2012 SE  BSC Pumpkin Patch Mix	10/27/2012	Coomes Area Swim Team	VA		250	32	m
+747	Vanslyke, Chaz	800	109304542	800 FR SCM	11	10:56.96	10:56.96	BB	2016 AK Midnight Sun Invitational 2016	6/24/2016	Glacier Swim Club	AK		638	32	m
+748	Narvaiza, Gaizka	800	88063095	800 FR SCM	14	10:57.12	10:47.12	B	2014 SRS Elko High Altitude	6/28/2014	Elko Swim Team	SR		250	32	m
+749	Miyauchi, Jacob	800	53326860	800 FR SCM	13	10:57.98	10:57.98	BB	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Kingman Dolphin Swim Team	AZ		323	32	m
+750	Fetttinger, Jeremiah	800	49214571	800 FR SCM	18	10:58.23	10:58.23	B	2010 NI STSL East Distance Meet	7/14/2010	Southern Tier Swim Club	NI		147	32	m
+751	Acheson, Sam	800	62365066	800 FR SCM	11	10:58.30	10:58.30	A	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Swim Neptune	AZ		633	32	m
+752	Silverman, Zach	800	144598030	800 FR SCM	13	10:58.96	10:58.96	B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		320	32	m
+753	Braatz, Ethan	800	97833666	800 FR SCM	11	10:59.10	10:59.10	BB	2015 WI MSS Summer Splash	6/20/2015	DFAC Swimming	WI		630	32	m
+754	Norton, Blake	800	55739504	800 FR SCM	15	10:59.22	10:59.22	B	2011 PN Spring Thunderbird	5/13/2011	Thunderbird Aquatic Club	PN		194	32	m
+755	Weber, Luke	800	69913933	800 FR SCM	13	10:59.34	10:59.34	B	2012 AZ Anthem November Invite	11/17/2012	Anthem Dolphins	AZ		319	32	m
+756	Richards, Conner	800	55739983	800 FR SCM	17	11:00.78	11:00.78	B	2011 PN Spring Thunderbird	5/13/2011	Thunderbird Aquatic Club	PN		140	32	m
+757	Bane, Noah	800	143103555	800 FR SCM	17	11:01.00	11:01.00	B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		139	32	m
+758	Wilson, Ben	800	127192667	800 FR SCM	16	11:01.25	11:01.25	B	2018 OK Div II East Short 	2/10/2018	Jenks Trojan Swim Club	OK		144	32	m
+759	Sorensen, Jim	800	94669110	800 FR SCM	17	11:01.80	11:01.80	B	2015 SD We Love Swimming Swim Mee	2/13/2015	Watertown Area Swim Club	SD		137	32	m
+760	Suleimani, Alex	800	76288880	800 FR SCM	13	11:02.03	11:02.03	B	2013 AK Midnight Sun Invitational	6/14/2013	Midnight Sun Swim Team	AK		309	32	m
+761	Mallari, Aerick	800	148669069	800 FR SCM	12	11:02.42	11:02.42	BB	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		463	32	m
+762	Smulders, Luke	800	143105969	800 FR SCM	15	11:02.81	11:02.81	B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		184	32	m
+763	Studer, Jakob	800	84231287	800 FR SCM	13	11:02.93	10:57.93	B	2014 SD Short Course State Cha	2/28/2014	Mitchell Aquatic Club	SD		306	32	m
+764	Specchio, AJ	800	99293886	800 FR SCM	15	11:03.59	11:03.59	B	2015 NI - STSL East Distance 7-22	7/22/2015	Crystal City River Rats	NI		181	32	m
+765	Geisler, Ryan	800	58037631	800 FR SCM	15	11:04.05	11:04.05	B	2011 MI CSW Summer Shorts	7/30/2011	Clarkston Sea Wolves	MI		180	32	m
+766	Traul, Zachary	800	76668013	800 FR SCM	11	11:04.10	10:54.10	BB	2013 SR Elko High Altitude In	6/29/2013	Tiger Aquatic Club	SR		612	32	m
+767	Smith, Sam	800	148669093	800 FR SCM	11	11:04.35	11:04.35	BB	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		611	32	m
+768	Laing, Zane	800	142985965	800 FR SCM	12	11:04.55	11:04.55	BB	2019 MV BWST 5th Annual Platte	5/5/2019	Kansas City Blazers	MV		456	32	m
+768	Plunkett, Mitch	800	59203324	800 FR SCM	17	11:04.55	11:04.55	B	2011 SE  BSC Pumpkin Patch Mix	10/29/2011	Barracuda Swim Club of Northeast Tennessee	SE		130	32	m
+770	Zajdzinski, Grant	800	115120236	800 FR SCM	16	11:04.89	11:04.89	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		134	32	m
+771	Trinh, Russell	800	114493576	800 FR SCM	11	11:05.04	11:05.04	BB	2017 OK SwimTulsa New Years Invite	1/6/2017	Jenks Trojan Swim Club	OK		609	32	m
+772	Talwalkar, Ashwin	800	133331767	800 FR SCM	14	11:05.20	11:05.20	B	2018 PC LAMV 800SCM Invitational	9/30/2018	Los Altos & Mountain View A.C.	PC		224	32	m
+773	Bondar, Alyosha	800	119093844	800 FR SCM	16	11:05.23	11:05.23	B	2017 PN TAC 41st Annual Spring Thunderbird	5/19/2017	Thunderbird Aquatic Club	PN		133	32	m
+774	Britt, Grant	800	113880948	800 FR SCM	16	11:05.31	11:05.31	B	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		133	32	m
+774	Hucke, Ben	800	76987360	800 FR SCM	13	11:05.31	11:00.31	B	2013 OR Jay Rowan Invitational 	7/5/2013	Redmond Aquatic Club	OR		299	32	m
+776	Hasskamp, Hunter	800	86493490	800 FR SCM	14	11:05.63	10:55.63	B	2014 WY Casper Dolphins Summer Challenge	6/6/2014	Casper Swim Club	WY		223	32	m
+777	Timm, Ethan	800	116551735	800 FR SCM	14	11:05.80	11:05.80	B	2017 SD Qualifying Swim Meet	2/18/2017	Watertown Area Swim Club	SD		222	32	m
+778	Dudley, Sam	800	98459596	800 FR SCM	14	11:06.26	11:06.26	B	2015 LE Makos Summer Splash	7/12/2015	Medina Recreation Swim Team	LE		221	32	m
+779	Tsai, Alex	800	120716905	800 FR SCM	13	11:06.35	11:01.35	B	2017 OR RACE Jay Rowan Open	7/9/2017	Redmond Aquatic Club	OR		295	32	m
+780	Templeton, Elijah	800	131504637	800 FR SCM	14	11:06.36	11:06.36	B	2018 WI MSS Summer Splash	6/24/2018	McFarland Spartan Sharks	WI		221	32	m
+781	White, Aidan	800	125711950	800 FR SCM	12	11:06.50	11:06.50	BB	2018 OK SwimTulsa New Years Invite	1/5/2018	Jenks Trojan Swim Club	OK		449	32	m
+782	Lacombe, Evan	800	92442640	800 FR SCM	15	11:06.54	11:06.54	B	2015 OK SwimTulsa New Years Invitation	1/9/2015	Boys & Girls Club of Tahlequah Stingrays	OK		173	32	m
+783	Burns, Alex	800	141876147	800 FR SCM	13	11:08.05	10:53.05	B	2019 CO Durango SCM High Altit	6/8/2019	Durango Swim Club	CO		290	32	m
+784	McCarthy, John	800	47916226	800 FR SCM	16	11:08.54	11:08.54	B	2010 NE PST Distance Meet	6/26/2010	Rockingham Area Youth Swim	NE		125	32	m
+785	Faulconer, Jadon	800	109777597	800 FR SCM	17	11:08.81	11:03.81	B	2016 OR RACE Jay Rowan Open	7/10/2016	Redmond Aquatic Club	OR		119	32	m
+786	Sosnowski, Brian	800	69913844	800 FR SCM	13	11:08.92	11:08.92	B	2012 AZ Anthem November Invite	11/17/2012	Anthem Dolphins	AZ		287	32	m
+787	Herring, Caleb	800	148012904	800 FR SCM	15	11:08.94	11:08.94	B	2020 OK SwimTulsa New Years Invite	1/10/2020	SwimTulsa	OK		166	32	m
+788	Haywood, Colin	800	142700868	800 FR SCM	14	11:09.37	11:04.37	B	2019 OR RACE Jay Rowan Open	7/7/2019	Redmond Aquatic Club	OR		212	32	m
+789	Tupper, Andrew	800	47307583	800 FR SCM	18	11:09.51	11:09.51	B	2010 MW HG Start of Summer	6/5/2010	Grand Island YMCA Quicksilver	MW		117	32	m
+790	Cook, Kade	800	67054657	800 FR SCM	18	11:09.60	11:09.60	B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		117	32	m
+791	Jackson, David	800	87692778	800 FR SCM	14	11:10.82	11:10.82	B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		207	32	m
+792	Cole, Matthew	800	142859472	800 FR SCM	14	11:10.92	11:10.92	B	2019 NI Keith Shields Invitati	6/30/2019	Unattached	NI		207	32	m
+793	Lohmeier, Matthew	800	66375497	800 FR SCM	14	11:11.14	11:11.14	B	2012 WI MSS Summer Splash	6/23/2012	Waunakee Wave	WI		206	32	m
+794	Elespuru, James	800	144597984	800 FR SCM	14	11:11.22	11:11.22	B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		206	32	m
+795	Shliamin, Mark	800	144598027	800 FR SCM	13	11:11.28	11:11.28	B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		279	32	m
+796	Chontos, Marq	800	84229796	800 FR SCM	15	11:11.49	11:06.49	B	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Seals	SD		159	32	m
+797	Abair, Tad	800	87280026	800 FR SCM	13	11:12.32	11:12.32	B	2014 AK Midnight Sun Invitational	6/27/2014	Wasilla Waves Swim Club	AK		276	32	m
+798	Ray, Dalace	800	86174525	800 FR SCM	16	11:13.11	11:13.11	B	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		114	32	m
+799	Rouleau, Christopher	800	56774693	800 FR SCM	15	11:13.23	11:13.23	B	2011 NE PST  Specialty & Dista	6/25/2011	Oyster River Otters	NE		155	32	m
+800	Wirth, Jack	800	142860032	800 FR SCM	13	11:13.54	11:13.54	B	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		272	32	m
+801	Goss, Charlie	800	75720858	800 FR SCM	14	11:13.87	11:13.87	B	2013 IL SBD Invitational	6/1/2013	Sullivan Blue Dolphins	IL		198	32	m
+802	Guter, Joseph	800	86123390	800 FR SCM	13	11:14.05	11:14.05	B	2014 MT HAV June Dual Meet	5/31/2014	Peak Waves Swim Team	MT		270	32	m
+802	Rubie, Rubie	800	69913775	800 FR SCM	14	11:14.05	11:14.05	B	2012 AZ Anthem November Invite	11/17/2012	Anthem Dolphins	AZ		198	32	m
+804	Lupi, Mitchell	800	69220670	800 FR SCM	14	11:14.27	11:14.27	B	2012 SE  BSC Pumpkin Patch Mix	10/27/2012	Unattached	SE		197	32	m
+805	Montgomery, Luke	800	120716697	800 FR SCM	14	11:15.20	11:10.20	B	2017 OR RACE Jay Rowan Open	7/9/2017	Redmond Aquatic Club	OR		195	32	m
+806	Riley, Griffin	800	98301373	800 FR SCM	15	11:15.82	11:10.82	B	2015 OR RACE Jay Rowan Open	7/5/2015	Oregon City Swim Team	OR		148	32	m
+807	Storm, Payton	800	113881582	800 FR SCM	13	11:15.96	11:15.96	B	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		264	32	m
+808	Caldwell, Patrick	800	85886288	800 FR SCM	13	11:16.58	11:16.58	B	2014 PN Spring Thunderbird	5/16/2014	North Whidbey Aquatic Club	PN		262	32	m
+809	Fields, Andrew	800	133711464	800 FR SCM	16	11:16.71	11:16.71	Slower than B	2018 MS Trick or Treat Invitation	10/12/2018	Unattached	MS		105	32	m
+810	Laws, Michael	800	55738663	800 FR SCM	13	11:16.89	11:16.89	B	2011 PN Spring Thunderbird	5/13/2011	Thunderbird Aquatic Club	PN		261	32	m
+811	Moe, Matthew	800	85887051	800 FR SCM	17	11:16.92	11:16.92	Slower than B	2014 PN Spring Thunderbird	5/16/2014	Thunderbird Aquatic Club	PN		100	32	m
+812	Killey, Lee	800	46929078	800 FR SCM	15	11:17.21	11:17.21	B	2010 IN DON Early Bird Invitat	5/15/2010	Shelby County Aquatic Club	IN		144	32	m
+813	Parker, Zachary	800	148827889	800 FR SCM	15	11:17.28	11:17.28	Slower than B	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		144	32	m
+814	Lee, Spencer	800	93327483	800 FR SCM	15	11:17.48	11:17.48	B	2015 AZ Ride the Wave 9th Annual Havas	1/9/2015	Anthem Dolphins	AZ		143	32	m
+815	Schultz, Jack	800	116551541	800 FR SCM	13	11:17.54	11:17.54	B	2017 SD Qualifying Swim Meet	2/18/2017	Brookings Swim Club	SD		259	32	m
+816	Keith, Palmer	800	142985652	800 FR SCM	12	11:17.96	11:17.96	BB	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		412	32	m
+817	Antoine, Garrett	800	131960723	800 FR SCM	14	11:18.17	11:18.17	B	2018 SD Short Course Meter 	7/2/2018	Watertown Area Swim Club	SD		186	32	m
+818	Perry, Quincy	800	55814206	800 FR SCM	15	11:18.36	11:18.36	B	2011 IN LST Time Trial 5/14/20	5/14/2011	Lawrence Swim Team	IN		141	32	m
+819	Thomson, James	800	103563083	800 FR SCM	13	11:18.41	11:18.41	B	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Anthem Dolphins	AZ		256	32	m
+820	Coffey, Sean	800	62365284	800 FR SCM	16	11:18.87	11:18.87	B	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Kingman Dolphin Swim Team	AZ		100	32	m
+821	Boulware, Erik	800	73161088	800 FR SCM	13	11:18.98	11:18.98	B	2013 SD Season Finale	2/16/2013	Brookings Swim Club	SD		255	32	m
+822	Macias, John	800	55738958	800 FR SCM	14	11:19.07	11:19.07	B	2011 PN Spring Thunderbird	5/13/2011	Port Angeles Swim Club	PN		183	32	m
+823	Cupp, Connor	800	143104096	800 FR SCM	17	11:19.11	11:19.11	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		95	32	m
+824	Hall, David	800	49842900	800 FR SCM	11	11:19.28	11:19.28	BB	2010 AZ Ingrid Kaleta Invite	10/16/2010	Anthem Dolphins	AZ		559	32	m
+825	Vitale, Christian	800	142859990	800 FR SCM	14	11:19.30	11:19.30	B	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		183	32	m
+826	Feron, Brents	800	92442319	800 FR SCM	13	11:20.57	11:20.57	B	2015 OK SwimTulsa New Years Invitation	1/9/2015	SwimTulsa	OK		250	32	m
+827	Givens, Drey	800	120800781	800 FR SCM	13	11:20.68	11:20.68	B	2017 SD Outdoor Swim Meet	7/5/2017	Watertown Area Swim Club	SD		249	32	m
+828	Van Dusen, Jake	800	53327142	800 FR SCM	13	11:20.74	11:20.74	B	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Swim Neptune	AZ		249	32	m
+829	Below, Conner	800	142352046	800 FR SCM	12	11:20.75	11:20.75	BB	2019 IA VAC 58th Annual Vinton	6/23/2019	Eastern Iowa Swim Federation	IA		403	32	m
+830	Lye, Carter	800	103347030	800 FR SCM	14	11:20.88	11:20.88	B	2016 OK SwimTulsa New Years Invite	1/8/2016	SwimTulsa	OK		178	32	m
+831	Zisa, Kyle	800	141768918	800 FR SCM	14	11:21.16	11:21.16	B	2019 MA SJAC SCM Challenge	6/9/2019	Pennsbury Aquatic Club	MA		178	32	m
+832	Bradford, John	800	50114126	800 FR SCM	13	11:21.46	11:21.46	B	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Barracuda Swim Club of Northeast Tennessee	SE		247	32	m
+833	Befus, Tyler	800	57675332	800 FR SCM	13	11:21.99	11:11.99	B	2011 CO Montrose Open	7/15/2011	Montrose Marlins Swim Club	CO		245	32	m
+834	Clark, Alex	800	49214565	800 FR SCM	15	11:22.17	11:22.17	B	2010 NI STSL East Distance Meet	7/14/2010	Cortland YMCA Swim Team	NI	Yes	131	32	m
+835	Solomon, Bryan	800	109185759	800 FR SCM	18	11:22.36	11:22.36	Slower than B	2016 NI - STSL East Distance Meet	6/8/2016	Waverly Aquatic Club	NI		87	32	m
+836	Digweed, Josh	800	130178037	800 FR SCM	14	11:22.66	11:22.66	B	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Thunderbird Aquatic Club	PN		173	32	m
+837	Garrett, Ryan	800	111645495	800 FR SCM	14	11:22.71	11:22.71	B	2016 MS  MSA Trick or Treat Invitationa	10/21/2016	Performance Elite Aquatics	MS		173	32	m
+838	Hansen, Brandon	800	75430457	800 FR SCM	13	11:23.56	11:23.56	B	2013 PN Spring Thunderbird	5/17/2013	Thunderbird Aquatic Club	PN		241	32	m
+839	Wergin, Ben	800	102993869	800 FR SCM	14	11:24.09	11:09.09	B	2015 WY Kemmerer St. Nick Splash	12/19/2015	Kemmerer Swim Club	WY		170	32	m
+840	Anderson, Beau	800	142982497	800 FR SCM	15	11:24.15	11:24.15	Slower than B	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		126	32	m
+841	Pierce, Cole	800	87694011	800 FR SCM	14	11:24.26	11:24.26	B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		169	32	m
+842	Chong, Chris	800	144597980	800 FR SCM	15	11:24.41	11:24.41	Slower than B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		126	32	m
+843	Li, Suiyao	800	146001905	800 FR SCM	12	11:25.63	11:25.63	BB	2019 ISC Bennett Cup	11/8/2019	Tualatin Hills Swim Club	OR		387	32	m
+844	Lee-Parker, Cameron	800	101586652	800 FR SCM	13	11:25.66	11:15.66	B	2015 CO Montrose Marlin Fall O	11/8/2015	Montrose Marlins Swim Club	CO		234	32	m
+845	Katzenberger, Levi	800	142985626	800 FR SCM	12	11:26.12	11:26.12	BB	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		385	32	m
+846	Coffey, Jeremy	800	62365274	800 FR SCM	13	11:26.47	11:26.47	B	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Kingman Dolphin Swim Team	AZ		232	32	m
+847	Ray, Gavin	800	142859851	800 FR SCM	11	11:26.71	11:26.71	BB	2019 NI Keith Shields Invitati	6/30/2019	Victor Swim Club	NI		533	32	m
+848	Grolle, Austin	800	62365438	800 FR SCM	12	11:27.23	11:27.23	BB	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Arizona Aquatic Club	AZ		382	32	m
+849	Sheridan, Kevin	800	58037991	800 FR SCM	13	11:27.28	11:27.28	B	2011 MI CSW Summer Shorts	7/30/2011	Unattached	MI		229	32	m
+850	Holzwarth, Isaac	800	84230251	800 FR SCM	15	11:27.41	11:22.41	Slower than B	2014 SD Short Course State Cha	2/28/2014	Watertown Area Swim Club	SD		118	32	m
+851	Mellott, Patrick	800	78035391	800 FR SCM	12	11:27.52	11:22.52	BB	2013 OR Bend Open Indoor Meet	8/9/2013	Hillsboro Swim Team	OR		381	32	m
+852	Saltysiak, Ponce	800	107112649	800 FR SCM	13	11:28.79	11:28.79	B	2016 MV BWST 2nd Annual Platte	4/24/2016	Fort Leavenworth Lancers	MV		225	32	m
+853	Almond, Andrew	800	148012644	800 FR SCM	13	11:28.86	11:28.86	B	2020 OK SwimTulsa New Years Invite	1/12/2020	Splash Club, Inc.	OK		225	32	m
+854	Johnson, Brooks	800	109618343	800 FR SCM	11	11:28.91	11:28.91	BB	2016 MS State Games of Mississippi	7/8/2016	Shock  Wave	MS		526	32	m
+855	Hanlon, Brandon	800	86123398	800 FR SCM	14	11:29.40	11:29.40	B	2014 MT HAV June Dual Meet	5/31/2014	Peak Waves Swim Team	MT		155	32	m
+856	Washnok, Henry	800	84231597	800 FR SCM	14	11:29.80	11:24.80	B	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Snowfox	SD		154	32	m
+857	Bukoski, Cameron	800	130042912	800 FR SCM	13	11:29.91	11:29.91	B	2018 MI AP AQUA Summer Sprint	5/12/2018	AquaSwimClub	MI		222	32	m
+858	Pingelton, Jordan	800	143105505	800 FR SCM	15	11:30.11	11:30.11	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		112	32	m
+859	Tanon, Elijah	800	148828044	800 FR SCM	13	11:30.13	11:30.13	B	2020 AZ HSST Ride the Wave 	1/24/2020	Arizona Seals Swimming Academy	AZ		221	32	m
+860	Beaver, Noah	800	44691408	800 FR SCM	12	11:30.68	11:30.68	BB	2010 SD Black Hills Gold Invit	1/30/2010	Gillette Swim Team	WY		371	32	m
+861	Toppel, Hunter	800	48105533	800 FR SCM	12	11:30.79	11:30.79	BB	2010 WI MSS Summer Splash	6/25/2010	DeForest Aquatic Club	WI		371	32	m
+862	Neilan, Corey	800	54474313	800 FR SCM	17	11:31.41	11:31.41	Slower than B	2011 SD B/C Championship	2/25/2011	Watertown Area Swim Club	SD		68	32	m
+863	Stanley, Jacob	800	82099669	800 FR SCM	14	11:31.54	11:31.54	B	2014 OK SwimTulsa New Years Invite	1/17/2014	SwimTulsa	OK		150	32	m
+864	Haines, Trey	800	48608892	800 FR SCM	18	11:31.56	11:31.56	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		68	32	m
+865	Winseman, Maximus	800	120816763	800 FR SCM	11	11:31.68	11:31.68	BB	2017 NI - Keith Shields Invitational	6/10/2017	Victor Swim Club	NI		517	32	m
+866	Keith, Bradley	800	49214584	800 FR SCM	13	11:32.42	11:32.42	B	2010 NI STSL East Distance Meet	7/14/2010	Cortland YMCA Swim Team	NI		214	32	m
+867	Fuller, Billy	800	116550804	800 FR SCM	13	11:32.50	11:32.50	B	2017 SD Qualifying Swim Meet	2/18/2017	Brookings Swim Club	SD		214	32	m
+868	Schridde, Joshua	800	87694520	800 FR SCM	17	11:33.16	11:33.16	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		65	32	m
+869	Mendenhall, Owen	800	87280644	800 FR SCM	14	11:33.61	11:33.61	B	2014 AK Midnight Sun Invitational	6/27/2014	North Pole Aquatic Club	AK		144	32	m
+870	Kuehl, Anthony	800	103830615	800 FR SCM	13	11:33.78	11:33.78	B	2016 WI Approved NLAC Meet @ R	1/16/2016	Eau Claire YMCA Marlins	WI		210	32	m
+871	Jones, Ashton	800	87452374	800 FR SCM	16	11:33.95	11:18.95	Slower than B	2014 CO Ouray Swim Meet	6/14/2014	Delta Barracudas Swim Team	CO		68	32	m
+872	Crismon, Collin	800	131960735	800 FR SCM	15	11:34.91	11:34.91	Slower than B	2018 SD Short Course Meter 	7/2/2018	Watertown Area Swim Club	SD		101	32	m
+873	King, Bryce	800	75720877	800 FR SCM	14	11:35.18	11:35.18	B	2013 IL SBD Invitational	6/1/2013	Sullivan Blue Dolphins	IL		140	32	m
+874	Naranjo, Ian	800	144598018	800 FR SCM	11	11:35.22	11:35.22	BB	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		505	32	m
+875	Nofzinger, Tyler	800	57380446	800 FR SCM	14	11:35.28	11:30.28	B	2011 OR Jay Rowan Invitational -	7/8/2011	Oregon City Swim Team	OR		140	32	m
+876	Ireland, Erik	800	103562467	800 FR SCM	18	11:35.33	11:35.33	Slower than B	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Mesa Aquatics Club	AZ		61	32	m
+877	Coleman, Lou	800	47621132	800 FR SCM	14	11:35.74	11:35.74	B	2010 IN PPSC Father's Day Spla	6/11/2010	Portage Porpoise Swim Club	IN		139	32	m
+878	Mandli, Connor	800	76354142	800 FR SCM	16	11:37.08	11:37.08	Slower than B	2013 WI MSS  Summer Splash	6/22/2013	McFarland Spartan Sharks	WI		61	32	m
+879	Foote, Peter	800	130178118	800 FR SCM	13	11:37.35	11:37.35	B	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Thunderbird Aquatic Club	PN		200	32	m
+880	Chu, Sam	800	133350131	800 FR SCM	14	11:37.81	11:37.81	B	2018 PC LAMV 800SCM Invitational	9/30/2018	Los Altos & Mountain View A.C.	PC		134	32	m
+881	Welsh, Kyle	800	118213818	800 FR SCM	14	11:38.15	11:38.15	B	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		133	32	m
+882	Gray, Theron	800	120716360	800 FR SCM	15	11:38.43	11:33.43	Slower than B	2017 OR RACE Jay Rowan Open	7/9/2017	Klamath Basin Aquatic Sports, Inc.	OR		93	32	m
+883	Henderson, Josh	800	82260658	800 FR SCM	12	11:38.75	11:38.75	BB	2014 SD Optimist Swim Meet	1/17/2014	Brookings Swim Club	SD	Yes	346	32	m
+884	Kobos, William	800	114492829	800 FR SCM	14	11:39.13	11:39.13	B	2017 OK SwimTulsa New Years Invite	1/6/2017	SwimTulsa	OK		130	32	m
+885	Pfitzner, Karl	800	48609418	800 FR SCM	16	11:39.37	11:39.37	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		57	32	m
+886	Cossin, Dylan	800	95022033	800 FR SCM	11	11:39.52	11:39.52	BB	2015 LE HEAT Last Chance Meet	2/22/2015	Hudson Explorer Aquatic	LE		491	32	m
+887	Hartgrave, Jack	800	92442481	800 FR SCM	13	11:39.67	11:39.67	B	2015 OK SwimTulsa New Years Invitation	1/9/2015	SwimTulsa	OK		194	32	m
+888	Sundermann, Rylee	800	84231304	800 FR SCM	15	11:39.72	11:34.72	Slower than B	2014 SD Short Course State Cha	2/28/2014	Black Hills Gold Swimming	SD		90	32	m
+889	Garfield, Sean	800	57377978	800 FR SCM	15	11:40.04	11:35.04	Slower than B	2011 OR Jay Rowan Invitational -	7/8/2011	Oregon City Swim Team	OR		89	32	m
+890	Colloton, Connor	800	123879112	800 FR SCM	11	11:40.36	11:40.36	BB	2017 IN PPSC Fall Frenzy	11/11/2017	Springfield YMCA Swim Team	IL		488	32	m
+891	Biedenbach, Colton	800	48085798	800 FR SCM	13	11:40.81	11:30.81	B	2010 SR Elko High Altitude	6/26/2010	Magic Valley  Y Marlins	SR		191	32	m
+892	Chong, Nick	800	144597981	800 FR SCM	12	11:41.22	11:41.22	BB	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		339	32	m
+893	Little, Grigory	800	113881283	800 FR SCM	16	11:41.38	11:41.38	Slower than B	2016 SD Watertown Candy Cane	12/9/2016	Watertown Area Swim Club	SD		53	32	m
+894	Van Der Veur, Kris	800	99293940	800 FR SCM	12	11:41.61	11:41.61	BB	2015 NI - STSL East Distance 7-22	7/22/2015	Cortland YMCA Swim Team	NI		338	32	m
+895	Breeze, Brett	800	134376500	800 FR SCM	18	11:42.01	11:42.01	Slower than B	E&H vs. Milligan vs. WVU Tech	11/3/2018	Unattached	GA		49	32	m
+896	Antoine, Connor	800	94668398	800 FR SCM	16	11:42.08	11:42.08	Slower than B	2015 SD We Love Swimming Swim Mee	2/13/2015	Watertown Area Swim Club	SD		52	32	m
+897	Lim, Ryan	800	144598013	800 FR SCM	12	11:42.77	11:42.77	BB	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		334	32	m
+898	Aldrich, Dillon	800	53681237	800 FR SCM	14	11:42.80	11:42.80	B	2010 MD CATS-HUHU Dual Meet	11/13/2010	Carroll Aquatics Tiger Sharks	MD		122	32	m
+899	Mendel, Ike	800	84230656	800 FR SCM	13	11:42.84	11:37.84	B	2014 SD Short Course State Cha	2/28/2014	Sioux Falls Seals	SD		185	32	m
+900	Dash, Evan	800	143353739	800 FR SCM	11	11:42.98	11:42.98	BB	2019 AK Midnight Sun Invitational	6/21/2019	Ketchikan Killer Whales	AK		480	32	m
+901	Von Eper, Nicholas	800	130043421	800 FR SCM	13	11:43.27	11:43.27	Slower than B	2018 MI AP AQUA Summer Sprint	5/12/2018	Neptune Aquatic Club	MI		184	32	m
+902	Rice, Andrew	800	53327009	800 FR SCM	14	11:43.36	11:43.36	B	2011 AZ Ride the Wave 5th Annual Havas	1/29/2011	Swim Neptune	AZ		120	32	m
+903	Bennett, Adam	800	59967079	800 FR SCM	13	11:43.48	11:43.48	B	2011 WI MSS Fall Splash	11/19/2011	McFarland Spartan Sharks	WI		183	32	m
+904	Jackson, Clay	800	87692771	800 FR SCM	16	11:44.66	11:44.66	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		48	32	m
+905	Brown, Kaleb	800	87691009	800 FR SCM	15	11:44.70	11:44.70	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		80	32	m
+906	Miller, Logan	800	49843186	800 FR SCM	11	11:44.77	11:44.77	BB	2010 AZ Ingrid Kaleta Invite	10/16/2010	Anthem Dolphins	AZ		474	32	m
+907	Fister, Ben	800	115119358	800 FR SCM	11	11:44.93	11:44.93	BB	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	San Manuel Sea Lions	AZ		473	32	m
+908	Banaszewski, Matthew	800	109303914	800 FR SCM	14	11:45.09	11:45.09	Slower than B	2016 AK Midnight Sun Invitational 2016	6/24/2016	North Pole Aquatic Club	AK		116	32	m
+909	Hardy, Marik	800	107263537	800 FR SCM	11	11:45.23	11:45.23	BB	2016 PN NWAC Blue Heron Meet	5/1/2016	Bellingham Bay Swim Team	PN		472	32	m
+910	Jonkman, Gage	800	142985547	800 FR SCM	14	11:45.24	11:45.24	Slower than B	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		116	32	m
+911	Milner, Zach	800	48727506	800 FR SCM	13	11:45.55	11:35.55	B	2010 CO Montrose Summer Open	7/16/2010	Montrose Marlins Swim Club	CO		178	32	m
+912	Dickerson, Micah	800	148827257	800 FR SCM	15	11:45.88	11:45.88	Slower than B	2020 AZ HSST Ride the Wave 	1/24/2020	Mesa Aquatics Club	AZ		77	32	m
+913	Nichols, Cooper	800	130178462	800 FR SCM	14	11:46.35	11:46.35	Slower than B	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Thunderbird Aquatic Club	PN		113	32	m
+914	Hendricks, Tristin	800	123968482	800 FR SCM	14	11:46.52	11:41.52	Slower than B	2017 SD Black Hills Gold Invit	11/18/2017	Black Hills Gold Swimming	SD		113	32	m
+915	Kincaid, Amadeo	800	130025986	800 FR SCM	11	11:46.88	11:46.88	BB	2018 IN PPSC Spring Splash Invite	5/5/2018	Duneland Swim Club	IN		467	32	m
+916	Hilbert, Liam	800	61220649	800 FR SCM	13	11:47.07	11:47.07	B	2011 NI TTSC Winter Break meet 2011	12/26/2011	Town of Tonawanda Titans Swim Club	NI		174	32	m
+917	Brandner, Parker	800	45514858	800 FR SCM	12	11:47.61	11:47.61	BB	2010 SD Mitchell Aquatic Club Winter 	2/5/2010	Sioux Falls Snowfox	SD		320	32	m
+918	Pacini, Ren	800	98115541	800 FR SCM	13	11:47.68	11:37.68	Slower than B	2015 SR Elko High Altitude Invite	6/28/2015	Elko Swim Team	SR		172	32	m
+919	Rivas-Castro, Cesar	800	135138261	800 FR SCM	14	11:48.02	11:48.02	Slower than B	2018 NE PHX Distance and Speci	11/16/2018	Phoenix Swimming	NE		109	32	m
+920	Mussman, Thomas	800	143105316	800 FR SCM	16	11:48.08	11:48.08	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		42	32	m
+921	Arcidi, Andrew	800	47915814	800 FR SCM	14	11:48.11	11:48.11	B	2010 NE PST Distance Meet	6/26/2010	Portsmouth Swim Team	NE		109	32	m
+922	Clark, Dawson	800	87691348	800 FR SCM	15	11:49.08	11:49.08	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		71	32	m
+923	Chen, Eddie	800	110092654	800 FR SCM	13	11:49.43	11:49.43	Slower than B	2016 MA BGH We're Going the Distance!	6/4/2016	Pleasantville Aquatics	MA		167	32	m
+924	Carolan, Hudson	800	120198498	800 FR SCM	12	11:49.60	11:49.60	B	2017 IA VAC 56th Annual Vinton	6/25/2017	Vinton Aquatic Club Inc	IA		314	32	m
+925	Szulis, Luke	800	120816704	800 FR SCM	15	11:49.62	11:49.62	Slower than B	2017 NI - Keith Shields Invitational	6/10/2017	Newark Wahoos Swim Club	NI		70	32	m
+926	Gropp, Cole	800	109319756	800 FR SCM	13	11:49.66	11:34.66	Slower than B	2016 CO Durango Summer Invite	6/18/2016	Cortez Leopard Sharks	CO		167	32	m
+927	Gates, Cooper	800	143104399	800 FR SCM	14	11:49.74	11:49.74	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		105	32	m
+928	Smith, Zachary	800	45527239	800 FR SCM	12	11:50.84	11:50.84	BB	2010 SD Mitchell Aquatic Club Winter 	2/5/2010	Mitchell Aquatic Club	SD		310	32	m
+929	Anderson, Ryan	800	118213598	800 FR SCM	12	11:50.99	11:50.99	B	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		310	32	m
+930	Pedigo, Phane	800	87693957	800 FR SCM	15	11:51.19	11:51.19	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		67	32	m
+931	Mills, Jason	800	131645934	800 FR SCM	16	11:51.46	11:41.46	Slower than B	2018 SRS Elko High Altitude	6/24/2018	Elko Swim Team	SR		37	32	m
+932	Beachler, Gage	800	127820760	800 FR SCM	14	11:51.80	11:36.80	Slower than B	2018 WY KSC New Year's Resolution Splash	1/27/2018	Red Devil Aquatic Team	WY		101	32	m
+933	Erickson, Ethan	800	148827323	800 FR SCM	12	11:52.02	11:52.02	B	2020 AZ HSST Ride the Wave 	1/24/2020	San Manuel Sea Lions	AZ		307	32	m
+934	McIntosh, Jonathan	800	87280609	800 FR SCM	13	11:52.65	11:52.65	Slower than B	2014 AK Midnight Sun Invitational	6/27/2014	North Pole Aquatic Club	AK		159	32	m
+935	Estes, Spencer	800	48608661	800 FR SCM	16	11:52.66	11:52.66	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		35	32	m
+936	Schapp, Connor	800	51170234	800 FR SCM	12	11:52.91	11:52.91	BB	2010 OK SwimTulsa Relay Rally and Dist	9/25/2010	Boys & Girls Club of Tahlequah Stingrays	OK		304	32	m
+937	Carpio, Andres	800	110092652	800 FR SCM	11	11:53.96	11:53.96	B	2016 MA BGH We're Going the Distance!	6/4/2016	Pleasantville Aquatics	MA		445	32	m
+938	Woycehoski, Ethan	800	130594712	800 FR SCM	12	11:54.47	11:54.47	B	2018 MI AP AQUA vs LTF	6/2/2018	Unattached	MI		300	32	m
+939	Dwyer, Michael	800	115119326	800 FR SCM	14	11:54.69	11:54.69	Slower than B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	Mesa Aquatics Club	AZ		95	32	m
+940	Brehmer, Jacob	800	59967206	800 FR SCM	11	11:54.81	11:54.81	BB	2011 WI MSS Fall Splash	11/19/2011	DeForest Aquatic Club	WI		442	32	m
+941	Watkins, Jeffrey	800	62365989	800 FR SCM	15	11:54.93	11:54.93	Slower than B	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Kingman Dolphin Swim Team	AZ		60	32	m
+942	Niezgodzki, Mike	800	49843226	800 FR SCM	11	11:55.66	11:55.66	BB	2010 AZ Ingrid Kaleta Invite	10/16/2010	Swim Neptune	AZ		439	32	m
+943	Hess, Connor	800	48608958	800 FR SCM	15	11:56.85	11:56.85	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		56	32	m
+944	Welsh, Zach	800	118213823	800 FR SCM	12	11:56.97	11:56.97	B	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		293	32	m
+945	Marty, Nolan	800	59968758	800 FR SCM	11	11:57.35	11:57.35	BB	2011 WI MSS Fall Splash	11/19/2011	DeForest Aquatic Club	WI		434	32	m
+946	Koppel, Jonathan	800	49843059	800 FR SCM	12	12:00.54	12:00.54	BB	2010 AZ Ingrid Kaleta Invite	10/16/2010	Arizona Seals	AZ		283	32	m
+947	Rajewski, Ben	800	67058169	800 FR SCM	15	12:01.52	12:01.52	Slower than B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		48	32	m
+948	Crownover, Connor	800	143104073	800 FR SCM	17	12:02.47	12:02.47	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		18	32	m
+949	Kirkpatrick, Hayden	800	78034611	800 FR SCM	12	12:02.54	11:57.54	B	2013 OR Bend Open Indoor Meet	8/9/2013	Hillsboro Swim Team	OR		277	32	m
+950	Solomon, Tyler	800	57663931	800 FR SCM	14	12:02.77	12:02.77	Slower than B	2011 NI STSL East Distance Meet	7/13/2011	Waverly Aquatic Club	NI		78	32	m
+951	Bowlin, Christopher	800	65339937	800 FR SCM	13	12:02.91	12:02.91	Slower than B	2012 PN Spring Thunderbird	5/18/2012	Thunderbird Aquatic Club	PN		133	32	m
+951	Christensen, Nate	800	142755600	800 FR SCM	14	12:02.91	11:52.91	Slower than B	2019 SR Elko High Altitude	6/30/2019	Elko Swim Team	SR		77	32	m
+953	Evans, Drew	800	66373589	800 FR SCM	13	12:04.84	12:04.84	Slower than B	2012 WI MSS Summer Splash	6/23/2012	McFarland Spartan Sharks	WI		129	32	m
+954	Pereboom, Jacob	800	120800797	800 FR SCM	13	12:05.35	12:05.35	Slower than B	2017 SD Outdoor Swim Meet	7/5/2017	Webster Swim Team	SD		128	32	m
+955	Wallace, Scott	800	130262161	800 FR SCM	15	12:05.75	12:05.75	Slower than B	2018 MS  State Games of MS	5/18/2018	Vicksburg Swim Association Inc	MS		41	32	m
+956	Geist, Micah	800	65340335	800 FR SCM	14	12:05.88	12:05.88	Slower than B	2012 PN Spring Thunderbird	5/18/2012	North Whidbey Aquatic Club	PN		72	32	m
+957	Pratt, Shawn	800	109185654	800 FR SCM	13	12:06.35	12:06.35	Slower than B	2016 NI - STSL East Distance Meet	6/8/2016	Cortland YMCA Stingers	NI		125	32	m
+958	Salmen, Cooper	800	49843299	800 FR SCM	11	12:06.72	12:06.72	B	2010 AZ Ingrid Kaleta Invite	10/16/2010	Anthem Dolphins	AZ		405	32	m
+959	Nowakowski, Zak	800	120089305	800 FR SCM	13	12:06.82	12:06.82	Slower than B	2017 WI MSS Summer Splash	6/24/2017	DFAC Swimming	WI		124	32	m
+960	Plantz, Will	800	76806297	800 FR SCM	13	12:07.03	11:52.03	Slower than B	2013 CO Durango Summer Invite	6/22/2013	Telluride Swim Team	CO		124	32	m
+961	Haines, Nate	800	45509274	800 FR SCM	12	12:07.07	12:07.07	B	2010 AZ Anthem Last Chance 	2/27/2010	Swim Neptune	AZ		265	32	m
+962	Marshall, Ryder	800	143353913	800 FR SCM	12	12:08.54	12:08.54	B	2019 AK Midnight Sun Invitational	6/21/2019	Midnight Sun Swim Team	AK		261	32	m
+963	Myers, Bradley	800	50116036	800 FR SCM	16	12:08.99	12:08.99	Slower than B	2010 SE  BSC Pumpkin Patch Mixer	10/23/2010	Greene County Swim	SE		14	32	m
+964	Bigall, Elliot	800	144597978	800 FR SCM	11	12:09.16	12:09.16	B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		398	32	m
+965	James, Dalen	800	76806180	800 FR SCM	16	12:10.33	11:55.33	Slower than B	2013 CO Durango Summer Invite	6/22/2013	Four Corners Aquatic Team	NM		12	32	m
+966	Williams, Sean	800	87695420	800 FR SCM	15	12:10.64	12:10.64	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		34	32	m
+967	Wittnebel, Alex	800	120198966	800 FR SCM	12	12:11.04	12:11.04	B	2017 IA VAC 56th Annual Vinton	6/25/2017	Eastern Iowa Swim Federation	IA		254	32	m
+968	Digenan, Garrett	800	76667545	800 FR SCM	14	12:11.13	12:01.13	Slower than B	2013 SR Elko High Altitude In	6/29/2013	Elko Swim Team	SR		62	32	m
+969	Gao, Jeffrey	800	57663045	800 FR SCM	12	12:11.53	12:11.53	B	2011 NI STSL East Distance Meet	7/13/2011	Waverly Aquatic Club	NI		253	32	m
+970	Schreiner, Adam	800	148669087	800 FR SCM	12	12:12.85	12:12.85	B	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		249	32	m
+971	Krug, Cole	800	143104897	800 FR SCM	13	12:13.61	12:13.61	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		109	32	m
+972	Haselhorst, Charles	800	131960741	800 FR SCM	15	12:14.94	12:14.94	Slower than B	2018 SD Short Course Meter 	7/2/2018	Watertown Area Swim Club	SD		28	32	m
+973	Lauseng, Will	800	105996888	800 FR SCM	14	12:17.42	12:17.42	Slower than B	2016 SD WASC Qualifying Meet	2/21/2016	Watertown Area Swim Club	SD		51	32	m
+974	Moorehead, Gary	800	109185561	800 FR SCM	18	12:17.98	12:17.98	Slower than B	2016 NI - STSL East Distance Meet	6/8/2016	Waverly Aquatic Club	NI		4	32	m
+975	Lupi, Randall	800	69220673	800 FR SCM	11	12:18.69	12:18.69	B	2012 SE  BSC Pumpkin Patch Mix	10/27/2012	Unattached	SE		370	32	m
+976	Angelo, Daric	800	102484017	800 FR SCM	13	12:19.28	12:19.28	Slower than B	CYPS Fall Invitational	10/24/2015	Neptune Aquatic Club	MI		97	32	m
+977	Tovilla, Emilio	800	48609670	800 FR SCM	12	12:19.68	12:19.68	B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		231	32	m
+978	Gates, Kalob	800	143104411	800 FR SCM	14	12:19.91	12:19.91	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		47	32	m
+979	Stewart, Mason	800	115120061	800 FR SCM	11	12:20.12	12:20.12	B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	San Manuel Sea Lions	AZ		366	32	m
+980	Rieffenberger, Parker	800	94668997	800 FR SCM	14	12:21.17	12:21.17	Slower than B	2015 SD We Love Swimming Swim Mee	2/13/2015	Watertown Area Swim Club	SD		45	32	m
+981	Shields, Zebulun	800	109320184	800 FR SCM	13	12:21.40	12:06.40	Slower than B	2016 CO Durango Summer Invite	6/18/2016	Unattached	CO		92	32	m
+982	Bonick, Roshan	800	126275899	800 FR SCM	12	12:22.55	12:22.55	B	2018 WI OCSC Winter Hexathlon	1/19/2018	Unattached	WI		224	32	m
+983	Ward, Nolan	800	46980442	800 FR SCM	17	12:24.93	12:24.93	Slower than B	2010 PN Spring Thunderbird	5/14/2010	Tigersharks Swimming	PN		1	32	m
+984	Huckins, Aaron	800	87692690	800 FR SCM	15	12:26.67	12:26.67	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		14	32	m
+985	Gioffreda, Connor	800	123168512	800 FR SCM	18	12:27.80	12:27.80	Slower than B	Frostburg  Vs. Salisbury	11/4/2017	Unattached	MD		1	32	m
+986	Jasicki, Elliot	800	108322050	800 FR SCM	13	12:28.41	12:28.41	Slower than B	2016 IN PPSC School's Out for Summer 	6/3/2016	Michigan City Piranha Swim T.	IN		78	32	m
+987	Otero, Kaleb	800	143105407	800 FR SCM	13	12:28.91	12:28.91	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		77	32	m
+988	Calvin, Braden	800	67054425	800 FR SCM	12	12:29.15	12:29.15	B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		208	32	m
+989	Brungardt, Nathan	800	48608368	800 FR SCM	15	12:29.57	12:29.57	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		11	32	m
+990	Seemann, Justin	800	97519734	800 FR SCM	14	12:29.95	12:14.95	Slower than B	2015 WY Kemmerer School's Out Splash	5/30/2015	Sublette County Swim Team	WY		32	32	m
+991	Rumford, Chase	800	87694401	800 FR SCM	15	12:30.87	12:30.87	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		10	32	m
+992	Burnett, Matt	800	57662753	800 FR SCM	13	12:31.13	12:31.13	Slower than B	2011 NI STSL East Distance Meet	7/13/2011	Union Aquatic Club	NI		73	32	m
+993	Farthing, Ian	800	142984299	800 FR SCM	12	12:31.28	12:31.28	B	2019 MV BWST 5th Annual Platte	5/5/2019	Lawrence Aquahawks	MV		202	32	m
+994	Slack, Brandon	800	49214636	800 FR SCM	16	12:31.80	12:31.80	Slower than B	2010 NI STSL East Distance Meet	7/14/2010	Cortland YMCA Swim Team	NI		1	32	m
+995	Catalfamo, Jacob	800	62365239	800 FR SCM	12	12:31.81	12:31.81	B	2012 AZ Ride the Wave 6th Annual Havas	1/27/2012	Kingman Dolphin Swim Team	AZ		201	32	m
+996	Vargas, Edgar	800	133711663	800 FR SCM	32	12:34.13	12:34.13	Slower than B	2018 MS Trick or Treat Invitation	10/12/2018	Performance Elite Aquatics	MS		1	32	m
+997	Sokolov, Alex	800	56261482	800 FR SCM	12	12:34.57	12:34.57	B	2011 MW HG Quicksilver Start o	6/4/2011	Nebraska Aquatics	MW	Yes	194	32	m
+998	Boettcher, Austin	800	131960732	800 FR SCM	13	12:35.09	12:35.09	Slower than B	2018 SD Short Course Meter 	7/2/2018	Watertown Area Swim Club	SD		66	32	m
+999	Evans, Jaden	800	97911022	800 FR SCM	14	12:35.21	12:20.21	Slower than B	2015 CO Durango Summer Invite	6/20/2015	Telluride Swim Team	CO		25	32	m
+1000	Ray, Christopher	800	76288803	800 FR SCM	12	12:36.01	12:36.01	B	2013 AK Midnight Sun Invitational	6/14/2013	Glacier Swim Club	AK		191	32	m
+1001	Rowe, Alex	800	141172708	800 FR SCM	12	12:36.44	12:36.44	B	2019 MS State Games of MS	5/17/2019	Vicksburg Swim Association Inc	MS		190	32	m
+1002	Fister, Nate	800	115119367	800 FR SCM	14	12:37.68	12:37.68	Slower than B	2017 AZ Ride the Wave 11th Annual HSST	1/20/2017	San Manuel Sea Lions	AZ		22	32	m
+1003	McIntosh, Patrick	800	87280633	800 FR SCM	11	12:38.19	12:38.19	B	2014 AK Midnight Sun Invitational	6/27/2014	North Pole Aquatic Club	AK		315	32	m
+1004	Anderson, Keanan	800	119986967	800 FR SCM	17	12:38.36	12:23.36	Slower than B	2017 CO Durango Summer Invite	6/17/2017	Pagosa Lakes Porpoises	CO		1	32	m
+1005	Auduong, Dylan	800	142982607	800 FR SCM	11	12:38.40	12:38.40	B	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		314	32	m
+1006	Bernhardt, Hunter	800	57662684	800 FR SCM	11	12:38.94	12:38.94	B	2011 NI STSL East Distance Meet	7/13/2011	Cortland YMCA Swim Team	NI		313	32	m
+1007	Parker, Elijah	800	47743569	800 FR SCM	12	12:39.55	12:39.55	B	2010 MT Havre Great Northern 	6/19/2010	Peak Waves Swim Team	MT		183	32	m
+1008	Volkov, Sasha	800	144598031	800 FR SCM	15	12:40.18	12:40.18	Slower than B	2019 PC LAMV 800scm	9/29/2019	Los Altos & Mountain View A.C.	PC		3	32	m
+1009	Butler, Ethan	800	137879444	800 FR SCM	13	12:40.24	12:40.24	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		57	32	m
+1010	Cancino, Nicholas	800	69913397	800 FR SCM	14	12:40.58	12:40.58	Slower than B	2012 AZ Anthem November Invite	11/17/2012	Flagstaff Snow Sharks Inc	AZ		18	32	m
+1011	Raymer, Michael	800	87694167	800 FR SCM	17	12:44.16	12:44.16	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		1	32	m
+1012	Velasquez, Peter	800	75483261	800 FR SCM	15	12:44.26	12:44.26	Slower than B	2013 LE Beachwood/Shaker 	5/17/2013	French Creek Family YMCA Marlins	LE		1	32	m
+1013	Hong, Sanford	800	75482722	800 FR SCM	13	12:44.65	12:44.65	Slower than B	2013 LE Beachwood/Shaker 	5/17/2013	Beachwood Bison Swim Club	LE		49	32	m
+1014	Combs, Dominic	800	143104006	800 FR SCM	17	12:44.93	12:44.93	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		1	32	m
+1015	Casseday, Ryan	800	45509165	800 FR SCM	11	12:44.95	12:44.95	B	2010 AZ Anthem Last Chance 	2/27/2010	Anthem Dolphins	AZ		297	32	m
+1016	Brekke, Harmon	800	93326921	800 FR SCM	11	12:44.96	12:44.96	Slower than B	2015 AZ Ride the Wave 9th Annual Havas	1/9/2015	Arizona Aquatic Club	AZ		297	32	m
+1017	Coffer, Dalton	800	49392915	800 FR SCM	14	12:45.09	12:45.09	Slower than B	2010 NC Triangle Distance Seri	9/11/2010	Sanford Squids	NC		14	32	m
+1018	Atwood, Qiansunya	800	142755490	800 FR SCM	13	12:45.89	12:35.89	Slower than B	2019 SR Elko High Altitude	6/30/2019	Magic Valley Marlins	SR		47	32	m
+1019	Fast, Brandon	800	51963467	800 FR SCM	13	12:46.29	12:46.29	Slower than B	2010 Prince Rupert Regional Kick Off Swim Meet	10/22/2010	Southeast Alaska Swim Team	AK		47	32	m
+1020	Womble, Oaklee	800	143106543	800 FR SCM	12	12:47.05	12:47.05	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		165	32	m
+1021	Lesesne, Roby	800	49392920	800 FR SCM	12	12:47.54	12:47.54	B	2010 NC Triangle Distance Seri	9/11/2010	Watauga County Swim Team	NC		165	32	m
+1022	Serna, Alex	800	87694581	800 FR SCM	13	12:47.83	12:47.83	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		44	32	m
+1023	Rodriguez, Alex	800	143105685	800 FR SCM	12	12:48.67	12:48.67	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		162	32	m
+1024	Greenough, Joe	800	50029097	800 FR SCM	13	12:48.93	12:48.93	Slower than B	2010 Ryan Downing Memorial Swi	10/22/2010	Glacier Swim Club	AK		43	32	m
+1025	Boehmer, Jordan	800	48608294	800 FR SCM	16	12:49.37	12:49.37	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1026	Daniel, Brady	800	87691565	800 FR SCM	13	12:50.22	12:50.22	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		41	32	m
+1027	Vertz, Kevin	800	109304558	800 FR SCM	13	12:52.05	12:52.05	Slower than B	2016 AK Midnight Sun Invitational 2016	6/24/2016	Unattached	AK		38	32	m
+1028	Busskohl, Bodee	800	127820774	800 FR SCM	13	12:53.52	12:38.52	Slower than B	2018 WY KSC New Year's Resolution Splash	1/27/2018	Unattached	WY		36	32	m
+1029	Sulaiman, Joseph	800	54475286	800 FR SCM	15	12:53.73	12:53.73	Slower than B	2011 SD B/C Championship	2/25/2011	Sioux Falls Seals	SD		1	32	m
+1030	Bown, Austin	800	76667454	800 FR SCM	12	12:54.00	12:44.00	Slower than B	2013 SR Elko High Altitude In	6/29/2013	Boise YMCA Swim Team	SR		150	32	m
+1031	Slesk, Joey	800	130178639	800 FR SCM	13	12:55.09	12:55.09	Slower than B	2018 PN TAC 42nd Annual Spring Thunderbird	5/18/2018	Bellingham Bay Swim Team	PN		34	32	m
+1032	James, Ashton	800	143104734	800 FR SCM	14	12:56.29	12:56.29	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		4	32	m
+1033	Ritts, Benjamin	800	75483024	800 FR SCM	12	12:56.34	12:56.34	Slower than B	2013 LE Beachwood/Shaker 	5/17/2013	Shaker Sharks	LE		145	32	m
+1034	Cancino, Alister	800	69913391	800 FR SCM	13	12:57.19	12:57.19	Slower than B	2012 AZ Anthem November Invite	11/17/2012	Flagstaff Snow Sharks Inc	AZ		31	32	m
+1035	Carney, Laith	800	130075843	800 FR SCM	13	12:59.47	12:59.47	Slower than B	2018 MV BWST 4th Annual Platte	5/6/2018	Fort Leavenworth Lancers	MV		28	32	m
+1036	Dow, Jalen	800	107845401	800 FR SCM	14	12:59.79	12:44.79	Slower than B	2016 WY KSC School's Out Splash	5/14/2016	Jackson Hole Stingray Swim Tm.	WY		2	32	m
+1037	Boni, Lucas	800	49842627	800 FR SCM	11	13:00.13	13:00.13	Slower than B	2010 AZ Ingrid Kaleta Invite	10/16/2010	Anthem Dolphins	AZ	Yes	257	32	m
+1038	Butler, Will	800	87691141	800 FR SCM	14	13:01.36	13:01.36	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		1	32	m
+1039	Czeck, Eliot	800	78032814	800 FR SCM	14	13:01.64	12:56.64	Slower than B	2013 OR Bend Open Indoor Meet	8/9/2013	Hillsboro Swim Team	OR		1	32	m
+1040	Brown, Jt	800	67054258	800 FR SCM	17	13:02.71	13:02.71	Slower than B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		1	32	m
+1041	Kennedy, Kasey	800	143104826	800 FR SCM	13	13:02.87	13:02.87	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		24	32	m
+1042	Grunder, Karl	800	57663146	800 FR SCM	12	13:04.33	13:04.33	Slower than B	2011 NI STSL East Distance Meet	7/13/2011	Chenango Valley Swim Club	NI		128	32	m
+1043	Conde, Nathaniel	800	87691397	800 FR SCM	13	13:04.41	13:04.41	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		22	32	m
+1044	Carson, Seth	800	48608428	800 FR SCM	15	13:04.66	13:04.66	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1045	Girello, Sebastien	800	137879643	800 FR SCM	11	13:04.85	13:04.85	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	Havasu Stingrays Swim Team	AZ		246	32	m
+1046	Rose, Max	800	72800724	800 FR SCM	14	13:04.92	13:04.92	Slower than B	2013 AZ Ride the Wave 7th Annual Havas	1/25/2013	Kingman Dolphin Swim Team	AZ		1	32	m
+1047	Holler, Matthew	800	93301593	800 FR SCM	13	13:05.01	13:05.01	Slower than B	2015 SD Optimist Swim Meet	1/16/2015	Brookings Swim Club	SD	Yes	21	32	m
+1048	Martinez, Jesse	800	87693301	800 FR SCM	13	13:05.31	13:05.31	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		21	32	m
+1049	Schafer, Aaron	800	87694505	800 FR SCM	13	13:05.50	13:05.50	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		21	32	m
+1050	Panzer, Isaac	800	87693857	800 FR SCM	14	13:05.61	13:05.61	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		1	32	m
+1051	Ness, Carson	800	107845963	800 FR SCM	13	13:06.09	12:51.09	Slower than B	2016 WY KSC School's Out Splash	5/14/2016	Sublette County Swim Team	WY		20	32	m
+1052	Cotto, Joseph	800	67054704	800 FR SCM	17	13:06.70	13:06.70	Slower than B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		1	32	m
+1053	Komadina, Marco	800	55380133	800 FR SCM	13	13:07.01	12:52.01	Slower than B	2011 AZ Kickn' in the Pines	4/15/2011	Red Peaks Aquatic Club	AZ		19	32	m
+1054	Tarango, Jose	800	143106157	800 FR SCM	12	13:08.17	13:08.17	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		121	32	m
+1055	James, Rory	800	143104737	800 FR SCM	14	13:09.22	13:09.22	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		1	32	m
+1056	Hein, Josiah	800	47307273	800 FR SCM	11	13:10.30	13:10.30	Slower than B	2010 MW HG Start of Summer	6/5/2010	Hastings Y Aquatic Club	MW		232	32	m
+1057	Reich, Joseph	800	69913746	800 FR SCM	12	13:10.31	13:10.31	Slower than B	2012 AZ Anthem November Invite	11/17/2012	Flagstaff Snow Sharks Inc	AZ		116	32	m
+1058	Ricker, Waylon	800	143105619	800 FR SCM	12	13:10.75	13:10.75	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		116	32	m
+1059	Cox, Tyler	800	137879529	800 FR SCM	11	13:12.57	13:12.57	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	Anthem Dolphins	AZ		227	32	m
+1060	Sumrow, Clay	800	143106123	800 FR SCM	13	13:12.81	13:12.81	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		13	32	m
+1061	Ahrens, Wyatt	800	72799689	800 FR SCM	13	13:13.42	13:13.42	Slower than B	2013 AZ Ride the Wave 7th Annual Havas	1/25/2013	Havasu Stingrays Swim Team	AZ		13	32	m
+1062	Boulware, Thomas	800	93301404	800 FR SCM	13	13:13.47	13:13.47	Slower than B	2015 SD Optimist Swim Meet	1/16/2015	Brookings Swim Club	SD		12	32	m
+1063	Connally, Josh	800	107111935	800 FR SCM	12	13:13.54	13:13.54	Slower than B	2016 MV BWST 2nd Annual Platte	4/24/2016	Pony Express Swim Team	MV		110	32	m
+1064	Ball, Matthew	800	53681301	800 FR SCM	14	13:13.72	13:13.72	Slower than B	2010 MD CATS-HUHU Dual Meet	11/13/2010	Carroll Aquatics Tiger Sharks	MD		1	32	m
+1065	Judd, Joshua	800	118213676	800 FR SCM	14	13:14.27	13:14.27	Slower than B	2017 AZ AD Freestyle Challenge	4/9/2017	Anthem Dolphins	AZ		1	32	m
+1066	Thomas, Camden	800	119987441	800 FR SCM	13	13:15.28	13:00.28	Slower than B	2017 CO Durango Summer Invite	6/17/2017	Telluride Swim Team	CO		11	32	m
+1067	Kilgo, Berr	800	56629732	800 FR SCM	12	13:15.74	13:00.74	Slower than B	2011 CO Ouray Swim Meet	6/18/2011	Durango Swim Club	CO		106	32	m
+1068	Belsher, Gavin	800	109633905	800 FR SCM	14	13:15.95	13:05.95	Slower than B	2016 SRS Elko High Altitude	6/26/2016	Elko Swim Team	SR		1	32	m
+1069	Rowan, Hudson	800	76735387	800 FR SCM	12	13:16.92	13:01.92	Slower than B	2013 CO Ouray Swim Meet	6/15/2013	Unattached	CO		104	32	m
+1070	Mangels, Tyler	800	67056540	800 FR SCM	13	13:18.97	13:18.97	Slower than B	2012 MV WKSC Combined Champion	7/14/2012	Western Kansas Swim Club	MV		8	32	m
+1071	Short, Aiden	800	86174573	800 FR SCM	12	13:20.19	13:20.19	Slower than B	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		98	32	m
+1072	Ohm, Gabe	800	54474506	800 FR SCM	15	13:22.04	13:22.04	Slower than B	2011 SD B/C Championship	2/25/2011	Watertown Area Swim Club	SD		1	32	m
+1073	Ward, Evan	800	130043429	800 FR SCM	14	13:22.12	13:22.12	Slower than B	2018 MI AP AQUA Summer Sprint	5/12/2018	Hartland Hurricanes Swim Club	MI		1	32	m
+1074	Keeler, Justin	800	143104797	800 FR SCM	11	13:23.14	13:23.14	Slower than B	2019 MV WKSC Combined Meet	7/13/2019	Western Kansas Swim Club	MV		202	32	m
+1075	Romancier, Zack	800	57381137	800 FR SCM	12	13:23.23	13:18.23	Slower than B	2011 OR Jay Rowan Invitational -	7/8/2011	Albany Aquatic Association	OR		92	32	m
+1076	Ferguson, Brad	800	48608702	800 FR SCM	12	13:24.38	13:24.38	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		90	32	m
+1077	Bystrom, Spencer	800	75482515	800 FR SCM	11	13:24.48	13:24.48	Slower than B	2013 LE Beachwood/Shaker 	5/17/2013	Beachwood Bison Swim Club	LE		199	32	m
+1078	Jaraczeski, Luke	800	86123413	800 FR SCM	11	13:26.88	13:26.88	Slower than B	2014 MT HAV June Dual Meet	5/31/2014	Great Falls Swim Team	MT		194	32	m
+1079	Kinsey, Dallin	800	137879848	800 FR SCM	15	13:27.86	13:27.86	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		1	32	m
+1080	Fong, Chris	800	144597985	800 FR SCM	16	13:27.91	13:27.91	Slower than B	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		1	32	m
+1081	Dewald, Gabriel	800	126275992	800 FR SCM	11	13:28.41	13:28.41	Slower than B	2018 WI OCSC Winter Hexathlon	1/19/2018	Oregon Community Swim Club	WI		190	32	m
+1082	Walker, Sean	800	109185857	800 FR SCM	14	13:28.58	13:28.58	Slower than B	2016 NI - STSL East Distance Meet	6/8/2016	Waverly Aquatic Club	NI		1	32	m
+1083	Palmer, Dawson	800	109185616	800 FR SCM	13	13:29.14	13:29.14	Slower than B	2016 NI - STSL East Distance Meet	6/8/2016	Chenango Valley Swim Club	NI		2	32	m
+1084	Ramos, Treyson	800	50029219	800 FR SCM	12	13:29.55	13:29.55	Slower than B	2010 Ryan Downing Memorial Swi	10/22/2010	Glacier Swim Club	AK		81	32	m
+1085	Alluise, Kenneth	800	75429715	800 FR SCM	13	13:29.60	13:29.60	Slower than B	2013 PN Spring Thunderbird	5/17/2013	Thunderbird Aquatic Club	PN		1	32	m
+1086	Iman, Seph	800	48609018	800 FR SCM	16	13:31.15	13:31.15	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1087	Clark, Travis	800	49214567	800 FR SCM	13	13:31.90	13:31.90	Slower than B	2010 NI STSL East Distance Meet	7/14/2010	Cortland YMCA Swim Team	NI		1	32	m
+1088	Kitko, Ren	800	97232624	800 FR SCM	11	13:32.97	13:32.97	Slower than B	2015 MS State Games of MS	6/5/2015	Swim Columbus	MS		180	32	m
+1089	Crownover, Cole	800	87691505	800 FR SCM	14	13:33.32	13:33.32	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		1	32	m
+1090	Cook, Ben	800	102993726	800 FR SCM	12	13:33.74	13:18.74	Slower than B	2015 WY Kemmerer St. Nick Splash	12/19/2015	Red Devil Aquatic Team	WY		74	32	m
+1091	Marsh, Zack	800	103562683	800 FR SCM	17	13:34.71	13:34.71	Slower than B	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Swim Neptune	AZ		1	32	m
+1092	Berg, Erik	800	63054651	800 FR SCM	14	13:35.19	13:35.19	Slower than B	2012 IL LFSC Rising Star Chall	2/19/2012	Lake Forest Swim Club	IL		1	32	m
+1093	Hoang, Tyler	800	110092679	800 FR SCM	12	13:35.60	13:35.60	Slower than B	2016 MA BGH We're Going the Distance!	6/4/2016	Pleasantville Aquatics	MA		71	32	m
+1094	Wang, Bryen	800	144598038	800 FR SCM	14	13:36.61	13:36.61	Slower than B	2019 PC LAMV 800scm	9/29/2019	South San Francisco Aquatics	PC		1	32	m
+1095	Taylor, Jacob	800	98116817	800 FR SCM	13	13:37.68	13:27.68	Slower than B	2015 SR Elko High Altitude Invite	6/28/2015	Elko Swim Team	SR		1	32	m
+1096	Corcoran, Thomas	800	148669033	800 FR SCM	11	13:38.20	13:38.20	Slower than B	2020 MA SEA Distance	1/26/2020	Egg Harbor Twp Seahawks	MA		169	32	m
+1097	Lane, Martin	800	99293631	800 FR SCM	55	13:39.30	13:39.30	Slower than B	2015 NI - STSL East Distance 7-22	7/22/2015	Waverly Aquatic Club	NI		1	32	m
+1098	Skubisz, Aidan	800	137880207	800 FR SCM	12	13:39.55	13:39.55	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	Arizona Seals	AZ		65	32	m
+1099	Brower, Josh	800	109304004	800 FR SCM	11	13:40.97	13:40.97	Slower than B	2016 AK Midnight Sun Invitational 2016	6/24/2016	Knik Aquatics	AK		163	32	m
+1100	Baier, Matt	800	137879382	800 FR SCM	11	13:43.38	13:43.38	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	Arizona Seals	AZ		158	32	m
+1101	Phan, Lam	800	110092691	800 FR SCM	12	13:44.31	13:44.31	Slower than B	2016 MA BGH We're Going the Distance!	6/4/2016	Pleasantville Aquatics	MA		58	32	m
+1102	Dusek, Ryan	800	137879593	800 FR SCM	12	13:44.71	13:44.71	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		57	32	m
+1103	Light, Bryce	800	142986148	800 FR SCM	11	13:45.33	13:45.33	Slower than B	2019 MV BWST 5th Annual Platte	5/5/2019	KC Blue Wave Swim Team	MV		154	32	m
+1104	Abebe, Natu	800	78031555	800 FR SCM	12	13:46.05	13:41.05	Slower than B	2013 OR Bend Open Indoor Meet	8/9/2013	Hillsboro Swim Team	OR		55	32	m
+1105	Whitley, Brandon	800	57664050	800 FR SCM	13	13:53.80	13:53.80	Slower than B	2011 NI STSL East Distance Meet	7/13/2011	Waverly Aquatic Club	NI		1	32	m
+1106	Rodman, Tyler	800	48609490	800 FR SCM	11	13:53.82	13:53.82	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		137	32	m
+1107	Davenport, Ethan	800	56430439	800 FR SCM	13	13:54.16	13:54.16	Slower than B	2011 IN PPSC IMXtreme Challenge	6/10/2011	Portage Porpoise Swim Club	IN		1	32	m
+1108	Jones, Rayden	800	48401125	800 FR SCM	15	14:00.58	13:45.58	Slower than B	2010 CO Ouray Swim Meet	6/19/2010	Delta Barracudas Swim Team	CO		1	32	m
+1109	Baumgarten, Bryce	800	76735123	800 FR SCM	12	14:01.49	13:46.49	Slower than B	2013 CO Ouray Swim Meet	6/15/2013	Four Corners Aquatic Team - Towaoc	CO		35	32	m
+1110	Rivera, Caleb	800	131419242	800 FR SCM	13	14:05.49	14:05.49	Slower than B	2018 IA VAC 57th Annual Vinton	6/24/2018	Vinton Aquatic Club Inc	IA		1	32	m
+1111	Francisco, Tyler	800	48608752	800 FR SCM	14	14:06.98	14:06.98	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1112	Farrar, Lane	800	48608683	800 FR SCM	11	14:08.39	14:08.39	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		110	32	m
+1113	Jordan, Jack	800	90623794	800 FR SCM	11	14:12.08	14:02.08	Slower than B	2014 CO Montrose Marlins Fall	11/1/2014	Maverick Aquatics	CO		103	32	m
+1114	Noble, James	800	65566489	800 FR SCM	14	14:13.48	14:13.48	Slower than B	2012 MW HG Quicksilver Start o	6/1/2012	Grand Island YMCA Quicksilver	MW		1	32	m
+1115	Coleman, Wyatt	800	137879495	800 FR SCM	13	14:13.61	14:13.61	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		1	32	m
+1116	Moreno, Andrew	800	137880008	800 FR SCM	15	14:17.66	14:17.66	Slower than B	2019 AZ HSST Ride the Wave 	1/25/2019	AquaForce	AZ		1	32	m
+1117	Jurkuta, Alex	800	126276213	800 FR SCM	12	14:19.59	14:19.59	Slower than B	2018 WI OCSC Winter Hexathlon	1/19/2018	DFAC Swimming	WI		16	32	m
+1118	Stark, Austin	800	48609606	800 FR SCM	16	14:19.96	14:19.96	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1119	Kelly, Matthew	800	51963508	800 FR SCM	13	14:20.88	14:20.88	Slower than B	2010 Prince Rupert Regional Kick Off Swim Meet	10/22/2010	Southeast Alaska Swim Team	AK		1	32	m
+1120	Lower, Riley	800	51170224	800 FR SCM	12	14:21.09	14:21.09	Slower than B	2010 OK SwimTulsa Relay Rally and Dist	9/25/2010	SwimTulsa	OK		15	32	m
+1121	Butler, Bo	800	87691115	800 FR SCM	12	14:32.15	14:32.15	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		6	32	m
+1122	Carll, Mac	800	126843069	800 FR SCM	11	14:35.42	14:35.42	Slower than B	2018 AZ HSST Winter Challenge	1/19/2018	AquaForce	AZ		66	32	m
+1123	Holland, Trevor	800	56261245	800 FR SCM	12	14:40.46	14:40.46	Slower than B	2011 MW HG Quicksilver Start o	6/4/2011	Nebraska Aquatics	MW		2	32	m
+1124	Smith, Darebear	800	127820998	800 FR SCM	13	14:44.20	14:29.20	Slower than B	2018 WY KSC New Year's Resolution Splash	1/27/2018	Kemmerer Swim Club	WY		1	32	m
+1125	Jones, Noah	800	145135805	800 FR SCM	11	14:45.54	14:45.54	Slower than B	2019 MS MSA Trick or Treat Invitationa	10/12/2019	Vicksburg Swim Association Inc	MS		52	32	m
+1126	Corporon, Brandon	800	51963446	800 FR SCM	11	14:51.14	14:51.14	Slower than B	2010 Prince Rupert Regional Kick Off Swim Meet	10/22/2010	Southeast Alaska Swim Team	AK		45	32	m
+1127	Drew, Elijah	800	87691727	800 FR SCM	16	15:00.17	15:00.17	Slower than B	2014 MV WKSC Combined Champion	7/12/2014	Western Kansas Swim Club	MV		1	32	m
+1128	Scott, Zac	800	48609550	800 FR SCM	14	15:03.24	15:03.24	Slower than B	2010 MV WKSC Combined Champion	7/17/2010	Western Kansas Swim Club	MV		1	32	m
+1129	Delong, Luke	800	86174381	800 FR SCM	15	15:09.58	15:09.58	Slower than B	2014 IL SBD Invitational	6/1/2014	Sullivan Blue Dolphins	IL		1	32	m
+1130	Phillips, Corden	800	97884521	800 FR SCM	13	15:12.19	15:02.19	Slower than B	2015 WY Casper Dolphin Summer Challenge	6/6/2015	Converse County Waves	WY		1	32	m
+1131	Fast Horse, Jared	800	103562336	800 FR SCM	11	15:41.92	15:41.92	Slower than B	2016 AZ Ride the Wave 10th Annual Hava	1/8/2016	Swim Neptune	AZ		2	32	m
+1132	Beers, Matthew	800	99293354	800 FR SCM	14	16:16.59	16:16.59	Slower than B	2015 NI - STSL East Distance 7-22	7/22/2015	Waverly Aquatic Club	NI		1	32	m
+1133	Killian, Camden	800	127820891	800 FR SCM	12	16:35.90	16:20.90	Slower than B	2018 WY KSC New Year's Resolution Splash	1/27/2018	Kemmerer Swim Club	WY		1	32	m
+1134	Killian, Grady	800	107845630	800 FR SCM	14	17:14.14	16:59.14	Slower than B	2016 WY KSC School's Out Splash	5/14/2016	Kemmerer Swim Club	WY		1	32	m
+1135	Lever, Gavin	800	75482846	800 FR SCM	12	18:06.17	18:06.17	Slower than B	2013 LE Beachwood/Shaker 	5/17/2013	Beachwood Bison Swim Club	LE		1	32	m
